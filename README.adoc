@@ -1,0 +1,5 @@
+= XSF Publications Bibliographic data for Relaton-XSF
+
+The Relaton-XSF project is a part of the Relaton project. It is a set of tools for processing bibliographic data in XML format. The project is hosted on GitHub.
+
+The data source is https://xmpp.org/extensions/refs/.
