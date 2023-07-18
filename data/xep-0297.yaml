@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0297
+title:
+- content: Stanza Forwarding
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0297.html
+  type: src
+type: standard
+docid:
+- id: XEP 0297
+  type: XEP
+  primary: true
+- id: XEP-0297
+  type: XEP
+  scope: anchor
+docnumber: XEP-0297
+date:
+- type: published
+  value: '2013-10-02'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Wild
+        language:
+        - en
+      completename:
+        content: Matthew Wild
+        language:
+        - en
+    contact:
+    - email: mwild1@gmail.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Smith
+        language:
+        - en
+      completename:
+        content: Kevin Smith
+        language:
+        - en
+    contact:
+    - email: kevin@kismith.co.uk
+  role:
+  - type: author
+revdate: '2013-10-02'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0297'
+doctype: rfc

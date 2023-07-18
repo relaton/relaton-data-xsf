@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0311
+title:
+- content: MUC Fast Reconnect
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0311.html
+  type: src
+type: standard
+docid:
+- id: XEP 0311
+  type: XEP
+  primary: true
+- id: XEP-0311
+  type: XEP
+  scope: anchor
+docnumber: XEP-0311
+date:
+- type: published
+  value: '2012-01-25'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Smith
+        language:
+        - en
+      completename:
+        content: Kevin Smith
+        language:
+        - en
+    contact:
+    - email: kevin.smith@isode.com
+  role:
+  - type: author
+revdate: '2012-01-25'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0311'
+doctype: rfc

@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0214
+title:
+- content: File Repository and Sharing
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0214.html
+  type: src
+type: standard
+docid:
+- id: XEP 0214
+  type: XEP
+  primary: true
+- id: XEP-0214
+  type: XEP
+  scope: anchor
+docnumber: XEP-0214
+date:
+- type: published
+  value: '2022-03-22'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: N
+        formatted_initials:
+          content: N.
+          language:
+          - en
+      surname:
+        content: Parker
+        language:
+        - en
+      completename:
+        content: Nicholas Parker
+        language:
+        - en
+    contact:
+    - email: nickbp@gmail.com
+  role:
+  - type: author
+revdate: '2022-03-22'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0214'
+doctype: rfc

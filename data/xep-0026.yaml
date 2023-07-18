@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0026
+title:
+- content: Internationalization (I18N)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0026.html
+  type: src
+type: standard
+docid:
+- id: XEP 0026
+  type: XEP
+  primary: true
+- id: XEP-0026
+  type: XEP
+  scope: anchor
+docnumber: XEP-0026
+date:
+- type: published
+  value: '2003-11-05'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Horn
+        language:
+        - en
+      completename:
+        content: Max Horn
+        language:
+        - en
+    contact:
+    - email: max@quendi.de
+  role:
+  - type: author
+revdate: '2003-11-05'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0026'
+doctype: rfc

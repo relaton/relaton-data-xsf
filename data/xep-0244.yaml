@@ -1,0 +1,157 @@
+---
+schema-version: v1.2.3
+id: XEP0244
+title:
+- content: IO Data
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0244.html
+  type: src
+type: standard
+docid:
+- id: XEP 0244
+  type: XEP
+  primary: true
+- id: XEP-0244
+  type: XEP
+  scope: anchor
+docnumber: XEP-0244
+date:
+- type: published
+  value: '2008-06-18'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Wagener
+        language:
+        - en
+      completename:
+        content: Johannes Wagener
+        language:
+        - en
+    contact:
+    - email: johannes.wagener@med.uni-muenchen.de
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+      surname:
+        content: Willighagen
+        language:
+        - en
+      completename:
+        content: Egon Willighagen
+        language:
+        - en
+    contact:
+    - email: egonw@users.sf.net
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+      surname:
+        content: Heusler
+        language:
+        - en
+      completename:
+        content: Andreas Heusler
+        language:
+        - en
+    contact:
+    - email: aheusler@in.tum.de
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Markmann
+        language:
+        - en
+      completename:
+        content: Tobias Markmann
+        language:
+        - en
+    contact:
+    - email: tm@ayena.de
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: O
+        formatted_initials:
+          content: O.
+          language:
+          - en
+      surname:
+        content: Spjuth
+        language:
+        - en
+      completename:
+        content: Ola Spjuth
+        language:
+        - en
+    contact:
+    - email: ola.spjuth@farmbio.uu.se
+  role:
+  - type: author
+revdate: '2008-06-18'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0244'
+doctype: rfc

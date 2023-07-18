@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0255
+title:
+- content: Location Query
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0255.html
+  type: src
+type: standard
+docid:
+- id: XEP 0255
+  type: XEP
+  primary: true
+- id: XEP-0255
+  type: XEP
+  scope: anchor
+docnumber: XEP-0255
+date:
+- type: published
+  value: '2018-11-03'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: H
+        formatted_initials:
+          content: H.
+          language:
+          - en
+      surname:
+        content: Timenes
+        language:
+        - en
+      completename:
+        content: Helge Timenes
+        language:
+        - en
+    contact:
+    - email: helge@buddycloud.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: Tennant
+        language:
+        - en
+      completename:
+        content: Simon Tennant
+        language:
+        - en
+    contact:
+    - email: simon@buddycloud.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+      surname:
+        content: Savage
+        language:
+        - en
+      completename:
+        content: Ross Savage
+        language:
+        - en
+    contact:
+    - email: ross@buddycloud.com
+  role:
+  - type: author
+revdate: '2018-11-03'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0255'
+doctype: rfc

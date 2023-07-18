@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0099
+title:
+- content: IQ Query Action Protocol
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0099.html
+  type: src
+type: standard
+docid:
+- id: XEP 0099
+  type: XEP
+  primary: true
+- id: XEP-0099
+  type: XEP
+  scope: anchor
+docnumber: XEP-0099
+date:
+- type: published
+  value: '2018-11-03'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: I
+        formatted_initials:
+          content: I.
+          language:
+          - en
+      surname:
+        content: Shigeoka
+        language:
+        - en
+      completename:
+        content: Iain Shigeoka
+        language:
+        - en
+    contact:
+    - email: iain@jivesoftware.com
+  role:
+  - type: author
+revdate: '2018-11-03'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0099'
+doctype: rfc

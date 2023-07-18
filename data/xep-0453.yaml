@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0453
+title:
+- content: DOAP usage in XMPP
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0453.html
+  type: src
+type: standard
+docid:
+- id: XEP 0453
+  type: XEP
+  primary: true
+- id: XEP-0453
+  type: XEP
+  scope: anchor
+docnumber: XEP-0453
+date:
+- type: published
+  value: '2024-07-04'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+      surname:
+        content: Peyrot
+        language:
+        - en
+      completename:
+        content: Emmanuel Gil Peyrot
+        language:
+        - en
+    contact:
+    - email: linkmauve@linkmauve.fr
+  role:
+  - type: author
+revdate: '2024-07-04'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0453'
+doctype: rfc

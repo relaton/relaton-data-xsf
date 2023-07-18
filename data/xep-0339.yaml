@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0339
+title:
+- content: Source-Specific Media Attributes in Jingle
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0339.html
+  type: src
+type: standard
+docid:
+- id: XEP 0339
+  type: XEP
+  primary: true
+- id: XEP-0339
+  type: XEP
+  scope: anchor
+docnumber: XEP-0339
+date:
+- type: published
+  value: '2021-10-23'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Hancke
+        language:
+        - en
+      completename:
+        content: Philipp Hancke
+        language:
+        - en
+    contact:
+    - email: fippo@andyet.com
+  role:
+  - type: author
+revdate: '2021-10-23'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0339'
+doctype: rfc

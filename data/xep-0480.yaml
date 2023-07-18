@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0480
+title:
+- content: SASL Upgrade Tasks
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0480.html
+  type: src
+type: standard
+docid:
+- id: XEP 0480
+  type: XEP
+  primary: true
+- id: XEP-0480
+  type: XEP
+  scope: anchor
+docnumber: XEP-0480
+date:
+- type: published
+  value: '2023-05-04'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Molitor
+        language:
+        - en
+      completename:
+        content: Thilo Molitor
+        language:
+        - en
+    contact:
+    - email: thilo+xmpp@eightysoft.de
+  role:
+  - type: author
+revdate: '2023-05-04'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0480'
+doctype: rfc

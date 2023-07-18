@@ -1,0 +1,969 @@
+---
+- :id: XEP 0001
+  :file: data/xep-0001.yaml
+- :id: XEP 0002
+  :file: data/xep-0002.yaml
+- :id: XEP 0003
+  :file: data/xep-0003.yaml
+- :id: XEP 0004
+  :file: data/xep-0004.yaml
+- :id: XEP 0005
+  :file: data/xep-0005.yaml
+- :id: XEP 0006
+  :file: data/xep-0006.yaml
+- :id: XEP 0007
+  :file: data/xep-0007.yaml
+- :id: XEP 0008
+  :file: data/xep-0008.yaml
+- :id: XEP 0009
+  :file: data/xep-0009.yaml
+- :id: XEP 0010
+  :file: data/xep-0010.yaml
+- :id: XEP 0011
+  :file: data/xep-0011.yaml
+- :id: XEP 0012
+  :file: data/xep-0012.yaml
+- :id: XEP 0013
+  :file: data/xep-0013.yaml
+- :id: XEP 0014
+  :file: data/xep-0014.yaml
+- :id: XEP 0015
+  :file: data/xep-0015.yaml
+- :id: XEP 0016
+  :file: data/xep-0016.yaml
+- :id: XEP 0017
+  :file: data/xep-0017.yaml
+- :id: XEP 0018
+  :file: data/xep-0018.yaml
+- :id: XEP 0019
+  :file: data/xep-0019.yaml
+- :id: XEP 0020
+  :file: data/xep-0020.yaml
+- :id: XEP 0021
+  :file: data/xep-0021.yaml
+- :id: XEP 0022
+  :file: data/xep-0022.yaml
+- :id: XEP 0023
+  :file: data/xep-0023.yaml
+- :id: XEP 0024
+  :file: data/xep-0024.yaml
+- :id: XEP 0025
+  :file: data/xep-0025.yaml
+- :id: XEP 0026
+  :file: data/xep-0026.yaml
+- :id: XEP 0027
+  :file: data/xep-0027.yaml
+- :id: XEP 0028
+  :file: data/xep-0028.yaml
+- :id: XEP 0029
+  :file: data/xep-0029.yaml
+- :id: XEP 0030
+  :file: data/xep-0030.yaml
+- :id: XEP 0031
+  :file: data/xep-0031.yaml
+- :id: XEP 0032
+  :file: data/xep-0032.yaml
+- :id: XEP 0033
+  :file: data/xep-0033.yaml
+- :id: XEP 0034
+  :file: data/xep-0034.yaml
+- :id: XEP 0035
+  :file: data/xep-0035.yaml
+- :id: XEP 0036
+  :file: data/xep-0036.yaml
+- :id: XEP 0037
+  :file: data/xep-0037.yaml
+- :id: XEP 0038
+  :file: data/xep-0038.yaml
+- :id: XEP 0039
+  :file: data/xep-0039.yaml
+- :id: XEP 0040
+  :file: data/xep-0040.yaml
+- :id: XEP 0041
+  :file: data/xep-0041.yaml
+- :id: XEP 0042
+  :file: data/xep-0042.yaml
+- :id: XEP 0043
+  :file: data/xep-0043.yaml
+- :id: XEP 0044
+  :file: data/xep-0044.yaml
+- :id: XEP 0045
+  :file: data/xep-0045.yaml
+- :id: XEP 0046
+  :file: data/xep-0046.yaml
+- :id: XEP 0047
+  :file: data/xep-0047.yaml
+- :id: XEP 0048
+  :file: data/xep-0048.yaml
+- :id: XEP 0049
+  :file: data/xep-0049.yaml
+- :id: XEP 0050
+  :file: data/xep-0050.yaml
+- :id: XEP 0051
+  :file: data/xep-0051.yaml
+- :id: XEP 0052
+  :file: data/xep-0052.yaml
+- :id: XEP 0053
+  :file: data/xep-0053.yaml
+- :id: XEP 0054
+  :file: data/xep-0054.yaml
+- :id: XEP 0055
+  :file: data/xep-0055.yaml
+- :id: XEP 0056
+  :file: data/xep-0056.yaml
+- :id: XEP 0057
+  :file: data/xep-0057.yaml
+- :id: XEP 0058
+  :file: data/xep-0058.yaml
+- :id: XEP 0059
+  :file: data/xep-0059.yaml
+- :id: XEP 0060
+  :file: data/xep-0060.yaml
+- :id: XEP 0061
+  :file: data/xep-0061.yaml
+- :id: XEP 0062
+  :file: data/xep-0062.yaml
+- :id: XEP 0063
+  :file: data/xep-0063.yaml
+- :id: XEP 0064
+  :file: data/xep-0064.yaml
+- :id: XEP 0065
+  :file: data/xep-0065.yaml
+- :id: XEP 0066
+  :file: data/xep-0066.yaml
+- :id: XEP 0067
+  :file: data/xep-0067.yaml
+- :id: XEP 0068
+  :file: data/xep-0068.yaml
+- :id: XEP 0069
+  :file: data/xep-0069.yaml
+- :id: XEP 0070
+  :file: data/xep-0070.yaml
+- :id: XEP 0071
+  :file: data/xep-0071.yaml
+- :id: XEP 0072
+  :file: data/xep-0072.yaml
+- :id: XEP 0073
+  :file: data/xep-0073.yaml
+- :id: XEP 0074
+  :file: data/xep-0074.yaml
+- :id: XEP 0075
+  :file: data/xep-0075.yaml
+- :id: XEP 0076
+  :file: data/xep-0076.yaml
+- :id: XEP 0077
+  :file: data/xep-0077.yaml
+- :id: XEP 0078
+  :file: data/xep-0078.yaml
+- :id: XEP 0079
+  :file: data/xep-0079.yaml
+- :id: XEP 0080
+  :file: data/xep-0080.yaml
+- :id: XEP 0081
+  :file: data/xep-0081.yaml
+- :id: XEP 0082
+  :file: data/xep-0082.yaml
+- :id: XEP 0083
+  :file: data/xep-0083.yaml
+- :id: XEP 0084
+  :file: data/xep-0084.yaml
+- :id: XEP 0085
+  :file: data/xep-0085.yaml
+- :id: XEP 0086
+  :file: data/xep-0086.yaml
+- :id: XEP 0087
+  :file: data/xep-0087.yaml
+- :id: XEP 0088
+  :file: data/xep-0088.yaml
+- :id: XEP 0089
+  :file: data/xep-0089.yaml
+- :id: XEP 0090
+  :file: data/xep-0090.yaml
+- :id: XEP 0091
+  :file: data/xep-0091.yaml
+- :id: XEP 0092
+  :file: data/xep-0092.yaml
+- :id: XEP 0093
+  :file: data/xep-0093.yaml
+- :id: XEP 0094
+  :file: data/xep-0094.yaml
+- :id: XEP 0095
+  :file: data/xep-0095.yaml
+- :id: XEP 0096
+  :file: data/xep-0096.yaml
+- :id: XEP 0097
+  :file: data/xep-0097.yaml
+- :id: XEP 0098
+  :file: data/xep-0098.yaml
+- :id: XEP 0099
+  :file: data/xep-0099.yaml
+- :id: XEP 0100
+  :file: data/xep-0100.yaml
+- :id: XEP 0101
+  :file: data/xep-0101.yaml
+- :id: XEP 0102
+  :file: data/xep-0102.yaml
+- :id: XEP 0103
+  :file: data/xep-0103.yaml
+- :id: XEP 0104
+  :file: data/xep-0104.yaml
+- :id: XEP 0105
+  :file: data/xep-0105.yaml
+- :id: XEP 0106
+  :file: data/xep-0106.yaml
+- :id: XEP 0107
+  :file: data/xep-0107.yaml
+- :id: XEP 0108
+  :file: data/xep-0108.yaml
+- :id: XEP 0109
+  :file: data/xep-0109.yaml
+- :id: XEP 0110
+  :file: data/xep-0110.yaml
+- :id: XEP 0111
+  :file: data/xep-0111.yaml
+- :id: XEP 0112
+  :file: data/xep-0112.yaml
+- :id: XEP 0113
+  :file: data/xep-0113.yaml
+- :id: XEP 0114
+  :file: data/xep-0114.yaml
+- :id: XEP 0115
+  :file: data/xep-0115.yaml
+- :id: XEP 0116
+  :file: data/xep-0116.yaml
+- :id: XEP 0117
+  :file: data/xep-0117.yaml
+- :id: XEP 0118
+  :file: data/xep-0118.yaml
+- :id: XEP 0119
+  :file: data/xep-0119.yaml
+- :id: XEP 0120
+  :file: data/xep-0120.yaml
+- :id: XEP 0121
+  :file: data/xep-0121.yaml
+- :id: XEP 0122
+  :file: data/xep-0122.yaml
+- :id: XEP 0123
+  :file: data/xep-0123.yaml
+- :id: XEP 0124
+  :file: data/xep-0124.yaml
+- :id: XEP 0125
+  :file: data/xep-0125.yaml
+- :id: XEP 0126
+  :file: data/xep-0126.yaml
+- :id: XEP 0127
+  :file: data/xep-0127.yaml
+- :id: XEP 0128
+  :file: data/xep-0128.yaml
+- :id: XEP 0129
+  :file: data/xep-0129.yaml
+- :id: XEP 0130
+  :file: data/xep-0130.yaml
+- :id: XEP 0131
+  :file: data/xep-0131.yaml
+- :id: XEP 0132
+  :file: data/xep-0132.yaml
+- :id: XEP 0133
+  :file: data/xep-0133.yaml
+- :id: XEP 0134
+  :file: data/xep-0134.yaml
+- :id: XEP 0135
+  :file: data/xep-0135.yaml
+- :id: XEP 0136
+  :file: data/xep-0136.yaml
+- :id: XEP 0137
+  :file: data/xep-0137.yaml
+- :id: XEP 0138
+  :file: data/xep-0138.yaml
+- :id: XEP 0139
+  :file: data/xep-0139.yaml
+- :id: XEP 0140
+  :file: data/xep-0140.yaml
+- :id: XEP 0141
+  :file: data/xep-0141.yaml
+- :id: XEP 0142
+  :file: data/xep-0142.yaml
+- :id: XEP 0143
+  :file: data/xep-0143.yaml
+- :id: XEP 0144
+  :file: data/xep-0144.yaml
+- :id: XEP 0145
+  :file: data/xep-0145.yaml
+- :id: XEP 0146
+  :file: data/xep-0146.yaml
+- :id: XEP 0147
+  :file: data/xep-0147.yaml
+- :id: XEP 0148
+  :file: data/xep-0148.yaml
+- :id: XEP 0149
+  :file: data/xep-0149.yaml
+- :id: XEP 0150
+  :file: data/xep-0150.yaml
+- :id: XEP 0151
+  :file: data/xep-0151.yaml
+- :id: XEP 0152
+  :file: data/xep-0152.yaml
+- :id: XEP 0153
+  :file: data/xep-0153.yaml
+- :id: XEP 0154
+  :file: data/xep-0154.yaml
+- :id: XEP 0155
+  :file: data/xep-0155.yaml
+- :id: XEP 0156
+  :file: data/xep-0156.yaml
+- :id: XEP 0157
+  :file: data/xep-0157.yaml
+- :id: XEP 0158
+  :file: data/xep-0158.yaml
+- :id: XEP 0159
+  :file: data/xep-0159.yaml
+- :id: XEP 0160
+  :file: data/xep-0160.yaml
+- :id: XEP 0161
+  :file: data/xep-0161.yaml
+- :id: XEP 0162
+  :file: data/xep-0162.yaml
+- :id: XEP 0163
+  :file: data/xep-0163.yaml
+- :id: XEP 0164
+  :file: data/xep-0164.yaml
+- :id: XEP 0165
+  :file: data/xep-0165.yaml
+- :id: XEP 0166
+  :file: data/xep-0166.yaml
+- :id: XEP 0167
+  :file: data/xep-0167.yaml
+- :id: XEP 0168
+  :file: data/xep-0168.yaml
+- :id: XEP 0169
+  :file: data/xep-0169.yaml
+- :id: XEP 0170
+  :file: data/xep-0170.yaml
+- :id: XEP 0171
+  :file: data/xep-0171.yaml
+- :id: XEP 0172
+  :file: data/xep-0172.yaml
+- :id: XEP 0173
+  :file: data/xep-0173.yaml
+- :id: XEP 0174
+  :file: data/xep-0174.yaml
+- :id: XEP 0175
+  :file: data/xep-0175.yaml
+- :id: XEP 0176
+  :file: data/xep-0176.yaml
+- :id: XEP 0177
+  :file: data/xep-0177.yaml
+- :id: XEP 0178
+  :file: data/xep-0178.yaml
+- :id: XEP 0179
+  :file: data/xep-0179.yaml
+- :id: XEP 0180
+  :file: data/xep-0180.yaml
+- :id: XEP 0181
+  :file: data/xep-0181.yaml
+- :id: XEP 0182
+  :file: data/xep-0182.yaml
+- :id: XEP 0183
+  :file: data/xep-0183.yaml
+- :id: XEP 0184
+  :file: data/xep-0184.yaml
+- :id: XEP 0185
+  :file: data/xep-0185.yaml
+- :id: XEP 0186
+  :file: data/xep-0186.yaml
+- :id: XEP 0187
+  :file: data/xep-0187.yaml
+- :id: XEP 0188
+  :file: data/xep-0188.yaml
+- :id: XEP 0189
+  :file: data/xep-0189.yaml
+- :id: XEP 0190
+  :file: data/xep-0190.yaml
+- :id: XEP 0191
+  :file: data/xep-0191.yaml
+- :id: XEP 0192
+  :file: data/xep-0192.yaml
+- :id: XEP 0193
+  :file: data/xep-0193.yaml
+- :id: XEP 0194
+  :file: data/xep-0194.yaml
+- :id: XEP 0195
+  :file: data/xep-0195.yaml
+- :id: XEP 0196
+  :file: data/xep-0196.yaml
+- :id: XEP 0197
+  :file: data/xep-0197.yaml
+- :id: XEP 0198
+  :file: data/xep-0198.yaml
+- :id: XEP 0199
+  :file: data/xep-0199.yaml
+- :id: XEP 0200
+  :file: data/xep-0200.yaml
+- :id: XEP 0201
+  :file: data/xep-0201.yaml
+- :id: XEP 0202
+  :file: data/xep-0202.yaml
+- :id: XEP 0203
+  :file: data/xep-0203.yaml
+- :id: XEP 0204
+  :file: data/xep-0204.yaml
+- :id: XEP 0205
+  :file: data/xep-0205.yaml
+- :id: XEP 0206
+  :file: data/xep-0206.yaml
+- :id: XEP 0207
+  :file: data/xep-0207.yaml
+- :id: XEP 0208
+  :file: data/xep-0208.yaml
+- :id: XEP 0209
+  :file: data/xep-0209.yaml
+- :id: XEP 0210
+  :file: data/xep-0210.yaml
+- :id: XEP 0211
+  :file: data/xep-0211.yaml
+- :id: XEP 0212
+  :file: data/xep-0212.yaml
+- :id: XEP 0213
+  :file: data/xep-0213.yaml
+- :id: XEP 0214
+  :file: data/xep-0214.yaml
+- :id: XEP 0215
+  :file: data/xep-0215.yaml
+- :id: XEP 0216
+  :file: data/xep-0216.yaml
+- :id: XEP 0217
+  :file: data/xep-0217.yaml
+- :id: XEP 0218
+  :file: data/xep-0218.yaml
+- :id: XEP 0219
+  :file: data/xep-0219.yaml
+- :id: XEP 0220
+  :file: data/xep-0220.yaml
+- :id: XEP 0221
+  :file: data/xep-0221.yaml
+- :id: XEP 0222
+  :file: data/xep-0222.yaml
+- :id: XEP 0223
+  :file: data/xep-0223.yaml
+- :id: XEP 0224
+  :file: data/xep-0224.yaml
+- :id: XEP 0225
+  :file: data/xep-0225.yaml
+- :id: XEP 0226
+  :file: data/xep-0226.yaml
+- :id: XEP 0227
+  :file: data/xep-0227.yaml
+- :id: XEP 0228
+  :file: data/xep-0228.yaml
+- :id: XEP 0229
+  :file: data/xep-0229.yaml
+- :id: XEP 0230
+  :file: data/xep-0230.yaml
+- :id: XEP 0231
+  :file: data/xep-0231.yaml
+- :id: XEP 0232
+  :file: data/xep-0232.yaml
+- :id: XEP 0233
+  :file: data/xep-0233.yaml
+- :id: XEP 0234
+  :file: data/xep-0234.yaml
+- :id: XEP 0235
+  :file: data/xep-0235.yaml
+- :id: XEP 0236
+  :file: data/xep-0236.yaml
+- :id: XEP 0237
+  :file: data/xep-0237.yaml
+- :id: XEP 0238
+  :file: data/xep-0238.yaml
+- :id: XEP 0239
+  :file: data/xep-0239.yaml
+- :id: XEP 0240
+  :file: data/xep-0240.yaml
+- :id: XEP 0241
+  :file: data/xep-0241.yaml
+- :id: XEP 0242
+  :file: data/xep-0242.yaml
+- :id: XEP 0243
+  :file: data/xep-0243.yaml
+- :id: XEP 0244
+  :file: data/xep-0244.yaml
+- :id: XEP 0245
+  :file: data/xep-0245.yaml
+- :id: XEP 0246
+  :file: data/xep-0246.yaml
+- :id: XEP 0247
+  :file: data/xep-0247.yaml
+- :id: XEP 0248
+  :file: data/xep-0248.yaml
+- :id: XEP 0249
+  :file: data/xep-0249.yaml
+- :id: XEP 0250
+  :file: data/xep-0250.yaml
+- :id: XEP 0251
+  :file: data/xep-0251.yaml
+- :id: XEP 0252
+  :file: data/xep-0252.yaml
+- :id: XEP 0253
+  :file: data/xep-0253.yaml
+- :id: XEP 0254
+  :file: data/xep-0254.yaml
+- :id: XEP 0255
+  :file: data/xep-0255.yaml
+- :id: XEP 0256
+  :file: data/xep-0256.yaml
+- :id: XEP 0257
+  :file: data/xep-0257.yaml
+- :id: XEP 0258
+  :file: data/xep-0258.yaml
+- :id: XEP 0259
+  :file: data/xep-0259.yaml
+- :id: XEP 0260
+  :file: data/xep-0260.yaml
+- :id: XEP 0261
+  :file: data/xep-0261.yaml
+- :id: XEP 0262
+  :file: data/xep-0262.yaml
+- :id: XEP 0263
+  :file: data/xep-0263.yaml
+- :id: XEP 0264
+  :file: data/xep-0264.yaml
+- :id: XEP 0265
+  :file: data/xep-0265.yaml
+- :id: XEP 0266
+  :file: data/xep-0266.yaml
+- :id: XEP 0267
+  :file: data/xep-0267.yaml
+- :id: XEP 0268
+  :file: data/xep-0268.yaml
+- :id: XEP 0269
+  :file: data/xep-0269.yaml
+- :id: XEP 0270
+  :file: data/xep-0270.yaml
+- :id: XEP 0271
+  :file: data/xep-0271.yaml
+- :id: XEP 0272
+  :file: data/xep-0272.yaml
+- :id: XEP 0273
+  :file: data/xep-0273.yaml
+- :id: XEP 0274
+  :file: data/xep-0274.yaml
+- :id: XEP 0275
+  :file: data/xep-0275.yaml
+- :id: XEP 0276
+  :file: data/xep-0276.yaml
+- :id: XEP 0277
+  :file: data/xep-0277.yaml
+- :id: XEP 0278
+  :file: data/xep-0278.yaml
+- :id: XEP 0279
+  :file: data/xep-0279.yaml
+- :id: XEP 0280
+  :file: data/xep-0280.yaml
+- :id: XEP 0281
+  :file: data/xep-0281.yaml
+- :id: XEP 0282
+  :file: data/xep-0282.yaml
+- :id: XEP 0283
+  :file: data/xep-0283.yaml
+- :id: XEP 0284
+  :file: data/xep-0284.yaml
+- :id: XEP 0285
+  :file: data/xep-0285.yaml
+- :id: XEP 0286
+  :file: data/xep-0286.yaml
+- :id: XEP 0287
+  :file: data/xep-0287.yaml
+- :id: XEP 0288
+  :file: data/xep-0288.yaml
+- :id: XEP 0289
+  :file: data/xep-0289.yaml
+- :id: XEP 0290
+  :file: data/xep-0290.yaml
+- :id: XEP 0291
+  :file: data/xep-0291.yaml
+- :id: XEP 0292
+  :file: data/xep-0292.yaml
+- :id: XEP 0293
+  :file: data/xep-0293.yaml
+- :id: XEP 0294
+  :file: data/xep-0294.yaml
+- :id: XEP 0295
+  :file: data/xep-0295.yaml
+- :id: XEP 0296
+  :file: data/xep-0296.yaml
+- :id: XEP 0297
+  :file: data/xep-0297.yaml
+- :id: XEP 0298
+  :file: data/xep-0298.yaml
+- :id: XEP 0299
+  :file: data/xep-0299.yaml
+- :id: XEP 0300
+  :file: data/xep-0300.yaml
+- :id: XEP 0301
+  :file: data/xep-0301.yaml
+- :id: XEP 0302
+  :file: data/xep-0302.yaml
+- :id: XEP 0303
+  :file: data/xep-0303.yaml
+- :id: XEP 0304
+  :file: data/xep-0304.yaml
+- :id: XEP 0305
+  :file: data/xep-0305.yaml
+- :id: XEP 0306
+  :file: data/xep-0306.yaml
+- :id: XEP 0307
+  :file: data/xep-0307.yaml
+- :id: XEP 0308
+  :file: data/xep-0308.yaml
+- :id: XEP 0309
+  :file: data/xep-0309.yaml
+- :id: XEP 0310
+  :file: data/xep-0310.yaml
+- :id: XEP 0311
+  :file: data/xep-0311.yaml
+- :id: XEP 0312
+  :file: data/xep-0312.yaml
+- :id: XEP 0313
+  :file: data/xep-0313.yaml
+- :id: XEP 0314
+  :file: data/xep-0314.yaml
+- :id: XEP 0315
+  :file: data/xep-0315.yaml
+- :id: XEP 0316
+  :file: data/xep-0316.yaml
+- :id: XEP 0317
+  :file: data/xep-0317.yaml
+- :id: XEP 0318
+  :file: data/xep-0318.yaml
+- :id: XEP 0319
+  :file: data/xep-0319.yaml
+- :id: XEP 0320
+  :file: data/xep-0320.yaml
+- :id: XEP 0321
+  :file: data/xep-0321.yaml
+- :id: XEP 0322
+  :file: data/xep-0322.yaml
+- :id: XEP 0323
+  :file: data/xep-0323.yaml
+- :id: XEP 0324
+  :file: data/xep-0324.yaml
+- :id: XEP 0325
+  :file: data/xep-0325.yaml
+- :id: XEP 0326
+  :file: data/xep-0326.yaml
+- :id: XEP 0327
+  :file: data/xep-0327.yaml
+- :id: XEP 0328
+  :file: data/xep-0328.yaml
+- :id: XEP 0329
+  :file: data/xep-0329.yaml
+- :id: XEP 0330
+  :file: data/xep-0330.yaml
+- :id: XEP 0331
+  :file: data/xep-0331.yaml
+- :id: XEP 0332
+  :file: data/xep-0332.yaml
+- :id: XEP 0333
+  :file: data/xep-0333.yaml
+- :id: XEP 0334
+  :file: data/xep-0334.yaml
+- :id: XEP 0335
+  :file: data/xep-0335.yaml
+- :id: XEP 0336
+  :file: data/xep-0336.yaml
+- :id: XEP 0337
+  :file: data/xep-0337.yaml
+- :id: XEP 0338
+  :file: data/xep-0338.yaml
+- :id: XEP 0339
+  :file: data/xep-0339.yaml
+- :id: XEP 0340
+  :file: data/xep-0340.yaml
+- :id: XEP 0341
+  :file: data/xep-0341.yaml
+- :id: XEP 0342
+  :file: data/xep-0342.yaml
+- :id: XEP 0343
+  :file: data/xep-0343.yaml
+- :id: XEP 0344
+  :file: data/xep-0344.yaml
+- :id: XEP 0345
+  :file: data/xep-0345.yaml
+- :id: XEP 0346
+  :file: data/xep-0346.yaml
+- :id: XEP 0347
+  :file: data/xep-0347.yaml
+- :id: XEP 0348
+  :file: data/xep-0348.yaml
+- :id: XEP 0349
+  :file: data/xep-0349.yaml
+- :id: XEP 0350
+  :file: data/xep-0350.yaml
+- :id: XEP 0351
+  :file: data/xep-0351.yaml
+- :id: XEP 0352
+  :file: data/xep-0352.yaml
+- :id: XEP 0353
+  :file: data/xep-0353.yaml
+- :id: XEP 0354
+  :file: data/xep-0354.yaml
+- :id: XEP 0355
+  :file: data/xep-0355.yaml
+- :id: XEP 0356
+  :file: data/xep-0356.yaml
+- :id: XEP 0357
+  :file: data/xep-0357.yaml
+- :id: XEP 0358
+  :file: data/xep-0358.yaml
+- :id: XEP 0359
+  :file: data/xep-0359.yaml
+- :id: XEP 0360
+  :file: data/xep-0360.yaml
+- :id: XEP 0361
+  :file: data/xep-0361.yaml
+- :id: XEP 0362
+  :file: data/xep-0362.yaml
+- :id: XEP 0363
+  :file: data/xep-0363.yaml
+- :id: XEP 0364
+  :file: data/xep-0364.yaml
+- :id: XEP 0365
+  :file: data/xep-0365.yaml
+- :id: XEP 0366
+  :file: data/xep-0366.yaml
+- :id: XEP 0367
+  :file: data/xep-0367.yaml
+- :id: XEP 0368
+  :file: data/xep-0368.yaml
+- :id: XEP 0369
+  :file: data/xep-0369.yaml
+- :id: XEP 0370
+  :file: data/xep-0370.yaml
+- :id: XEP 0371
+  :file: data/xep-0371.yaml
+- :id: XEP 0372
+  :file: data/xep-0372.yaml
+- :id: XEP 0373
+  :file: data/xep-0373.yaml
+- :id: XEP 0374
+  :file: data/xep-0374.yaml
+- :id: XEP 0375
+  :file: data/xep-0375.yaml
+- :id: XEP 0376
+  :file: data/xep-0376.yaml
+- :id: XEP 0377
+  :file: data/xep-0377.yaml
+- :id: XEP 0378
+  :file: data/xep-0378.yaml
+- :id: XEP 0379
+  :file: data/xep-0379.yaml
+- :id: XEP 0380
+  :file: data/xep-0380.yaml
+- :id: XEP 0381
+  :file: data/xep-0381.yaml
+- :id: XEP 0382
+  :file: data/xep-0382.yaml
+- :id: XEP 0383
+  :file: data/xep-0383.yaml
+- :id: XEP 0384
+  :file: data/xep-0384.yaml
+- :id: XEP 0385
+  :file: data/xep-0385.yaml
+- :id: XEP 0386
+  :file: data/xep-0386.yaml
+- :id: XEP 0387
+  :file: data/xep-0387.yaml
+- :id: XEP 0388
+  :file: data/xep-0388.yaml
+- :id: XEP 0389
+  :file: data/xep-0389.yaml
+- :id: XEP 0390
+  :file: data/xep-0390.yaml
+- :id: XEP 0391
+  :file: data/xep-0391.yaml
+- :id: XEP 0392
+  :file: data/xep-0392.yaml
+- :id: XEP 0393
+  :file: data/xep-0393.yaml
+- :id: XEP 0394
+  :file: data/xep-0394.yaml
+- :id: XEP 0395
+  :file: data/xep-0395.yaml
+- :id: XEP 0396
+  :file: data/xep-0396.yaml
+- :id: XEP 0397
+  :file: data/xep-0397.yaml
+- :id: XEP 0398
+  :file: data/xep-0398.yaml
+- :id: XEP 0399
+  :file: data/xep-0399.yaml
+- :id: XEP 0400
+  :file: data/xep-0400.yaml
+- :id: XEP 0401
+  :file: data/xep-0401.yaml
+- :id: XEP 0402
+  :file: data/xep-0402.yaml
+- :id: XEP 0403
+  :file: data/xep-0403.yaml
+- :id: XEP 0404
+  :file: data/xep-0404.yaml
+- :id: XEP 0405
+  :file: data/xep-0405.yaml
+- :id: XEP 0406
+  :file: data/xep-0406.yaml
+- :id: XEP 0407
+  :file: data/xep-0407.yaml
+- :id: XEP 0408
+  :file: data/xep-0408.yaml
+- :id: XEP 0409
+  :file: data/xep-0409.yaml
+- :id: XEP 0410
+  :file: data/xep-0410.yaml
+- :id: XEP 0411
+  :file: data/xep-0411.yaml
+- :id: XEP 0412
+  :file: data/xep-0412.yaml
+- :id: XEP 0413
+  :file: data/xep-0413.yaml
+- :id: XEP 0414
+  :file: data/xep-0414.yaml
+- :id: XEP 0415
+  :file: data/xep-0415.yaml
+- :id: XEP 0416
+  :file: data/xep-0416.yaml
+- :id: XEP 0417
+  :file: data/xep-0417.yaml
+- :id: XEP 0418
+  :file: data/xep-0418.yaml
+- :id: XEP 0419
+  :file: data/xep-0419.yaml
+- :id: XEP 0420
+  :file: data/xep-0420.yaml
+- :id: XEP 0421
+  :file: data/xep-0421.yaml
+- :id: XEP 0422
+  :file: data/xep-0422.yaml
+- :id: XEP 0423
+  :file: data/xep-0423.yaml
+- :id: XEP 0424
+  :file: data/xep-0424.yaml
+- :id: XEP 0425
+  :file: data/xep-0425.yaml
+- :id: XEP 0426
+  :file: data/xep-0426.yaml
+- :id: XEP 0427
+  :file: data/xep-0427.yaml
+- :id: XEP 0428
+  :file: data/xep-0428.yaml
+- :id: XEP 0429
+  :file: data/xep-0429.yaml
+- :id: XEP 0430
+  :file: data/xep-0430.yaml
+- :id: XEP 0431
+  :file: data/xep-0431.yaml
+- :id: XEP 0432
+  :file: data/xep-0432.yaml
+- :id: XEP 0433
+  :file: data/xep-0433.yaml
+- :id: XEP 0434
+  :file: data/xep-0434.yaml
+- :id: XEP 0435
+  :file: data/xep-0435.yaml
+- :id: XEP 0436
+  :file: data/xep-0436.yaml
+- :id: XEP 0437
+  :file: data/xep-0437.yaml
+- :id: XEP 0438
+  :file: data/xep-0438.yaml
+- :id: XEP 0439
+  :file: data/xep-0439.yaml
+- :id: XEP 0440
+  :file: data/xep-0440.yaml
+- :id: XEP 0441
+  :file: data/xep-0441.yaml
+- :id: XEP 0442
+  :file: data/xep-0442.yaml
+- :id: XEP 0443
+  :file: data/xep-0443.yaml
+- :id: XEP 0444
+  :file: data/xep-0444.yaml
+- :id: XEP 0445
+  :file: data/xep-0445.yaml
+- :id: XEP 0446
+  :file: data/xep-0446.yaml
+- :id: XEP 0447
+  :file: data/xep-0447.yaml
+- :id: XEP 0448
+  :file: data/xep-0448.yaml
+- :id: XEP 0449
+  :file: data/xep-0449.yaml
+- :id: XEP 0450
+  :file: data/xep-0450.yaml
+- :id: XEP 0451
+  :file: data/xep-0451.yaml
+- :id: XEP 0452
+  :file: data/xep-0452.yaml
+- :id: XEP 0453
+  :file: data/xep-0453.yaml
+- :id: XEP 0454
+  :file: data/xep-0454.yaml
+- :id: XEP 0455
+  :file: data/xep-0455.yaml
+- :id: XEP 0456
+  :file: data/xep-0456.yaml
+- :id: XEP 0457
+  :file: data/xep-0457.yaml
+- :id: XEP 0458
+  :file: data/xep-0458.yaml
+- :id: XEP 0459
+  :file: data/xep-0459.yaml
+- :id: XEP 0460
+  :file: data/xep-0460.yaml
+- :id: XEP 0461
+  :file: data/xep-0461.yaml
+- :id: XEP 0462
+  :file: data/xep-0462.yaml
+- :id: XEP 0463
+  :file: data/xep-0463.yaml
+- :id: XEP 0464
+  :file: data/xep-0464.yaml
+- :id: XEP 0465
+  :file: data/xep-0465.yaml
+- :id: XEP 0466
+  :file: data/xep-0466.yaml
+- :id: XEP 0467
+  :file: data/xep-0467.yaml
+- :id: XEP 0468
+  :file: data/xep-0468.yaml
+- :id: XEP 0469
+  :file: data/xep-0469.yaml
+- :id: XEP 0470
+  :file: data/xep-0470.yaml
+- :id: XEP 0471
+  :file: data/xep-0471.yaml
+- :id: XEP 0472
+  :file: data/xep-0472.yaml
+- :id: XEP 0473
+  :file: data/xep-0473.yaml
+- :id: XEP 0474
+  :file: data/xep-0474.yaml
+- :id: XEP 0475
+  :file: data/xep-0475.yaml
+- :id: XEP 0476
+  :file: data/xep-0476.yaml
+- :id: XEP 0477
+  :file: data/xep-0477.yaml
+- :id: XEP 0478
+  :file: data/xep-0478.yaml
+- :id: XEP 0479
+  :file: data/xep-0479.yaml
+- :id: XEP 0480
+  :file: data/xep-0480.yaml
+- :id: XEP 0481
+  :file: data/xep-0481.yaml
+- :id: XEP 0482
+  :file: data/xep-0482.yaml
+- :id: XEP README
+  :file: data/xep-readme.yaml
+- :id: XEP xxxx
+  :file: data/xep-xxxx.yaml

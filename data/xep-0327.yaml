@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0327
+title:
+- content: Rayo
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0327.html
+  type: src
+type: standard
+docid:
+- id: XEP 0327
+  type: XEP
+  primary: true
+- id: XEP-0327
+  type: XEP
+  scope: anchor
+docnumber: XEP-0327
+date:
+- type: published
+  value: '2018-11-03'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+      surname:
+        content: Langfeld
+        language:
+        - en
+      completename:
+        content: Ben Langfeld
+        language:
+        - en
+    contact:
+    - email: ben@langfeld.me
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: de Castro
+        language:
+        - en
+      completename:
+        content: Jose de Castro
+        language:
+        - en
+    contact:
+    - email: jdecastro@tropo.com
+  role:
+  - type: author
+revdate: '2018-11-03'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0327'
+doctype: rfc

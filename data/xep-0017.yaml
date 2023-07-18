@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0017
+title:
+- content: Naive Packet Framing Protocol
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0017.html
+  type: src
+type: standard
+docid:
+- id: XEP 0017
+  type: XEP
+  primary: true
+- id: XEP-0017
+  type: XEP
+  scope: anchor
+docnumber: XEP-0017
+date:
+- type: published
+  value: '2002-02-19'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Lin
+        language:
+        - en
+      completename:
+        content: Mike Lin
+        language:
+        - en
+    contact:
+    - email: mikelin@mit.edu
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Missig
+        language:
+        - en
+      completename:
+        content: Julian Missig
+        language:
+        - en
+    contact:
+    - email: julian@jabber.org
+  role:
+  - type: author
+revdate: '2002-02-19'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0017'
+doctype: rfc

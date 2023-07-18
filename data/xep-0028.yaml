@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0028
+title:
+- content: No Such XEP
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0028.html
+  type: src
+type: standard
+docid:
+- id: XEP 0028
+  type: XEP
+  primary: true
+- id: XEP-0028
+  type: XEP
+  scope: anchor
+docnumber: XEP-0028
+date:
+- type: published
+  value: '2001-08-20'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Smith
+        language:
+        - en
+      completename:
+        content: Dave Smith
+        language:
+        - en
+    contact:
+    - email: dizzyd@jabber.org
+  role:
+  - type: author
+revdate: '2001-08-20'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0028'
+doctype: rfc

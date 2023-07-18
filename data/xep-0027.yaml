@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0027
+title:
+- content: Current Jabber OpenPGP Usage
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0027.html
+  type: src
+type: standard
+docid:
+- id: XEP 0027
+  type: XEP
+  primary: true
+- id: XEP-0027
+  type: XEP
+  scope: anchor
+docnumber: XEP-0027
+date:
+- type: published
+  value: '2014-03-14'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Muldowney
+        language:
+        - en
+      completename:
+        content: Thomas Muldowney
+        language:
+        - en
+    contact:
+    - email: temas@jabber.org
+  role:
+  - type: author
+revdate: '2014-03-14'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0027'
+doctype: rfc

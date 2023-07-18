@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0420
+title:
+- content: Stanza Content Encryption
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0420.html
+  type: src
+type: standard
+docid:
+- id: XEP 0420
+  type: XEP
+  primary: true
+- id: XEP-0420
+  type: XEP
+  scope: anchor
+docnumber: XEP-0420
+date:
+- type: published
+  value: '2021-11-18'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Schaub
+        language:
+        - en
+      completename:
+        content: Paul Schaub
+        language:
+        - en
+    contact:
+    - email: vanitasvitae@riseup.net
+  role:
+  - type: author
+revdate: '2021-11-18'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0420'
+doctype: rfc

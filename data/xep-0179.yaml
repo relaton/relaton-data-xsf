@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0179
+title:
+- content: Jingle IAX Transport Method
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0179.html
+  type: src
+type: standard
+docid:
+- id: XEP 0179
+  type: XEP
+  primary: true
+- id: XEP-0179
+  type: XEP
+  scope: anchor
+docnumber: XEP-0179
+date:
+- type: published
+  value: '2006-03-23'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+      surname:
+        content: Cano
+        language:
+        - en
+      completename:
+        content: Antonio F. Cano
+        language:
+        - en
+    contact:
+    - email: antoniofcano@grupoikusnet.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+revdate: '2006-03-23'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0179'
+doctype: rfc

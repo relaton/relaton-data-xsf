@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0142
+title:
+- content: Workgroup Queues
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0142.html
+  type: src
+type: standard
+docid:
+- id: XEP 0142
+  type: XEP
+  primary: true
+- id: XEP-0142
+  type: XEP
+  scope: anchor
+docnumber: XEP-0142
+date:
+- type: published
+  value: '2018-11-03'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Tucker
+        language:
+        - en
+      completename:
+        content: Matt Tucker
+        language:
+        - en
+    contact:
+    - email: matt@jivesoftware.com
+  role:
+  - type: author
+revdate: '2018-11-03'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0142'
+doctype: rfc

@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0018
+title:
+- content: Invisible Presence
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0018.html
+  type: src
+type: standard
+docid:
+- id: XEP 0018
+  type: XEP
+  primary: true
+- id: XEP-0018
+  type: XEP
+  scope: anchor
+docnumber: XEP-0018
+date:
+- type: published
+  value: '2003-09-26'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+      surname:
+        content: Schumacher
+        language:
+        - en
+      completename:
+        content: Ben Schumacher
+        language:
+        - en
+    contact:
+    - email: ben@blahr.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Miller
+        language:
+        - en
+      completename:
+        content: Jeremie Miller
+        language:
+        - en
+    contact:
+    - email: jer@jabber.org
+  role:
+  - type: author
+revdate: '2003-09-26'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0018'
+doctype: rfc

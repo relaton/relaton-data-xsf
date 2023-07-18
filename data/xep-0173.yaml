@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0173
+title:
+- content: Pubsub Subscription Storage
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0173.html
+  type: src
+type: standard
+docid:
+- id: XEP 0173
+  type: XEP
+  primary: true
+- id: XEP-0173
+  type: XEP
+  scope: anchor
+docnumber: XEP-0173
+date:
+- type: published
+  value: '2006-02-09'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Henoch
+        language:
+        - en
+      completename:
+        content: Magnus Henoch
+        language:
+        - en
+    contact:
+    - email: henoch@dtek.chalmers.se
+  role:
+  - type: author
+revdate: '2006-02-09'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0173'
+doctype: rfc

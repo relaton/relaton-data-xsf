@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0321
+title:
+- content: Remote Roster Management
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0321.html
+  type: src
+type: standard
+docid:
+- id: XEP 0321
+  type: XEP
+  primary: true
+- id: XEP-0321
+  type: XEP
+  scope: anchor
+docnumber: XEP-0321
+date:
+- type: published
+  value: '2018-11-03'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: Dobrov
+        language:
+        - en
+      completename:
+        content: Sergey Dobrov
+        language:
+        - en
+    contact:
+    - email: binary@jrudevels.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Kaluža
+        language:
+        - en
+      completename:
+        content: Jan Kaluža
+        language:
+        - en
+    contact:
+    - email: hanzz.k@gmail.com
+  role:
+  - type: author
+revdate: '2018-11-03'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0321'
+doctype: rfc

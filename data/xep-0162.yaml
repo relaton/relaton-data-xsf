@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0162
+title:
+- content: Best Practices for Roster and Subscription Management
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0162.html
+  type: src
+type: standard
+docid:
+- id: XEP 0162
+  type: XEP
+  primary: true
+- id: XEP-0162
+  type: XEP
+  scope: anchor
+docnumber: XEP-0162
+date:
+- type: published
+  value: '2020-06-25'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+      surname:
+        content: Nussbaum
+        language:
+        - en
+      completename:
+        content: Lucas Nussbaum
+        language:
+        - en
+    contact:
+    - email: lucas@lucas-nussbaum.net
+  role:
+  - type: author
+revdate: '2020-06-25'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0162'
+doctype: rfc

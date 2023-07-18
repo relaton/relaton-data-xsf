@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0272
+title:
+- content: Multiparty Jingle (Muji)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0272.html
+  type: src
+type: standard
+docid:
+- id: XEP 0272
+  type: XEP
+  primary: true
+- id: XEP-0272
+  type: XEP
+  scope: anchor
+docnumber: XEP-0272
+date:
+- type: published
+  value: '2022-08-06'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: Simons
+        language:
+        - en
+      completename:
+        content: Sjoerd Simons
+        language:
+        - en
+    contact:
+    - email: sjoerd.simons@collabora.co.uk
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Harries
+        language:
+        - en
+      completename:
+        content: Dafydd Harries
+        language:
+        - en
+    contact:
+    - email: dafydd.harries@collabora.co.uk
+  role:
+  - type: author
+revdate: '2022-08-06'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0272'
+doctype: rfc

@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0464
+title:
+- content: Cookies
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0464.html
+  type: src
+type: standard
+docid:
+- id: XEP 0464
+  type: XEP
+  primary: true
+- id: XEP-0464
+  type: XEP
+  scope: anchor
+docnumber: XEP-0464
+date:
+- type: published
+  value: '2022-04-01'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Burtrum
+        language:
+        - en
+      completename:
+        content: Travis Burtrum
+        language:
+        - en
+    contact:
+    - email: travis@burtrum.org
+  role:
+  - type: author
+revdate: '2022-04-01'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0464'
+doctype: rfc

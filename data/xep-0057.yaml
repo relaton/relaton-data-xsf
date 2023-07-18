@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0057
+title:
+- content: Extended Roster
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0057.html
+  type: src
+type: standard
+docid:
+- id: XEP 0057
+  type: XEP
+  primary: true
+- id: XEP-0057
+  type: XEP
+  scope: anchor
+docnumber: XEP-0057
+date:
+- type: published
+  value: '2003-04-28'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+      surname:
+        content: Shchepin
+        language:
+        - en
+      completename:
+        content: Alexey Shchepin
+        language:
+        - en
+    contact:
+    - email: alexey@sevcom.net
+  role:
+  - type: author
+revdate: '2003-04-28'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0057'
+doctype: rfc

@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0347
+title:
+- content: Internet of Things - Discovery
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0347.html
+  type: src
+type: standard
+docid:
+- id: XEP 0347
+  type: XEP
+  primary: true
+- id: XEP-0347
+  type: XEP
+  scope: anchor
+docnumber: XEP-0347
+date:
+- type: published
+  value: '2018-11-03'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Waher
+        language:
+        - en
+      completename:
+        content: Peter Waher
+        language:
+        - en
+    contact:
+    - email: peterwaher@hotmail.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+      surname:
+        content: Klauck
+        language:
+        - en
+      completename:
+        content: Ronny Klauck
+        language:
+        - en
+    contact:
+    - email: rklauck@informatik.tu-cottbus.de
+  role:
+  - type: author
+revdate: '2018-11-03'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0347'
+doctype: rfc

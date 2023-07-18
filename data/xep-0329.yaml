@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0329
+title:
+- content: File Information Sharing
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0329.html
+  type: src
+type: standard
+docid:
+- id: XEP 0329
+  type: XEP
+  primary: true
+- id: XEP-0329
+  type: XEP
+  scope: anchor
+docnumber: XEP-0329
+date:
+- type: published
+  value: '2020-06-14'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Lagrange
+        language:
+        - en
+      completename:
+        content: Jefry Lagrange
+        language:
+        - en
+    contact:
+    - email: jefry.reyes@gmail.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+      surname:
+        content: Stout
+        language:
+        - en
+      completename:
+        content: Lance Stout
+        language:
+        - en
+    contact:
+    - email: lance@andyet.com
+  role:
+  - type: author
+revdate: '2020-06-14'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0329'
+doctype: rfc

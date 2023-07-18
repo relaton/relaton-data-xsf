@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0298
+title:
+- content: Delivering Conference Information to Jingle Participants (Coin)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0298.html
+  type: src
+type: standard
+docid:
+- id: XEP 0298
+  type: XEP
+  primary: true
+- id: XEP-0298
+  type: XEP
+  scope: anchor
+docnumber: XEP-0298
+date:
+- type: published
+  value: '2015-07-02'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+      surname:
+        content: Ivov
+        language:
+        - en
+      completename:
+        content: Emil Ivov
+        language:
+        - en
+    contact:
+    - email: emcho@jitsi.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+      surname:
+        content: Marocco
+        language:
+        - en
+      completename:
+        content: Enrico Marocco
+        language:
+        - en
+    contact:
+    - email: enrico.marocco@telecomitalia.it
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: Corretgé
+        language:
+        - en
+      completename:
+        content: Saúl Ibarra Corretgé
+        language:
+        - en
+    contact:
+    - email: saul@ag-projects.com
+  role:
+  - type: author
+revdate: '2015-07-02'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0298'
+doctype: rfc

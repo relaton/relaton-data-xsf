@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0276
+title:
+- content: Presence Decloaking
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0276.html
+  type: src
+type: standard
+docid:
+- id: XEP 0276
+  type: XEP
+  primary: true
+- id: XEP-0276
+  type: XEP
+  scope: anchor
+docnumber: XEP-0276
+date:
+- type: published
+  value: '2012-07-13'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: McVittie
+        language:
+        - en
+      completename:
+        content: Simon McVittie
+        language:
+        - en
+    contact:
+    - email: simon.mcvittie@collabora.co.uk
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+      surname:
+        content: McQueen
+        language:
+        - en
+      completename:
+        content: Robert McQueen
+        language:
+        - en
+    contact:
+    - email: robert.mcqueen@collabora.co.uk
+  role:
+  - type: author
+revdate: '2012-07-13'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0276'
+doctype: rfc

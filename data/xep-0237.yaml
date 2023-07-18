@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0237
+title:
+- content: Roster Versioning
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0237.html
+  type: src
+type: standard
+docid:
+- id: XEP 0237
+  type: XEP
+  primary: true
+- id: XEP-0237
+  type: XEP
+  scope: anchor
+docnumber: XEP-0237
+date:
+- type: published
+  value: '2012-02-08'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Cridland
+        language:
+        - en
+      completename:
+        content: Dave Cridland
+        language:
+        - en
+    contact:
+    - email: dave@hellopando.com
+  role:
+  - type: author
+revdate: '2012-02-08'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0237'
+doctype: rfc

@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0239
+title:
+- content: Binary XMPP
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0239.html
+  type: src
+type: standard
+docid:
+- id: XEP 0239
+  type: XEP
+  primary: true
+- id: XEP-0239
+  type: XEP
+  scope: anchor
+docnumber: XEP-0239
+date:
+- type: published
+  value: '2008-04-01'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Melo
+        language:
+        - en
+      completename:
+        content: Pedro Melo
+        language:
+        - en
+    contact:
+    - email: '011011010110010101101100011011110100000001110011011010010110110101110000011011000110100101100011011010010110010001100001011001000110010100101110011011110111001001100111'
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: '011100110111010001110000011001010111010001100101011100100100000001101010011000010110001001100010011001010111001000101110011011110111001001100111'
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: F
+        formatted_initials:
+          content: F.
+          language:
+          - en
+      surname:
+        content: Forno
+        language:
+        - en
+      completename:
+        content: Fabio Forno
+        language:
+        - en
+    contact:
+    - email: '011001100110000101100010011010010110111100101110011001100110111101110010011011100110111101000000011001110110110101100001011010010110110000101110011000110110111101101101'
+  role:
+  - type: author
+revdate: '2008-04-01'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0239'
+doctype: rfc

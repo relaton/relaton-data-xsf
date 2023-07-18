@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0011
+title:
+- content: Jabber Browsing
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0011.html
+  type: src
+type: standard
+docid:
+- id: XEP 0011
+  type: XEP
+  primary: true
+- id: XEP-0011
+  type: XEP
+  scope: anchor
+docnumber: XEP-0011
+date:
+- type: published
+  value: '2021-03-04'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Miller
+        language:
+        - en
+      completename:
+        content: Jeremie Miller
+        language:
+        - en
+    contact:
+    - email: jer@jabber.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Missig
+        language:
+        - en
+      completename:
+        content: Julian Missig
+        language:
+        - en
+    contact:
+    - email: julian@jabber.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Muldowney
+        language:
+        - en
+      completename:
+        content: Thomas Muldowney
+        language:
+        - en
+    contact:
+    - email: temas@jabber.org
+  role:
+  - type: author
+revdate: '2021-03-04'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0011'
+doctype: rfc

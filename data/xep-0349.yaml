@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0349
+title:
+- content: Rayo Clustering
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0349.html
+  type: src
+type: standard
+docid:
+- id: XEP 0349
+  type: XEP
+  primary: true
+- id: XEP-0349
+  type: XEP
+  scope: anchor
+docnumber: XEP-0349
+date:
+- type: published
+  value: '2017-09-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+      surname:
+        content: Langfeld
+        language:
+        - en
+      completename:
+        content: Ben Langfeld
+        language:
+        - en
+    contact:
+    - email: ben@langfeld.me
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Pérez
+        language:
+        - en
+      completename:
+        content: Martín Pérez
+        language:
+        - en
+    contact:
+    - email: mperez@tropo.com
+  role:
+  - type: author
+revdate: '2017-09-11'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0349'
+doctype: rfc

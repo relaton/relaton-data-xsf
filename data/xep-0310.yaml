@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0310
+title:
+- content: Presence State Annotations
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0310.html
+  type: src
+type: standard
+docid:
+- id: XEP 0310
+  type: XEP
+  primary: true
+- id: XEP-0310
+  type: XEP
+  scope: anchor
+docnumber: XEP-0310
+date:
+- type: published
+  value: '2012-01-10'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Smith
+        language:
+        - en
+      completename:
+        content: Kevin Smith
+        language:
+        - en
+    contact:
+    - email: kevin.smith@isode.com
+  role:
+  - type: author
+revdate: '2012-01-10'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0310'
+doctype: rfc

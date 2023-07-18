@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0290
+title:
+- content: Encapsulated Digital Signatures in XMPP
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0290.html
+  type: src
+type: standard
+docid:
+- id: XEP 0290
+  type: XEP
+  primary: true
+- id: XEP-0290
+  type: XEP
+  scope: anchor
+docnumber: XEP-0290
+date:
+- type: published
+  value: '2011-01-28'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Zeilenga
+        language:
+        - en
+      completename:
+        content: Kurt Zeilenga
+        language:
+        - en
+    contact:
+    - email: Kurt.Zeilenga@Isode.COM
+  role:
+  - type: author
+revdate: '2011-01-28'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0290'
+doctype: rfc

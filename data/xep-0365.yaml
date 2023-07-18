@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0365
+title:
+- content: Server to Server communication over STANAG 5066 ARQ
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0365.html
+  type: src
+type: standard
+docid:
+- id: XEP 0365
+  type: XEP
+  primary: true
+- id: XEP-0365
+  type: XEP
+  scope: anchor
+docnumber: XEP-0365
+date:
+- type: published
+  value: '2022-03-28'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: Kille
+        language:
+        - en
+      completename:
+        content: Steve Kille
+        language:
+        - en
+    contact:
+    - email: steve.kille@isode.com
+  role:
+  - type: author
+revdate: '2022-03-28'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0365'
+doctype: rfc

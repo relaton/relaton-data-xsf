@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0440
+title:
+- content: SASL Channel-Binding Type Capability
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0440.html
+  type: src
+type: standard
+docid:
+- id: XEP 0440
+  type: XEP
+  primary: true
+- id: XEP-0440
+  type: XEP
+  scope: anchor
+docnumber: XEP-0440
+date:
+- type: published
+  value: '2022-09-21'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: F
+        formatted_initials:
+          content: F.
+          language:
+          - en
+      surname:
+        content: Schmaus
+        language:
+        - en
+      completename:
+        content: Florian Schmaus
+        language:
+        - en
+    contact:
+    - email: flo@geekplace.eu
+  role:
+  - type: author
+revdate: '2022-09-21'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0440'
+doctype: rfc

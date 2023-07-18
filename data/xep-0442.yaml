@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0442
+title:
+- content: Pubsub Message Archive Management
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0442.html
+  type: src
+type: standard
+docid:
+- id: XEP 0442
+  type: XEP
+  primary: true
+- id: XEP-0442
+  type: XEP
+  scope: anchor
+docnumber: XEP-0442
+date:
+- type: published
+  value: '2020-08-25'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Wild
+        language:
+        - en
+      completename:
+        content: Matthew Wild
+        language:
+        - en
+    contact:
+    - email: mwild1@gmail.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Smith
+        language:
+        - en
+      completename:
+        content: Kevin Smith
+        language:
+        - en
+    contact:
+    - email: kevin@kismith.co.uk
+  role:
+  - type: author
+revdate: '2020-08-25'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0442'
+doctype: rfc

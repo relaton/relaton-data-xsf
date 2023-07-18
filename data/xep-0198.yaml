@@ -1,0 +1,180 @@
+---
+schema-version: v1.2.3
+id: XEP0198
+title:
+- content: Stream Management
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0198.html
+  type: src
+type: standard
+docid:
+- id: XEP 0198
+  type: XEP
+  primary: true
+- id: XEP-0198
+  type: XEP
+  scope: anchor
+docnumber: XEP-0198
+date:
+- type: published
+  value: '2018-07-25'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Karneges
+        language:
+        - en
+      completename:
+        content: Justin Karneges
+        language:
+        - en
+    contact:
+    - email: justin@karneges.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Hildebrand
+        language:
+        - en
+      completename:
+        content: Joe Hildebrand
+        language:
+        - en
+    contact:
+    - email: jhildebr@cisco.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: F
+        formatted_initials:
+          content: F.
+          language:
+          - en
+      surname:
+        content: Forno
+        language:
+        - en
+      completename:
+        content: Fabio Forno
+        language:
+        - en
+    contact:
+    - email: fabio.forno@gmail.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Cridland
+        language:
+        - en
+      completename:
+        content: Dave Cridland
+        language:
+        - en
+    contact:
+    - email: dave@hellopando.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Wild
+        language:
+        - en
+      completename:
+        content: Matthew Wild
+        language:
+        - en
+    contact:
+    - email: mwild1@gmail.com
+  role:
+  - type: author
+revdate: '2018-07-25'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0198'
+doctype: rfc

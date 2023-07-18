@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0422
+title:
+- content: Message Fastening
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0422.html
+  type: src
+type: standard
+docid:
+- id: XEP 0422
+  type: XEP
+  primary: true
+- id: XEP-0422
+  type: XEP
+  scope: anchor
+docnumber: XEP-0422
+date:
+- type: published
+  value: '2019-12-30'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Smith
+        language:
+        - en
+      completename:
+        content: Kevin Smith
+        language:
+        - en
+    contact:
+    - email: kevin.smith@isode.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Cridland
+        language:
+        - en
+      completename:
+        content: Dave Cridland
+        language:
+        - en
+    contact:
+    - email: dave@hellopando.com
+  role:
+  - type: author
+revdate: '2019-12-30'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0422'
+doctype: rfc

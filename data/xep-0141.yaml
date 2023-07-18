@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0141
+title:
+- content: Data Forms Layout
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0141.html
+  type: src
+type: standard
+docid:
+- id: XEP 0141
+  type: XEP
+  primary: true
+- id: XEP-0141
+  type: XEP
+  scope: anchor
+docnumber: XEP-0141
+date:
+- type: published
+  value: '2005-05-12'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Miller
+        language:
+        - en
+      completename:
+        content: Matthew Miller
+        language:
+        - en
+    contact:
+    - email: linuxwolf@outer-planes.net
+  role:
+  - type: author
+revdate: '2005-05-12'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0141'
+doctype: rfc

@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0404
+title:
+- content: 'Mediated Information eXchange (MIX): JID Hidden Channels.'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0404.html
+  type: src
+type: standard
+docid:
+- id: XEP 0404
+  type: XEP
+  primary: true
+- id: XEP-0404
+  type: XEP
+  scope: anchor
+docnumber: XEP-0404
+date:
+- type: published
+  value: '2020-12-01'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Smith
+        language:
+        - en
+      completename:
+        content: Kevin Smith
+        language:
+        - en
+    contact:
+    - email: kevin.smith@isode.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: Kille
+        language:
+        - en
+      completename:
+        content: Steve Kille
+        language:
+        - en
+    contact:
+    - email: steve.kille@isode.com
+  role:
+  - type: author
+revdate: '2020-12-01'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0404'
+doctype: rfc

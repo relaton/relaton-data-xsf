@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0145
+title:
+- content: Annotations
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0145.html
+  type: src
+type: standard
+docid:
+- id: XEP 0145
+  type: XEP
+  primary: true
+- id: XEP-0145
+  type: XEP
+  scope: anchor
+docnumber: XEP-0145
+date:
+- type: published
+  value: '2006-03-23'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: Strigler
+        language:
+        - en
+      completename:
+        content: Stefan Strigler
+        language:
+        - en
+    contact:
+    - email: steve@zeank.in-berlin.de
+  role:
+  - type: author
+revdate: '2006-03-23'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0145'
+doctype: rfc

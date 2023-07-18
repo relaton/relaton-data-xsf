@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0380
+title:
+- content: Explicit Message Encryption
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0380.html
+  type: src
+type: standard
+docid:
+- id: XEP 0380
+  type: XEP
+  primary: true
+- id: XEP-0380
+  type: XEP
+  scope: anchor
+docnumber: XEP-0380
+date:
+- type: published
+  value: '2021-11-18'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+      surname:
+        content: Peyrot
+        language:
+        - en
+      completename:
+        content: Emmanuel Gil Peyrot
+        language:
+        - en
+    contact:
+    - email: linkmauve@linkmauve.fr
+  role:
+  - type: author
+revdate: '2021-11-18'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0380'
+doctype: rfc

@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0479
+title:
+- content: XMPP Compliance Suites 2023
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0479.html
+  type: src
+type: standard
+docid:
+- id: XEP 0479
+  type: XEP
+  primary: true
+- id: XEP-0479
+  type: XEP
+  scope: anchor
+docnumber: XEP-0479
+date:
+- type: published
+  value: '2023-05-04'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+      surname:
+        content: Lukas
+        language:
+        - en
+      completename:
+        content: Georg Lukas
+        language:
+        - en
+    contact:
+    - email: georg@op-co.de
+  role:
+  - type: author
+revdate: '2023-05-04'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0479'
+doctype: rfc

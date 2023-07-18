@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0137
+title:
+- content: Publishing Stream Initiation Requests
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0137.html
+  type: src
+type: standard
+docid:
+- id: XEP 0137
+  type: XEP
+  primary: true
+- id: XEP-0137
+  type: XEP
+  scope: anchor
+docnumber: XEP-0137
+date:
+- type: published
+  value: '2018-02-28'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Miller
+        language:
+        - en
+      completename:
+        content: Matthew Miller
+        language:
+        - en
+    contact:
+    - email: linuxwolf@outer-planes.net
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Muldowney
+        language:
+        - en
+      completename:
+        content: Thomas Muldowney
+        language:
+        - en
+    contact:
+    - email: temas@jabber.org
+  role:
+  - type: author
+revdate: '2018-02-28'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0137'
+doctype: rfc

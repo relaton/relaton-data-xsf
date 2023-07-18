@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0303
+title:
+- content: Commenting
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0303.html
+  type: src
+type: standard
+docid:
+- id: XEP 0303
+  type: XEP
+  primary: true
+- id: XEP-0303
+  type: XEP
+  scope: anchor
+docnumber: XEP-0303
+date:
+- type: published
+  value: '2011-07-28'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Karneges
+        language:
+        - en
+      completename:
+        content: Justin Karneges
+        language:
+        - en
+    contact:
+    - email: justin@karneges.com
+  role:
+  - type: author
+revdate: '2011-07-28'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0303'
+doctype: rfc

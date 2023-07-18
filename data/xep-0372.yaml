@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0372
+title:
+- content: References
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0372.html
+  type: src
+type: standard
+docid:
+- id: XEP 0372
+  type: XEP
+  primary: true
+- id: XEP-0372
+  type: XEP
+  scope: anchor
+docnumber: XEP-0372
+date:
+- type: published
+  value: '2020-12-09'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Smith
+        language:
+        - en
+      completename:
+        content: Kevin Smith
+        language:
+        - en
+    contact:
+    - email: kevin.smith@isode.com
+  role:
+  - type: author
+revdate: '2020-12-09'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0372'
+doctype: rfc

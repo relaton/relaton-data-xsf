@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0024
+title:
+- content: Publish/Subscribe
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0024.html
+  type: src
+type: standard
+docid:
+- id: XEP 0024
+  type: XEP
+  primary: true
+- id: XEP-0024
+  type: XEP
+  scope: anchor
+docnumber: XEP-0024
+date:
+- type: published
+  value: '2003-04-22'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Adams
+        language:
+        - en
+      completename:
+        content: DJ Adams
+        language:
+        - en
+    contact:
+    - email: dj.adams@pobox.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Harding
+        language:
+        - en
+      completename:
+        content: Piers Harding
+        language:
+        - en
+    contact:
+    - email: piers@ompa.net
+  role:
+  - type: author
+revdate: '2003-04-22'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0024'
+doctype: rfc

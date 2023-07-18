@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0460
+title:
+- content: Pubsub Caching Hints
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0460.html
+  type: src
+type: standard
+docid:
+- id: XEP 0460
+  type: XEP
+  primary: true
+- id: XEP-0460
+  type: XEP
+  scope: anchor
+docnumber: XEP-0460
+date:
+- type: published
+  value: '2021-08-10'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Poisson
+        language:
+        - en
+      completename:
+        content: Jérôme Poisson
+        language:
+        - en
+    contact:
+    - email: goffi@goffi.org
+  role:
+  - type: author
+revdate: '2021-08-10'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0460'
+doctype: rfc

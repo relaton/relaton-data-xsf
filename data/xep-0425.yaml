@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0425
+title:
+- content: Message Moderation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0425.html
+  type: src
+type: standard
+docid:
+- id: XEP 0425
+  type: XEP
+  primary: true
+- id: XEP-0425
+  type: XEP
+  scope: anchor
+docnumber: XEP-0425
+date:
+- type: published
+  value: '2020-01-28'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Brand
+        language:
+        - en
+      completename:
+        content: JC Brand
+        language:
+        - en
+    contact:
+    - email: jc@opkode.com
+  role:
+  - type: author
+revdate: '2020-01-28'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0425'
+doctype: rfc

@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0364
+title:
+- content: Current Off-the-Record Messaging Usage
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0364.html
+  type: src
+type: standard
+docid:
+- id: XEP 0364
+  type: XEP
+  primary: true
+- id: XEP-0364
+  type: XEP
+  scope: anchor
+docnumber: XEP-0364
+date:
+- type: published
+  value: '2019-08-20'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: Whited
+        language:
+        - en
+      completename:
+        content: Sam Whited
+        language:
+        - en
+    contact:
+    - email: sam@samwhited.com
+  role:
+  - type: author
+revdate: '2019-08-20'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0364'
+doctype: rfc

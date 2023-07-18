@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0318
+title:
+- content: Best Practices for Client Initiated Presence Probes
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0318.html
+  type: src
+type: standard
+docid:
+- id: XEP 0318
+  type: XEP
+  primary: true
+- id: XEP-0318
+  type: XEP
+  scope: anchor
+docnumber: XEP-0318
+date:
+- type: published
+  value: '2013-08-06'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Markmann
+        language:
+        - en
+      completename:
+        content: Tobias Markmann
+        language:
+        - en
+    contact:
+    - email: tobias.markmann@isode.com
+  role:
+  - type: author
+revdate: '2013-08-06'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0318'
+doctype: rfc

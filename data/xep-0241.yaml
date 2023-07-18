@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0241
+title:
+- content: Encryption of Archived Messages
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0241.html
+  type: src
+type: standard
+docid:
+- id: XEP 0241
+  type: XEP
+  primary: true
+- id: XEP-0241
+  type: XEP
+  scope: anchor
+docnumber: XEP-0241
+date:
+- type: published
+  value: '2008-04-30'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: I
+        formatted_initials:
+          content: I.
+          language:
+          - en
+      surname:
+        content: Paterson
+        language:
+        - en
+      completename:
+        content: Ian Paterson
+        language:
+        - en
+    contact:
+    - email: ian.paterson@clientside.co.uk
+  role:
+  - type: author
+revdate: '2008-04-30'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0241'
+doctype: rfc

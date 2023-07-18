@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0433
+title:
+- content: Extended Channel Search
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0433.html
+  type: src
+type: standard
+docid:
+- id: XEP 0433
+  type: XEP
+  primary: true
+- id: XEP-0433
+  type: XEP
+  scope: anchor
+docnumber: XEP-0433
+date:
+- type: published
+  value: '2020-02-27'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Schäfer
+        language:
+        - en
+      completename:
+        content: Jonas Schäfer
+        language:
+        - en
+    contact:
+    - email: jonas@wielicki.name
+  role:
+  - type: author
+revdate: '2020-02-27'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0433'
+doctype: rfc

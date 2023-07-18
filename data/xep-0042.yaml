@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0042
+title:
+- content: Jabber OOB Broadcast Service (JOBS)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0042.html
+  type: src
+type: standard
+docid:
+- id: XEP 0042
+  type: XEP
+  primary: true
+- id: XEP-0042
+  type: XEP
+  scope: anchor
+docnumber: XEP-0042
+date:
+- type: published
+  value: '2003-04-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Miller
+        language:
+        - en
+      completename:
+        content: Matthew Miller
+        language:
+        - en
+    contact:
+    - email: linuxwolf@outer-planes.net
+  role:
+  - type: author
+revdate: '2003-04-11'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0042'
+doctype: rfc

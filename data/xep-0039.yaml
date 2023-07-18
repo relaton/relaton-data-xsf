@@ -1,0 +1,134 @@
+---
+schema-version: v1.2.3
+id: XEP0039
+title:
+- content: Statistics Gathering
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0039.html
+  type: src
+type: standard
+docid:
+- id: XEP 0039
+  type: XEP
+  primary: true
+- id: XEP-0039
+  type: XEP
+  scope: anchor
+docnumber: XEP-0039
+date:
+- type: published
+  value: '2002-11-05'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Curtis
+        language:
+        - en
+      completename:
+        content: Paul Curtis
+        language:
+        - en
+    contact:
+    - email: pcurtis@terrapin.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+      surname:
+        content: Davis
+        language:
+        - en
+      completename:
+        content: Russell Davis
+        language:
+        - en
+    contact:
+    - email: ukscone@burninghorse.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+      surname:
+        content: Eatmon
+        language:
+        - en
+      completename:
+        content: Ryan Eatmon
+        language:
+        - en
+    contact:
+    - email: reatmon@jabber.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Sutton
+        language:
+        - en
+      completename:
+        content: David Sutton
+        language:
+        - en
+    contact:
+    - email: dsutton@legend.co.uk
+  role:
+  - type: author
+revdate: '2002-11-05'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0039'
+doctype: rfc

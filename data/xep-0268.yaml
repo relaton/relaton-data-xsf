@@ -1,0 +1,157 @@
+---
+schema-version: v1.2.3
+id: XEP0268
+title:
+- content: Incident Handling
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0268.html
+  type: src
+type: standard
+docid:
+- id: XEP 0268
+  type: XEP
+  primary: true
+- id: XEP-0268
+  type: XEP
+  scope: anchor
+docnumber: XEP-0268
+date:
+- type: published
+  value: '2012-05-29'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+      surname:
+        content: Hefczyc
+        language:
+        - en
+      completename:
+        content: Artur Hefczyc
+        language:
+        - en
+    contact:
+    - email: artur.hefczyc@gmail.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: F
+        formatted_initials:
+          content: F.
+          language:
+          - en
+      surname:
+        content: Jensen
+        language:
+        - en
+      completename:
+        content: Florian Jensen
+        language:
+        - en
+    contact:
+    - email: admin@flosoft.biz
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Rémond
+        language:
+        - en
+      completename:
+        content: Mickaël Rémond
+        language:
+        - en
+    contact:
+    - email: mickael.remond@process-one.net
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Wild
+        language:
+        - en
+      completename:
+        content: Matthew Wild
+        language:
+        - en
+    contact:
+    - email: mwild1@gmail.com
+  role:
+  - type: author
+revdate: '2012-05-29'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0268'
+doctype: rfc

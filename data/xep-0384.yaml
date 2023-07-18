@@ -1,0 +1,180 @@
+---
+schema-version: v1.2.3
+id: XEP0384
+title:
+- content: OMEMO Encryption
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0384.html
+  type: src
+type: standard
+docid:
+- id: XEP 0384
+  type: XEP
+  primary: true
+- id: XEP-0384
+  type: XEP
+  scope: anchor
+docnumber: XEP-0384
+date:
+- type: published
+  value: '2022-01-18'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+      surname:
+        content: Straub
+        language:
+        - en
+      completename:
+        content: Andreas Straub
+        language:
+        - en
+    contact:
+    - email: andy@strb.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Gultsch
+        language:
+        - en
+      completename:
+        content: Daniel Gultsch
+        language:
+        - en
+    contact:
+    - email: daniel@gultsch.de
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Henkes
+        language:
+        - en
+      completename:
+        content: Tim Henkes
+        language:
+        - en
+    contact:
+    - email: me@syndace.dev
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Herberth
+        language:
+        - en
+      completename:
+        content: Klaus Herberth
+        language:
+        - en
+    contact:
+    - email: ''
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Schaub
+        language:
+        - en
+      completename:
+        content: Paul Schaub
+        language:
+        - en
+    contact:
+    - email: vanitasvitae@riseup.net
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Wißfeld
+        language:
+        - en
+      completename:
+        content: Marvin Wißfeld
+        language:
+        - en
+    contact:
+    - email: xmpp@larma.de
+  role:
+  - type: author
+revdate: '2022-01-18'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0384'
+doctype: rfc

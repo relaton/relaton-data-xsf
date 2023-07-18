@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0416
+title:
+- content: E2E Authentication in XMPP
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0416.html
+  type: src
+type: standard
+docid:
+- id: XEP 0416
+  type: XEP
+  primary: true
+- id: XEP-0416
+  type: XEP
+  scope: anchor
+docnumber: XEP-0416
+date:
+- type: published
+  value: '2019-03-06'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+      surname:
+        content: Khramtsov
+        language:
+        - en
+      completename:
+        content: Evgeny Khramtsov
+        language:
+        - en
+    contact:
+    - email: ekhramtsov@process-one.net
+  role:
+  - type: author
+revdate: '2019-03-06'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0416'
+doctype: rfc

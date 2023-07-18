@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0332
+title:
+- content: HTTP over XMPP transport
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0332.html
+  type: src
+type: standard
+docid:
+- id: XEP 0332
+  type: XEP
+  primary: true
+- id: XEP-0332
+  type: XEP
+  scope: anchor
+docnumber: XEP-0332
+date:
+- type: published
+  value: '2020-03-31'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Waher
+        language:
+        - en
+      completename:
+        content: Peter Waher
+        language:
+        - en
+    contact:
+    - email: peterwaher@hotmail.com
+  role:
+  - type: author
+revdate: '2020-03-31'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0332'
+doctype: rfc

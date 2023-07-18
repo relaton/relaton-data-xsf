@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0015
+title:
+- content: Account Transfer
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0015.html
+  type: src
+type: standard
+docid:
+- id: XEP 0015
+  type: XEP
+  primary: true
+- id: XEP-0015
+  type: XEP
+  scope: anchor
+docnumber: XEP-0015
+date:
+- type: published
+  value: '2002-04-18'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+      surname:
+        content: Crabb
+        language:
+        - en
+      completename:
+        content: Casey Crabb
+        language:
+        - en
+    contact:
+    - email: crabbkw@nafai.dyndns.org
+  role:
+  - type: author
+revdate: '2002-04-18'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0015'
+doctype: rfc

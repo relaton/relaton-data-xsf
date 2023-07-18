@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0009
+title:
+- content: Jabber-RPC
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0009.html
+  type: src
+type: standard
+docid:
+- id: XEP 0009
+  type: XEP
+  primary: true
+- id: XEP-0009
+  type: XEP
+  scope: anchor
+docnumber: XEP-0009
+date:
+- type: published
+  value: '2021-03-04'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Adams
+        language:
+        - en
+      completename:
+        content: DJ Adams
+        language:
+        - en
+    contact:
+    - email: dj.adams@pobox.com
+  role:
+  - type: author
+revdate: '2021-03-04'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0009'
+doctype: rfc

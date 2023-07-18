@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0258
+title:
+- content: Security Labels in XMPP
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0258.html
+  type: src
+type: standard
+docid:
+- id: XEP 0258
+  type: XEP
+  primary: true
+- id: XEP-0258
+  type: XEP
+  scope: anchor
+docnumber: XEP-0258
+date:
+- type: published
+  value: '2018-11-03'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Zeilenga
+        language:
+        - en
+      completename:
+        content: Kurt Zeilenga
+        language:
+        - en
+    contact:
+    - email: Kurt.Zeilenga@Isode.COM
+  role:
+  - type: author
+revdate: '2018-11-03'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0258'
+doctype: rfc

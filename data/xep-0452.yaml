@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0452
+title:
+- content: MUC Mention Notifications
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0452.html
+  type: src
+type: standard
+docid:
+- id: XEP 0452
+  type: XEP
+  primary: true
+- id: XEP-0452
+  type: XEP
+  scope: anchor
+docnumber: XEP-0452
+date:
+- type: published
+  value: '2022-01-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Brand
+        language:
+        - en
+      completename:
+        content: JC Brand
+        language:
+        - en
+    contact:
+    - email: jc@opkode.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: Ferrer de la Peñita
+        language:
+        - en
+      completename:
+        content: Severino Ferrer de la Peñita
+        language:
+        - en
+    contact:
+    - email: soul@blastersklan.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Wild
+        language:
+        - en
+      completename:
+        content: Matthew Wild
+        language:
+        - en
+    contact:
+    - email: mwild1@gmail.com
+  role:
+  - type: author
+revdate: '2022-01-11'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0452'
+doctype: rfc

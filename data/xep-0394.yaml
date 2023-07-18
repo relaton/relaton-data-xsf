@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0394
+title:
+- content: Message Markup
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0394.html
+  type: src
+type: standard
+docid:
+- id: XEP 0394
+  type: XEP
+  primary: true
+- id: XEP-0394
+  type: XEP
+  scope: anchor
+docnumber: XEP-0394
+date:
+- type: published
+  value: '2019-01-05'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Kozlov
+        language:
+        - en
+      completename:
+        content: Konstzntin Kozlov
+        language:
+        - en
+    contact:
+    - email: yagiza@yandex.ru
+  role:
+  - type: author
+revdate: '2019-01-05'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0394'
+doctype: rfc

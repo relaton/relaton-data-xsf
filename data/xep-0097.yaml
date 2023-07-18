@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0097
+title:
+- content: iCal Envelope
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0097.html
+  type: src
+type: standard
+docid:
+- id: XEP 0097
+  type: XEP
+  primary: true
+- id: XEP-0097
+  type: XEP
+  scope: anchor
+docnumber: XEP-0097
+date:
+- type: published
+  value: '2003-06-10'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Kirby
+        language:
+        - en
+      completename:
+        content: Justin Kirby
+        language:
+        - en
+    contact:
+    - email: justin@openaether.org
+  role:
+  - type: author
+revdate: '2003-06-10'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0097'
+doctype: rfc

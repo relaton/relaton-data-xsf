@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0280
+title:
+- content: Message Carbons
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0280.html
+  type: src
+type: standard
+docid:
+- id: XEP 0280
+  type: XEP
+  primary: true
+- id: XEP-0280
+  type: XEP
+  scope: anchor
+docnumber: XEP-0280
+date:
+- type: published
+  value: '2021-12-26'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Hildebrand
+        language:
+        - en
+      completename:
+        content: Joe Hildebrand
+        language:
+        - en
+    contact:
+    - email: jhildebr@cisco.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Miller
+        language:
+        - en
+      completename:
+        content: Matthew Miller
+        language:
+        - en
+    contact:
+    - email: linuxwolf@outer-planes.net
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+      surname:
+        content: Lukas
+        language:
+        - en
+      completename:
+        content: Georg Lukas
+        language:
+        - en
+    contact:
+    - email: georg@op-co.de
+  role:
+  - type: author
+revdate: '2021-12-26'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0280'
+doctype: rfc

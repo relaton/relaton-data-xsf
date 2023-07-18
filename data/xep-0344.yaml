@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0344
+title:
+- content: Impact of TLS and DNSSEC on Dialback
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0344.html
+  type: src
+type: standard
+docid:
+- id: XEP 0344
+  type: XEP
+  primary: true
+- id: XEP-0344
+  type: XEP
+  scope: anchor
+docnumber: XEP-0344
+date:
+- type: published
+  value: '2017-09-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Hancke
+        language:
+        - en
+      completename:
+        content: Philipp Hancke
+        language:
+        - en
+    contact:
+    - email: fippo@andyet.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Cridland
+        language:
+        - en
+      completename:
+        content: Dave Cridland
+        language:
+        - en
+    contact:
+    - email: dave@hellopando.com
+  role:
+  - type: author
+revdate: '2017-09-11'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0344'
+doctype: rfc

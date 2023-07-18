@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0357
+title:
+- content: Push Notifications
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0357.html
+  type: src
+type: standard
+docid:
+- id: XEP 0357
+  type: XEP
+  primary: true
+- id: XEP-0357
+  type: XEP
+  scope: anchor
+docnumber: XEP-0357
+date:
+- type: published
+  value: '2020-02-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Smith
+        language:
+        - en
+      completename:
+        content: Kevin Smith
+        language:
+        - en
+    contact:
+    - email: kevin@kismith.co.uk
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+      surname:
+        content: Stout
+        language:
+        - en
+      completename:
+        content: Lance Stout
+        language:
+        - en
+    contact:
+    - email: lance@andyet.com
+  role:
+  - type: author
+revdate: '2020-02-11'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0357'
+doctype: rfc

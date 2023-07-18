@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0410
+title:
+- content: MUC Self-Ping (Schrödinger's Chat)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0410.html
+  type: src
+type: standard
+docid:
+- id: XEP 0410
+  type: XEP
+  primary: true
+- id: XEP-0410
+  type: XEP
+  scope: anchor
+docnumber: XEP-0410
+date:
+- type: published
+  value: '2019-09-25'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+      surname:
+        content: Lukas
+        language:
+        - en
+      completename:
+        content: Georg Lukas
+        language:
+        - en
+    contact:
+    - email: georg@op-co.de
+  role:
+  - type: author
+revdate: '2019-09-25'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0410'
+doctype: rfc

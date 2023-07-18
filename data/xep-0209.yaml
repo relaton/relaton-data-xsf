@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0209
+title:
+- content: Metacontacts
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0209.html
+  type: src
+type: standard
+docid:
+- id: XEP 0209
+  type: XEP
+  primary: true
+- id: XEP-0209
+  type: XEP
+  scope: anchor
+docnumber: XEP-0209
+date:
+- type: published
+  value: '2007-04-10'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Smith
+        language:
+        - en
+      completename:
+        content: Kevin Smith
+        language:
+        - en
+    contact:
+    - email: kevin@kismith.co.uk
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+      surname:
+        content: Tronçon
+        language:
+        - en
+      completename:
+        content: Remko Tronçon
+        language:
+        - en
+    contact:
+    - email: ''
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: Y
+        formatted_initials:
+          content: Y.
+          language:
+          - en
+      surname:
+        content: Le Boulanger
+        language:
+        - en
+      completename:
+        content: Yann Le Boulanger
+        language:
+        - en
+    contact:
+    - email: asterix@lagaule.org
+  role:
+  - type: author
+revdate: '2007-04-10'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0209'
+doctype: rfc

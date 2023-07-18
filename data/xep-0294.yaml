@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0294
+title:
+- content: Jingle RTP Header Extensions Negotiation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0294.html
+  type: src
+type: standard
+docid:
+- id: XEP 0294
+  type: XEP
+  primary: true
+- id: XEP-0294
+  type: XEP
+  scope: anchor
+docnumber: XEP-0294
+date:
+- type: published
+  value: '2022-08-27'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: O
+        formatted_initials:
+          content: O.
+          language:
+          - en
+      surname:
+        content: Crête
+        language:
+        - en
+      completename:
+        content: Olivier Crête
+        language:
+        - en
+    contact:
+    - email: olivier.crete@collabora.co.uk
+  role:
+  - type: author
+revdate: '2022-08-27'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0294'
+doctype: rfc

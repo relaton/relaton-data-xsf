@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0474
+title:
+- content: SASL SCRAM Downgrade Protection
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0474.html
+  type: src
+type: standard
+docid:
+- id: XEP 0474
+  type: XEP
+  primary: true
+- id: XEP-0474
+  type: XEP
+  scope: anchor
+docnumber: XEP-0474
+date:
+- type: published
+  value: '2023-01-14'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Molitor
+        language:
+        - en
+      completename:
+        content: Thilo Molitor
+        language:
+        - en
+    contact:
+    - email: thilo+xmpp@eightysoft.de
+  role:
+  - type: author
+revdate: '2023-01-14'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0474'
+doctype: rfc

@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0034
+title:
+- content: SASL Integration
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0034.html
+  type: src
+type: standard
+docid:
+- id: XEP 0034
+  type: XEP
+  primary: true
+- id: XEP-0034
+  type: XEP
+  scope: anchor
+docnumber: XEP-0034
+date:
+- type: published
+  value: '2003-11-05'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+      surname:
+        content: Norris
+        language:
+        - en
+      completename:
+        content: Robert Norris
+        language:
+        - en
+    contact:
+    - email: rob@cataclysm.cx
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Miller
+        language:
+        - en
+      completename:
+        content: Jeremie Miller
+        language:
+        - en
+    contact:
+    - email: jeremie@jabber.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: stpeter@jabber.org
+  role:
+  - type: author
+revdate: '2003-11-05'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0034'
+doctype: rfc

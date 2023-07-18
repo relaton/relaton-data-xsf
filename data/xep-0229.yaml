@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0229
+title:
+- content: Stream Compression with LZW
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0229.html
+  type: src
+type: standard
+docid:
+- id: XEP 0229
+  type: XEP
+  primary: true
+- id: XEP-0229
+  type: XEP
+  scope: anchor
+docnumber: XEP-0229
+date:
+- type: published
+  value: '2022-02-10'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+revdate: '2022-02-10'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0229'
+doctype: rfc

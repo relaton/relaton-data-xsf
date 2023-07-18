@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0087
+title:
+- content: Stream Initiation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0087.html
+  type: src
+type: standard
+docid:
+- id: XEP 0087
+  type: XEP
+  primary: true
+- id: XEP-0087
+  type: XEP
+  scope: anchor
+docnumber: XEP-0087
+date:
+- type: published
+  value: '2022-03-22'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Muldowney
+        language:
+        - en
+      completename:
+        content: Thomas Muldowney
+        language:
+        - en
+    contact:
+    - email: temas@jabber.org
+  role:
+  - type: author
+revdate: '2022-03-22'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0087'
+doctype: rfc

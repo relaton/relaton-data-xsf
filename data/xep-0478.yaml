@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0478
+title:
+- content: Stream Limits Advertisement
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0478.html
+  type: src
+type: standard
+docid:
+- id: XEP 0478
+  type: XEP
+  primary: true
+- id: XEP-0478
+  type: XEP
+  scope: anchor
+docnumber: XEP-0478
+date:
+- type: published
+  value: '2023-05-04'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Alvefur
+        language:
+        - en
+      completename:
+        content: Kim Alvefur
+        language:
+        - en
+    contact:
+    - email: zash@zash.se
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Wild
+        language:
+        - en
+      completename:
+        content: Matthew Wild
+        language:
+        - en
+    contact:
+    - email: mwild1@gmail.com
+  role:
+  - type: author
+revdate: '2023-05-04'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0478'
+doctype: rfc

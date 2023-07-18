@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0346
+title:
+- content: Form Discovery and Publishing
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0346.html
+  type: src
+type: standard
+docid:
+- id: XEP 0346
+  type: XEP
+  primary: true
+- id: XEP-0346
+  type: XEP
+  scope: anchor
+docnumber: XEP-0346
+date:
+- type: published
+  value: '2017-09-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Smith
+        language:
+        - en
+      completename:
+        content: Kevin Smith
+        language:
+        - en
+    contact:
+    - email: kevin.smith@isode.com
+  role:
+  - type: author
+revdate: '2017-09-11'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0346'
+doctype: rfc

@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0201
+title:
+- content: Best Practices for Message Threads
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0201.html
+  type: src
+type: standard
+docid:
+- id: XEP 0201
+  type: XEP
+  primary: true
+- id: XEP-0201
+  type: XEP
+  scope: anchor
+docnumber: XEP-0201
+date:
+- type: published
+  value: '2010-11-29'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: I
+        formatted_initials:
+          content: I.
+          language:
+          - en
+      surname:
+        content: Paterson
+        language:
+        - en
+      completename:
+        content: Ian Paterson
+        language:
+        - en
+    contact:
+    - email: ian.paterson@clientside.co.uk
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Smith
+        language:
+        - en
+      completename:
+        content: Kevin Smith
+        language:
+        - en
+    contact:
+    - email: kevin@kismith.co.uk
+  role:
+  - type: author
+revdate: '2010-11-29'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0201'
+doctype: rfc

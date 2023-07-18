@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0459
+title:
+- content: XMPP Compliance Suites 2022
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0459.html
+  type: src
+type: standard
+docid:
+- id: XEP 0459
+  type: XEP
+  primary: true
+- id: XEP-0459
+  type: XEP
+  scope: anchor
+docnumber: XEP-0459
+date:
+- type: published
+  value: '2021-12-01'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: Piers
+        language:
+        - en
+      completename:
+        content: Sonny Piers
+        language:
+        - en
+    contact:
+    - email: sonny@fastmail.net
+  role:
+  - type: author
+revdate: '2021-12-01'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0459'
+doctype: rfc

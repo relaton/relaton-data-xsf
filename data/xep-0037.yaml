@@ -1,0 +1,78 @@
+---
+schema-version: v1.2.3
+id: XEP0037
+title:
+- content: DSPS - Data Stream Proxy Service
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0037.html
+  type: src
+type: standard
+docid:
+- id: XEP 0037
+  type: XEP
+  primary: true
+- id: XEP-0037
+  type: XEP
+  scope: anchor
+docnumber: XEP-0037
+date:
+- type: published
+  value: '2016-10-04'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Sutton
+        language:
+        - en
+      completename:
+        content: David Sutton
+        language:
+        - en
+    contact:
+    - email: ''
+  role:
+  - type: author
+- person:
+    name:
+      surname:
+        language:
+        - en
+      completename:
+        content: '"Bac9" '
+        language:
+        - en
+    contact:
+    - email: bac9@bac9.yi.org
+  role:
+  - type: author
+revdate: '2016-10-04'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0037'
+doctype: rfc

@@ -1,0 +1,157 @@
+---
+schema-version: v1.2.3
+id: XEP0167
+title:
+- content: Jingle RTP Sessions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0167.html
+  type: src
+type: standard
+docid:
+- id: XEP 0167
+  type: XEP
+  primary: true
+- id: XEP-0167
+  type: XEP
+  scope: anchor
+docnumber: XEP-0167
+date:
+- type: published
+  value: '2022-09-26'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: Ludwig
+        language:
+        - en
+      completename:
+        content: Scott Ludwig
+        language:
+        - en
+    contact:
+    - email: scottlu@google.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: Egan
+        language:
+        - en
+      completename:
+        content: Sean Egan
+        language:
+        - en
+    contact:
+    - email: seanegan@google.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+      surname:
+        content: McQueen
+        language:
+        - en
+      completename:
+        content: Robert McQueen
+        language:
+        - en
+    contact:
+    - email: robert.mcqueen@collabora.co.uk
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Cionoiu
+        language:
+        - en
+      completename:
+        content: Diana Cionoiu
+        language:
+        - en
+    contact:
+    - email: diana@null.ro
+  role:
+  - type: author
+revdate: '2022-09-26'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0167'
+doctype: rfc

@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0292
+title:
+- content: vCard4 Over XMPP
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0292.html
+  type: src
+type: standard
+docid:
+- id: XEP 0292
+  type: XEP
+  primary: true
+- id: XEP-0292
+  type: XEP
+  scope: anchor
+docnumber: XEP-0292
+date:
+- type: published
+  value: '2023-03-14'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: Mizzi
+        language:
+        - en
+      completename:
+        content: Samantha Mizzi
+        language:
+        - en
+    contact:
+    - email: samizzi@cisco.com
+  role:
+  - type: author
+revdate: '2023-03-14'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0292'
+doctype: rfc

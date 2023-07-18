@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0304
+title:
+- content: Whitespace Keepalive Negotiation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0304.html
+  type: src
+type: standard
+docid:
+- id: XEP 0304
+  type: XEP
+  primary: true
+- id: XEP-0304
+  type: XEP
+  scope: anchor
+docnumber: XEP-0304
+date:
+- type: published
+  value: '2011-08-18'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Ji
+        language:
+        - en
+      completename:
+        content: Ming Ji
+        language:
+        - en
+    contact:
+    - email: mingj@cisco.com
+  role:
+  - type: author
+revdate: '2011-08-18'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0304'
+doctype: rfc

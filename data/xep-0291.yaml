@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0291
+title:
+- content: Service Delegation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0291.html
+  type: src
+type: standard
+docid:
+- id: XEP 0291
+  type: XEP
+  primary: true
+- id: XEP-0291
+  type: XEP
+  scope: anchor
+docnumber: XEP-0291
+date:
+- type: published
+  value: '2011-01-26'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Karneges
+        language:
+        - en
+      completename:
+        content: Justin Karneges
+        language:
+        - en
+    contact:
+    - email: justin@karneges.com
+  role:
+  - type: author
+revdate: '2011-01-26'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0291'
+doctype: rfc

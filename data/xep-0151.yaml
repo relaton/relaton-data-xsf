@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0151
+title:
+- content: Virtual Presence
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0151.html
+  type: src
+type: standard
+docid:
+- id: XEP 0151
+  type: XEP
+  primary: true
+- id: XEP-0151
+  type: XEP
+  scope: anchor
+docnumber: XEP-0151
+date:
+- type: published
+  value: '2005-07-05'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: H
+        formatted_initials:
+          content: H.
+          language:
+          - en
+      surname:
+        content: Wolf
+        language:
+        - en
+      completename:
+        content: Heiner Wolf
+        language:
+        - en
+    contact:
+    - email: wolf@bluehands.de
+  role:
+  - type: author
+revdate: '2005-07-05'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0151'
+doctype: rfc

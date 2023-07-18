@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0401
+title:
+- content: Ad-hoc Account Invitation Generation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0401.html
+  type: src
+type: standard
+docid:
+- id: XEP 0401
+  type: XEP
+  primary: true
+- id: XEP-0401
+  type: XEP
+  scope: anchor
+docnumber: XEP-0401
+date:
+- type: published
+  value: '2021-10-06'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Schink
+        language:
+        - en
+      completename:
+        content: Marc Schink
+        language:
+        - en
+    contact:
+    - email: ''
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+      surname:
+        content: Lukas
+        language:
+        - en
+      completename:
+        content: Georg Lukas
+        language:
+        - en
+    contact:
+    - email: ''
+  role:
+  - type: author
+revdate: '2021-10-06'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0401'
+doctype: rfc

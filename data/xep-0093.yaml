@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0093
+title:
+- content: Roster Item Exchange
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0093.html
+  type: src
+type: standard
+docid:
+- id: XEP 0093
+  type: XEP
+  primary: true
+- id: XEP-0093
+  type: XEP
+  scope: anchor
+docnumber: XEP-0093
+date:
+- type: published
+  value: '2005-08-26'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+revdate: '2005-08-26'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0093'
+doctype: rfc

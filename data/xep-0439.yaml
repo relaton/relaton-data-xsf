@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0439
+title:
+- content: Quick Response
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0439.html
+  type: src
+type: standard
+docid:
+- id: XEP 0439
+  type: XEP
+  primary: true
+- id: XEP-0439
+  type: XEP
+  scope: anchor
+docnumber: XEP-0439
+date:
+- type: published
+  value: '2020-05-05'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Henkes
+        language:
+        - en
+      completename:
+        content: Tim Henkes
+        language:
+        - en
+    contact:
+    - email: me@syndace.dev
+  role:
+  - type: author
+revdate: '2020-05-05'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0439'
+doctype: rfc

@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0025
+title:
+- content: Jabber HTTP Polling
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0025.html
+  type: src
+type: standard
+docid:
+- id: XEP 0025
+  type: XEP
+  primary: true
+- id: XEP-0025
+  type: XEP
+  scope: anchor
+docnumber: XEP-0025
+date:
+- type: published
+  value: '2009-06-03'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Hildebrand
+        language:
+        - en
+      completename:
+        content: Joe Hildebrand
+        language:
+        - en
+    contact:
+    - email: jhildebr@cisco.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+      surname:
+        content: Kaes
+        language:
+        - en
+      completename:
+        content: Craig Kaes
+        language:
+        - en
+    contact:
+    - email: ckaes@jabber.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Waite
+        language:
+        - en
+      completename:
+        content: David Waite
+        language:
+        - en
+    contact:
+    - email: mass@akuma.org
+  role:
+  - type: author
+revdate: '2009-06-03'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0025'
+doctype: rfc

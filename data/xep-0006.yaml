@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0006
+title:
+- content: Profiles
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0006.html
+  type: src
+type: standard
+docid:
+- id: XEP 0006
+  type: XEP
+  primary: true
+- id: XEP-0006
+  type: XEP
+  scope: anchor
+docnumber: XEP-0006
+date:
+- type: published
+  value: '2002-05-08'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: A
+        formatted_initials:
+          content: A.
+          language:
+          - en
+      surname:
+        content: Theo
+        language:
+        - en
+      completename:
+        content: Adam Theo
+        language:
+        - en
+    contact:
+    - email: adamtheo@theoretic.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Hearn
+        language:
+        - en
+      completename:
+        content: Michael Hearn
+        language:
+        - en
+    contact:
+    - email: mhearn@subdimension.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+      surname:
+        content: Murphy
+        language:
+        - en
+      completename:
+        content: Eric Murphy
+        language:
+        - en
+    contact:
+    - email: ericmurphy@jabber.org
+  role:
+  - type: author
+revdate: '2002-05-08'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0006'
+doctype: rfc

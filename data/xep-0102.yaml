@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0102
+title:
+- content: Security Extensions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0102.html
+  type: src
+type: standard
+docid:
+- id: XEP 0102
+  type: XEP
+  primary: true
+- id: XEP-0102
+  type: XEP
+  scope: anchor
+docnumber: XEP-0102
+date:
+- type: published
+  value: '2003-06-25'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Seguineau
+        language:
+        - en
+      completename:
+        content: Jean-Louis Seguineau
+        language:
+        - en
+    contact:
+    - email: jean-louis.seguineau@antepo.com
+  role:
+  - type: author
+revdate: '2003-06-25'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0102'
+doctype: rfc

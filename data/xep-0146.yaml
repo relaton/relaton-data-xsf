@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0146
+title:
+- content: Remote Controlling Clients
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0146.html
+  type: src
+type: standard
+docid:
+- id: XEP 0146
+  type: XEP
+  primary: true
+- id: XEP-0146
+  type: XEP
+  scope: anchor
+docnumber: XEP-0146
+date:
+- type: published
+  value: '2017-11-07'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+      surname:
+        content: Tronçon
+        language:
+        - en
+      completename:
+        content: Remko Tronçon
+        language:
+        - en
+    contact:
+    - email: ''
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+revdate: '2017-11-07'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0146'
+doctype: rfc

@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0421
+title:
+- content: Anonymous unique occupant identifiers for MUCs
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0421.html
+  type: src
+type: standard
+docid:
+- id: XEP 0421
+  type: XEP
+  primary: true
+- id: XEP-0421
+  type: XEP
+  scope: anchor
+docnumber: XEP-0421
+date:
+- type: published
+  value: '2019-08-20'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Wissfeld
+        language:
+        - en
+      completename:
+        content: Marvin Wissfeld
+        language:
+        - en
+    contact:
+    - email: xsf@larma.de
+  role:
+  - type: author
+revdate: '2019-08-20'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0421'
+doctype: rfc

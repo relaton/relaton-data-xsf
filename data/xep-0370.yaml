@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0370
+title:
+- content: Jingle HTTP Transport Method
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0370.html
+  type: src
+type: standard
+docid:
+- id: XEP 0370
+  type: XEP
+  primary: true
+- id: XEP-0370
+  type: XEP
+  scope: anchor
+docnumber: XEP-0370
+date:
+- type: published
+  value: '2017-09-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+      surname:
+        content: Stout
+        language:
+        - en
+      completename:
+        content: Lance Stout
+        language:
+        - en
+    contact:
+    - email: lance@andyet.com
+  role:
+  - type: author
+revdate: '2017-09-11'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0370'
+doctype: rfc

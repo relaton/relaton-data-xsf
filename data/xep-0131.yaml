@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0131
+title:
+- content: Stanza Headers and Internet Metadata
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0131.html
+  type: src
+type: standard
+docid:
+- id: XEP 0131
+  type: XEP
+  primary: true
+- id: XEP-0131
+  type: XEP
+  scope: anchor
+docnumber: XEP-0131
+date:
+- type: published
+  value: '2006-07-12'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Hildebrand
+        language:
+        - en
+      completename:
+        content: Joe Hildebrand
+        language:
+        - en
+    contact:
+    - email: jhildebr@cisco.com
+  role:
+  - type: author
+revdate: '2006-07-12'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0131'
+doctype: rfc

@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0473
+title:
+- content: OpenPGP for XMPP Pubsub
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0473.html
+  type: src
+type: standard
+docid:
+- id: XEP 0473
+  type: XEP
+  primary: true
+- id: XEP-0473
+  type: XEP
+  scope: anchor
+docnumber: XEP-0473
+date:
+- type: published
+  value: '2022-12-13'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Poisson
+        language:
+        - en
+      completename:
+        content: Jérôme Poisson
+        language:
+        - en
+    contact:
+    - email: goffi@goffi.org
+  role:
+  - type: author
+revdate: '2022-12-13'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0473'
+doctype: rfc

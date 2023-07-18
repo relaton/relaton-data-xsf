@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0322
+title:
+- content: Efficient XML Interchange (EXI) Format
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0322.html
+  type: src
+type: standard
+docid:
+- id: XEP 0322
+  type: XEP
+  primary: true
+- id: XEP-0322
+  type: XEP
+  scope: anchor
+docnumber: XEP-0322
+date:
+- type: published
+  value: '2018-01-25'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Waher
+        language:
+        - en
+      completename:
+        content: Peter Waher
+        language:
+        - en
+    contact:
+    - email: peterwaher@hotmail.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: Y
+        formatted_initials:
+          content: Y.
+          language:
+          - en
+      surname:
+        content: DOI
+        language:
+        - en
+      completename:
+        content: Yusuke DOI
+        language:
+        - en
+    contact:
+    - email: yusuke.doi@toshiba.co.jp
+  role:
+  - type: author
+revdate: '2018-01-25'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0322'
+doctype: rfc

@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0103
+title:
+- content: URL Address Information
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0103.html
+  type: src
+type: standard
+docid:
+- id: XEP 0103
+  type: XEP
+  primary: true
+- id: XEP-0103
+  type: XEP
+  scope: anchor
+docnumber: XEP-0103
+date:
+- type: published
+  value: '2018-11-03'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Miller
+        language:
+        - en
+      completename:
+        content: Matthew Miller
+        language:
+        - en
+    contact:
+    - email: linuxwolf@outer-planes.net
+  role:
+  - type: author
+revdate: '2018-11-03'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0103'
+doctype: rfc

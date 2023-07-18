@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0350
+title:
+- content: Data Forms Geolocation Element
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0350.html
+  type: src
+type: standard
+docid:
+- id: XEP 0350
+  type: XEP
+  primary: true
+- id: XEP-0350
+  type: XEP
+  scope: anchor
+docnumber: XEP-0350
+date:
+- type: published
+  value: '2017-09-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Laukner
+        language:
+        - en
+      completename:
+        content: Michael Laukner
+        language:
+        - en
+    contact:
+    - email: laukner@gmail.com
+  role:
+  - type: author
+revdate: '2017-09-11'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0350'
+doctype: rfc

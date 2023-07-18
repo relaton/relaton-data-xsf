@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0431
+title:
+- content: Full Text Search in MAM
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0431.html
+  type: src
+type: standard
+docid:
+- id: XEP 0431
+  type: XEP
+  primary: true
+- id: XEP-0431
+  type: XEP
+  scope: anchor
+docnumber: XEP-0431
+date:
+- type: published
+  value: '2020-01-29'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Cridland
+        language:
+        - en
+      completename:
+        content: Dave Cridland
+        language:
+        - en
+    contact:
+    - email: dave@hellopando.com
+  role:
+  - type: author
+revdate: '2020-01-29'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0431'
+doctype: rfc

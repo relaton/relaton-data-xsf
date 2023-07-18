@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0210
+title:
+- content: Requirements for Encrypted Sessions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0210.html
+  type: src
+type: standard
+docid:
+- id: XEP 0210
+  type: XEP
+  primary: true
+- id: XEP-0210
+  type: XEP
+  scope: anchor
+docnumber: XEP-0210
+date:
+- type: published
+  value: '2007-05-30'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: I
+        formatted_initials:
+          content: I.
+          language:
+          - en
+      surname:
+        content: Paterson
+        language:
+        - en
+      completename:
+        content: Ian Paterson
+        language:
+        - en
+    contact:
+    - email: ian.paterson@clientside.co.uk
+  role:
+  - type: author
+revdate: '2007-05-30'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0210'
+doctype: rfc

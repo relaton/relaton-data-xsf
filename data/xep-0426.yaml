@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0426
+title:
+- content: Character counting in message bodies
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0426.html
+  type: src
+type: standard
+docid:
+- id: XEP 0426
+  type: XEP
+  primary: true
+- id: XEP-0426
+  type: XEP
+  scope: anchor
+docnumber: XEP-0426
+date:
+- type: published
+  value: '2022-12-27'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Wißfeld
+        language:
+        - en
+      completename:
+        content: Marvin Wißfeld
+        language:
+        - en
+    contact:
+    - email: xmpp@larma.de
+  role:
+  - type: author
+revdate: '2022-12-27'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0426'
+doctype: rfc

@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0418
+title:
+- content: DNS Queries over XMPP (DoX)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0418.html
+  type: src
+type: standard
+docid:
+- id: XEP 0418
+  type: XEP
+  primary: true
+- id: XEP-0418
+  type: XEP
+  scope: anchor
+docnumber: XEP-0418
+date:
+- type: published
+  value: '2019-03-29'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Burtrum
+        language:
+        - en
+      completename:
+        content: Travis Burtrum
+        language:
+        - en
+    contact:
+    - email: travis@burtrum.org
+  role:
+  - type: author
+revdate: '2019-03-29'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0418'
+doctype: rfc

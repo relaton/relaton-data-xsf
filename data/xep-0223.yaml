@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0223
+title:
+- content: Persistent Storage of Private Data via PubSub
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0223.html
+  type: src
+type: standard
+docid:
+- id: XEP 0223
+  type: XEP
+  primary: true
+- id: XEP-0223
+  type: XEP
+  scope: anchor
+docnumber: XEP-0223
+date:
+- type: published
+  value: '2023-03-23'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+revdate: '2023-03-23'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0223'
+doctype: rfc

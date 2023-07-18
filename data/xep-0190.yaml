@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0190
+title:
+- content: Best Practice for Closing Idle Streams
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0190.html
+  type: src
+type: standard
+docid:
+- id: XEP 0190
+  type: XEP
+  primary: true
+- id: XEP-0190
+  type: XEP
+  scope: anchor
+docnumber: XEP-0190
+date:
+- type: published
+  value: '2012-03-06'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+      surname:
+        content: von Loesch
+        language:
+        - en
+      completename:
+        content: Carlo von Loesch
+        language:
+        - en
+    contact:
+    - email: lynX@jabber.getting.psyced.org
+  role:
+  - type: author
+revdate: '2012-03-06'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0190'
+doctype: rfc

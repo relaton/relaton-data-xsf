@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0010
+title:
+- content: Whiteboarding SIG
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0010.html
+  type: src
+type: standard
+docid:
+- id: XEP 0010
+  type: XEP
+  primary: true
+- id: XEP-0010
+  type: XEP
+  scope: anchor
+docnumber: XEP-0010
+date:
+- type: published
+  value: '2002-05-08'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: N
+        formatted_initials:
+          content: N.
+          language:
+          - en
+      surname:
+        content: Gustavsson
+        language:
+        - en
+      completename:
+        content: Niklas Gustavsson
+        language:
+        - en
+    contact:
+    - email: niklas@protocol7.com
+  role:
+  - type: author
+revdate: '2002-05-08'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0010'
+doctype: rfc

@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0330
+title:
+- content: Pubsub Subscription
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0330.html
+  type: src
+type: standard
+docid:
+- id: XEP 0330
+  type: XEP
+  primary: true
+- id: XEP-0330
+  type: XEP
+  scope: anchor
+docnumber: XEP-0330
+date:
+- type: published
+  value: '2013-06-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+      surname:
+        content: Ho
+        language:
+        - en
+      completename:
+        content: Christine Ho
+        language:
+        - en
+    contact:
+    - email: nodpounod@gmail.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Jaussoin
+        language:
+        - en
+      completename:
+        content: Timothée Jaussoin
+        language:
+        - en
+    contact:
+    - email: edhelas@gmail.com
+  role:
+  - type: author
+revdate: '2013-06-11'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0330'
+doctype: rfc

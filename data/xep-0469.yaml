@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0469
+title:
+- content: Bookmark Pinning
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0469.html
+  type: src
+type: standard
+docid:
+- id: XEP 0469
+  type: XEP
+  primary: true
+- id: XEP-0469
+  type: XEP
+  scope: anchor
+docnumber: XEP-0469
+date:
+- type: published
+  value: '2022-08-23'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Jaussoin
+        language:
+        - en
+      completename:
+        content: Timothée Jaussoin
+        language:
+        - en
+    contact:
+    - email: edhelas@movim.eu
+  role:
+  - type: author
+revdate: '2022-08-23'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0469'
+doctype: rfc

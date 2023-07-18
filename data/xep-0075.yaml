@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0075
+title:
+- content: Jabber Object Access Protocol (JOAP)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0075.html
+  type: src
+type: standard
+docid:
+- id: XEP 0075
+  type: XEP
+  primary: true
+- id: XEP-0075
+  type: XEP
+  scope: anchor
+docnumber: XEP-0075
+date:
+- type: published
+  value: '2003-05-22'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+      surname:
+        content: Prodromou
+        language:
+        - en
+      completename:
+        content: Evan Prodromou
+        language:
+        - en
+    contact:
+    - email: evan@prodromou.san-francisco.ca.us
+  role:
+  - type: author
+revdate: '2003-05-22'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0075'
+doctype: rfc

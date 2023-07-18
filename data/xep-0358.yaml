@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0358
+title:
+- content: Publishing Available Jingle Sessions
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0358.html
+  type: src
+type: standard
+docid:
+- id: XEP 0358
+  type: XEP
+  primary: true
+- id: XEP-0358
+  type: XEP
+  scope: anchor
+docnumber: XEP-0358
+date:
+- type: published
+  value: '2017-09-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Hancke
+        language:
+        - en
+      completename:
+        content: Philipp Hancke
+        language:
+        - en
+    contact:
+    - email: fippo@andyet.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+      surname:
+        content: Stout
+        language:
+        - en
+      completename:
+        content: Lance Stout
+        language:
+        - en
+    contact:
+    - email: lance@andyet.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+revdate: '2017-09-11'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0358'
+doctype: rfc

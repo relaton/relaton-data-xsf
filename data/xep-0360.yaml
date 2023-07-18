@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0360
+title:
+- content: Nonzas (are not Stanzas)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0360.html
+  type: src
+type: standard
+docid:
+- id: XEP 0360
+  type: XEP
+  primary: true
+- id: XEP-0360
+  type: XEP
+  scope: anchor
+docnumber: XEP-0360
+date:
+- type: published
+  value: '2017-09-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: F
+        formatted_initials:
+          content: F.
+          language:
+          - en
+      surname:
+        content: Schmaus
+        language:
+        - en
+      completename:
+        content: Florian Schmaus
+        language:
+        - en
+    contact:
+    - email: flo@geekplace.eu
+  role:
+  - type: author
+revdate: '2017-09-11'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0360'
+doctype: rfc

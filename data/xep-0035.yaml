@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0035
+title:
+- content: SSL/TLS Integration
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0035.html
+  type: src
+type: standard
+docid:
+- id: XEP 0035
+  type: XEP
+  primary: true
+- id: XEP-0035
+  type: XEP
+  scope: anchor
+docnumber: XEP-0035
+date:
+- type: published
+  value: '2003-11-05'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+      surname:
+        content: Norris
+        language:
+        - en
+      completename:
+        content: Robert Norris
+        language:
+        - en
+    contact:
+    - email: rob@cataclysm.cx
+  role:
+  - type: author
+revdate: '2003-11-05'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0035'
+doctype: rfc

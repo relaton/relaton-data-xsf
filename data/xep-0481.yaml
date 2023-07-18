@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0481
+title:
+- content: Content Types in Messages
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0481.html
+  type: src
+type: standard
+docid:
+- id: XEP 0481
+  type: XEP
+  primary: true
+- id: XEP-0481
+  type: XEP
+  scope: anchor
+docnumber: XEP-0481
+date:
+- type: published
+  value: '2023-05-04'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Waher
+        language:
+        - en
+      completename:
+        content: Peter Waher
+        language:
+        - en
+    contact:
+    - email: peterwaher@hotmail.com
+  role:
+  - type: author
+revdate: '2023-05-04'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0481'
+doctype: rfc

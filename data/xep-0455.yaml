@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0455
+title:
+- content: Service Outage Status
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0455.html
+  type: src
+type: standard
+docid:
+- id: XEP 0455
+  type: XEP
+  primary: true
+- id: XEP-0455
+  type: XEP
+  scope: anchor
+docnumber: XEP-0455
+date:
+- type: published
+  value: '2021-02-09'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Pasquet
+        language:
+        - en
+      completename:
+        content: Mathieu Pasquet
+        language:
+        - en
+    contact:
+    - email: mathieui@mathieui.net
+  role:
+  - type: author
+revdate: '2021-02-09'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0455'
+doctype: rfc

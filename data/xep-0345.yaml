@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0345
+title:
+- content: Form of Membership Applications
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0345.html
+  type: src
+type: standard
+docid:
+- id: XEP 0345
+  type: XEP
+  primary: true
+- id: XEP-0345
+  type: XEP
+  scope: anchor
+docnumber: XEP-0345
+date:
+- type: published
+  value: '2020-02-18'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Cridland
+        language:
+        - en
+      completename:
+        content: Dave Cridland
+        language:
+        - en
+    contact:
+    - email: dave@hellopando.com
+  role:
+  - type: author
+revdate: '2020-02-18'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0345'
+doctype: rfc

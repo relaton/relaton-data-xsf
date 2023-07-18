@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0402
+title:
+- content: PEP Native Bookmarks
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0402.html
+  type: src
+type: standard
+docid:
+- id: XEP 0402
+  type: XEP
+  primary: true
+- id: XEP-0402
+  type: XEP
+  scope: anchor
+docnumber: XEP-0402
+date:
+- type: published
+  value: '2021-12-27'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Cridland
+        language:
+        - en
+      completename:
+        content: Dave Cridland
+        language:
+        - en
+    contact:
+    - email: dave@hellopando.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Brand
+        language:
+        - en
+      completename:
+        content: JC Brand
+        language:
+        - en
+    contact:
+    - email: jc@opkode.com
+  role:
+  - type: author
+revdate: '2021-12-27'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0402'
+doctype: rfc

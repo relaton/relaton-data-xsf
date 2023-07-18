@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0379
+title:
+- content: Pre-Authenticated Roster Subscription
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0379.html
+  type: src
+type: standard
+docid:
+- id: XEP 0379
+  type: XEP
+  primary: true
+- id: XEP-0379
+  type: XEP
+  scope: anchor
+docnumber: XEP-0379
+date:
+- type: published
+  value: '2021-03-04'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+      surname:
+        content: Lukas
+        language:
+        - en
+      completename:
+        content: Georg Lukas
+        language:
+        - en
+    contact:
+    - email: georg@op-co.de
+  role:
+  - type: author
+revdate: '2021-03-04'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0379'
+doctype: rfc

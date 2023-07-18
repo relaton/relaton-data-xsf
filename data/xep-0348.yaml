@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0348
+title:
+- content: Signing Forms
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0348.html
+  type: src
+type: standard
+docid:
+- id: XEP 0348
+  type: XEP
+  primary: true
+- id: XEP-0348
+  type: XEP
+  scope: anchor
+docnumber: XEP-0348
+date:
+- type: published
+  value: '2017-09-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Waher
+        language:
+        - en
+      completename:
+        content: Peter Waher
+        language:
+        - en
+    contact:
+    - email: peterwaher@hotmail.com
+  role:
+  - type: author
+revdate: '2017-09-11'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0348'
+doctype: rfc

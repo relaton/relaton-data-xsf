@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0287
+title:
+- content: Spim Markers and Reports
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0287.html
+  type: src
+type: standard
+docid:
+- id: XEP 0287
+  type: XEP
+  primary: true
+- id: XEP-0287
+  type: XEP
+  scope: anchor
+docnumber: XEP-0287
+date:
+- type: published
+  value: '2010-10-04'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+      surname:
+        content: Khramtsov
+        language:
+        - en
+      completename:
+        content: Evgeniy Khramtsov
+        language:
+        - en
+    contact:
+    - email: ekhramtsov@process-one.net
+  role:
+  - type: author
+revdate: '2010-10-04'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0287'
+doctype: rfc

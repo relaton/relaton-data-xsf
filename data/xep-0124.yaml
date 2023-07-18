@@ -1,0 +1,180 @@
+---
+schema-version: v1.2.3
+id: XEP0124
+title:
+- content: Bidirectional-streams Over Synchronous HTTP (BOSH)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0124.html
+  type: src
+type: standard
+docid:
+- id: XEP 0124
+  type: XEP
+  primary: true
+- id: XEP-0124
+  type: XEP
+  scope: anchor
+docnumber: XEP-0124
+date:
+- type: published
+  value: '2021-05-22'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: I
+        formatted_initials:
+          content: I.
+          language:
+          - en
+      surname:
+        content: Paterson
+        language:
+        - en
+      completename:
+        content: Ian Paterson
+        language:
+        - en
+    contact:
+    - email: ian.paterson@clientside.co.uk
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Smith
+        language:
+        - en
+      completename:
+        content: Dave Smith
+        language:
+        - en
+    contact:
+    - email: dizzyd@jabber.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Moffitt
+        language:
+        - en
+      completename:
+        content: Jack Moffitt
+        language:
+        - en
+    contact:
+    - email: jack@chesspark.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+      surname:
+        content: Stout
+        language:
+        - en
+      completename:
+        content: Lance Stout
+        language:
+        - en
+    contact:
+    - email: lance@andyet.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: W
+        formatted_initials:
+          content: W.
+          language:
+          - en
+      surname:
+        content: Tilanus
+        language:
+        - en
+      completename:
+        content: Winfried Tilanus
+        language:
+        - en
+    contact:
+    - email: winfried@tilanus.com
+  role:
+  - type: author
+revdate: '2021-05-22'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0124'
+doctype: rfc

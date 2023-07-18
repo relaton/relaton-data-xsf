@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0271
+title:
+- content: XMPP Nodes
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0271.html
+  type: src
+type: standard
+docid:
+- id: XEP 0271
+  type: XEP
+  primary: true
+- id: XEP-0271
+  type: XEP
+  scope: anchor
+docnumber: XEP-0271
+date:
+- type: published
+  value: '2009-06-26'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+      surname:
+        content: Meijer
+        language:
+        - en
+      completename:
+        content: Ralph Meijer
+        language:
+        - en
+    contact:
+    - email: ralphm@ik.nu
+  role:
+  - type: author
+revdate: '2009-06-26'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0271'
+doctype: rfc

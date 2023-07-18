@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0373
+title:
+- content: OpenPGP for XMPP
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0373.html
+  type: src
+type: standard
+docid:
+- id: XEP 0373
+  type: XEP
+  primary: true
+- id: XEP-0373
+  type: XEP
+  scope: anchor
+docnumber: XEP-0373
+date:
+- type: published
+  value: '2021-05-04'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: F
+        formatted_initials:
+          content: F.
+          language:
+          - en
+      surname:
+        content: Schmaus
+        language:
+        - en
+      completename:
+        content: Florian Schmaus
+        language:
+        - en
+    contact:
+    - email: flo@geekplace.eu
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Schürmann
+        language:
+        - en
+      completename:
+        content: Dominik Schürmann
+        language:
+        - en
+    contact:
+    - email: dominik@dominikschuermann.de
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: V
+        formatted_initials:
+          content: V.
+          language:
+          - en
+      surname:
+        content: Breitmoser
+        language:
+        - en
+      completename:
+        content: Vincent Breitmoser
+        language:
+        - en
+    contact:
+    - email: look@my.amazin.horse
+  role:
+  - type: author
+revdate: '2021-05-04'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0373'
+doctype: rfc

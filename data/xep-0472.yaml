@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0472
+title:
+- content: Pubsub Social Feed
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0472.html
+  type: src
+type: standard
+docid:
+- id: XEP 0472
+  type: XEP
+  primary: true
+- id: XEP-0472
+  type: XEP
+  scope: anchor
+docnumber: XEP-0472
+date:
+- type: published
+  value: '2023-04-03'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Jaussoin
+        language:
+        - en
+      completename:
+        content: Timothée Jaussoin
+        language:
+        - en
+    contact:
+    - email: edhelas@movim.eu
+  role:
+  - type: author
+revdate: '2023-04-03'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0472'
+doctype: rfc

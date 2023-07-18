@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0395
+title:
+- content: Atomically Compare-And-Publish PubSub Items
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0395.html
+  type: src
+type: standard
+docid:
+- id: XEP 0395
+  type: XEP
+  primary: true
+- id: XEP-0395
+  type: XEP
+  scope: anchor
+docnumber: XEP-0395
+date:
+- type: published
+  value: '2018-12-06'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: F
+        formatted_initials:
+          content: F.
+          language:
+          - en
+      surname:
+        content: Schmaus
+        language:
+        - en
+      completename:
+        content: Florian Schmaus
+        language:
+        - en
+    contact:
+    - email: flo@geekplace.eu
+  role:
+  - type: author
+revdate: '2018-12-06'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0395'
+doctype: rfc

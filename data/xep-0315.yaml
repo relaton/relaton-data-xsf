@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0315
+title:
+- content: Data Forms XML Element
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0315.html
+  type: src
+type: standard
+docid:
+- id: XEP 0315
+  type: XEP
+  primary: true
+- id: XEP-0315
+  type: XEP
+  scope: anchor
+docnumber: XEP-0315
+date:
+- type: published
+  value: '2019-06-19'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: Dobrov
+        language:
+        - en
+      completename:
+        content: Sergey Dobrov
+        language:
+        - en
+    contact:
+    - email: binary@jrudevels.org
+  role:
+  - type: author
+revdate: '2019-06-19'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0315'
+doctype: rfc

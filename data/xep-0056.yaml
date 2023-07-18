@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0056
+title:
+- content: Business Data Interchange
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0056.html
+  type: src
+type: standard
+docid:
+- id: XEP 0056
+  type: XEP
+  primary: true
+- id: XEP-0056
+  type: XEP
+  scope: anchor
+docnumber: XEP-0056
+date:
+- type: published
+  value: '2018-11-03'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: U
+        formatted_initials:
+          content: U.
+          language:
+          - en
+      surname:
+        content: Staudinger
+        language:
+        - en
+      completename:
+        content: Ulrich Staudinger
+        language:
+        - en
+    contact:
+    - email: chicago5@gmx.de
+  role:
+  - type: author
+revdate: '2018-11-03'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0056'
+doctype: rfc

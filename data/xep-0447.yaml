@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0447
+title:
+- content: Stateless file sharing
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0447.html
+  type: src
+type: standard
+docid:
+- id: XEP 0447
+  type: XEP
+  primary: true
+- id: XEP-0447
+  type: XEP
+  scope: anchor
+docnumber: XEP-0447
+date:
+- type: published
+  value: '2022-08-03'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Wißfeld
+        language:
+        - en
+      completename:
+        content: Marvin Wißfeld
+        language:
+        - en
+    contact:
+    - email: xmpp@larma.de
+  role:
+  - type: author
+revdate: '2022-08-03'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0447'
+doctype: rfc

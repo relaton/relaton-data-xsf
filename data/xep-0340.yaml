@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0340
+title:
+- content: COnferences with LIghtweight BRIdging (COLIBRI)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0340.html
+  type: src
+type: standard
+docid:
+- id: XEP 0340
+  type: XEP
+  primary: true
+- id: XEP-0340
+  type: XEP
+  scope: anchor
+docnumber: XEP-0340
+date:
+- type: published
+  value: '2017-09-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+      surname:
+        content: Ivov
+        language:
+        - en
+      completename:
+        content: Emil Ivov
+        language:
+        - en
+    contact:
+    - email: emcho@jitsi.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+      surname:
+        content: Marinov
+        language:
+        - en
+      completename:
+        content: Lyubomir Marinov
+        language:
+        - en
+    contact:
+    - email: lubo@jitsi.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Hancke
+        language:
+        - en
+      completename:
+        content: Philipp Hancke
+        language:
+        - en
+    contact:
+    - email: fippo@andyet.com
+  role:
+  - type: author
+revdate: '2017-09-11'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0340'
+doctype: rfc

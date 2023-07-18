@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0007
+title:
+- content: Conferencing SIG
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0007.html
+  type: src
+type: standard
+docid:
+- id: XEP 0007
+  type: XEP
+  primary: true
+- id: XEP-0007
+  type: XEP
+  scope: anchor
+docnumber: XEP-0007
+date:
+- type: published
+  value: '2002-05-08'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Waite
+        language:
+        - en
+      completename:
+        content: David Waite
+        language:
+        - en
+    contact:
+    - email: akuma@jabber.org
+  role:
+  - type: author
+revdate: '2002-05-08'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0007'
+doctype: rfc

@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0023
+title:
+- content: Message Expiration
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0023.html
+  type: src
+type: standard
+docid:
+- id: XEP 0023
+  type: XEP
+  primary: true
+- id: XEP-0023
+  type: XEP
+  scope: anchor
+docnumber: XEP-0023
+date:
+- type: published
+  value: '2009-06-03'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Miller
+        language:
+        - en
+      completename:
+        content: Jeremie Miller
+        language:
+        - en
+    contact:
+    - email: jer@jabber.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Adams
+        language:
+        - en
+      completename:
+        content: DJ Adams
+        language:
+        - en
+    contact:
+    - email: dj.adams@pobox.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: H
+        formatted_initials:
+          content: H.
+          language:
+          - en
+      surname:
+        content: Gottschalk
+        language:
+        - en
+      completename:
+        content: Harold Gottschalk
+        language:
+        - en
+    contact:
+    - email: heg@imissary.com
+  role:
+  - type: author
+revdate: '2009-06-03'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0023'
+doctype: rfc

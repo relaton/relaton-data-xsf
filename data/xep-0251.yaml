@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0251
+title:
+- content: Jingle Session Transfer
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0251.html
+  type: src
+type: standard
+docid:
+- id: XEP 0251
+  type: XEP
+  primary: true
+- id: XEP-0251
+  type: XEP
+  scope: anchor
+docnumber: XEP-0251
+date:
+- type: published
+  value: '2009-10-05'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Podgoreanu
+        language:
+        - en
+      completename:
+        content: Marian Podgoreanu
+        language:
+        - en
+    contact:
+    - email: marian@null.ro
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Chitescu
+        language:
+        - en
+      completename:
+        content: Paul Chitescu
+        language:
+        - en
+    contact:
+    - email: paulc@null.ro
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+revdate: '2009-10-05'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0251'
+doctype: rfc

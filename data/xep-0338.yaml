@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0338
+title:
+- content: Jingle Grouping Framework
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0338.html
+  type: src
+type: standard
+docid:
+- id: XEP 0338
+  type: XEP
+  primary: true
+- id: XEP-0338
+  type: XEP
+  scope: anchor
+docnumber: XEP-0338
+date:
+- type: published
+  value: '2020-07-21'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Hancke
+        language:
+        - en
+      completename:
+        content: Philipp Hancke
+        language:
+        - en
+    contact:
+    - email: fippo@andyet.com
+  role:
+  - type: author
+revdate: '2020-07-21'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0338'
+doctype: rfc

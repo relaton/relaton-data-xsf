@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0341
+title:
+- content: Rayo CPA
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0341.html
+  type: src
+type: standard
+docid:
+- id: XEP 0341
+  type: XEP
+  primary: true
+- id: XEP-0341
+  type: XEP
+  scope: anchor
+docnumber: XEP-0341
+date:
+- type: published
+  value: '2017-09-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+      surname:
+        content: Langfeld
+        language:
+        - en
+      completename:
+        content: Ben Langfeld
+        language:
+        - en
+    contact:
+    - email: ben@langfeld.me
+  role:
+  - type: author
+revdate: '2017-09-11'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0341'
+doctype: rfc

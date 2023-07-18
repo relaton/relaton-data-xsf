@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0095
+title:
+- content: Stream Initiation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0095.html
+  type: src
+type: standard
+docid:
+- id: XEP 0095
+  type: XEP
+  primary: true
+- id: XEP-0095
+  type: XEP
+  scope: anchor
+docnumber: XEP-0095
+date:
+- type: published
+  value: '2017-11-29'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Muldowney
+        language:
+        - en
+      completename:
+        content: Thomas Muldowney
+        language:
+        - en
+    contact:
+    - email: temas@jabber.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Miller
+        language:
+        - en
+      completename:
+        content: Matthew Miller
+        language:
+        - en
+    contact:
+    - email: linuxwolf@outer-planes.net
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+      surname:
+        content: Eatmon
+        language:
+        - en
+      completename:
+        content: Ryan Eatmon
+        language:
+        - en
+    contact:
+    - email: reatmon@jabber.org
+  role:
+  - type: author
+revdate: '2017-11-29'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0095'
+doctype: rfc

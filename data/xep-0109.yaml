@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0109
+title:
+- content: Out-of-Office Messages
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0109.html
+  type: src
+type: standard
+docid:
+- id: XEP 0109
+  type: XEP
+  primary: true
+- id: XEP-0109
+  type: XEP
+  scope: anchor
+docnumber: XEP-0109
+date:
+- type: published
+  value: '2022-03-22'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Piner
+        language:
+        - en
+      completename:
+        content: Darrell Piner
+        language:
+        - en
+    contact:
+    - email: dpiner@cisco.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+      surname:
+        content: Norris
+        language:
+        - en
+      completename:
+        content: Robert Norris
+        language:
+        - en
+    contact:
+    - email: rob@cataclysm.cx
+  role:
+  - type: author
+revdate: '2022-03-22'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0109'
+doctype: rfc

@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0250
+title:
+- content: C2C Authentication Using TLS
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0250.html
+  type: src
+type: standard
+docid:
+- id: XEP 0250
+  type: XEP
+  primary: true
+- id: XEP-0250
+  type: XEP
+  scope: anchor
+docnumber: XEP-0250
+date:
+- type: published
+  value: '2008-09-08'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Meyer
+        language:
+        - en
+      completename:
+        content: Dirk Meyer
+        language:
+        - en
+    contact:
+    - email: dmeyer@tzi.de
+  role:
+  - type: author
+revdate: '2008-09-08'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0250'
+doctype: rfc

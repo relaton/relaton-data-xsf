@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0435
+title:
+- content: Reminders
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0435.html
+  type: src
+type: standard
+docid:
+- id: XEP 0435
+  type: XEP
+  primary: true
+- id: XEP-0435
+  type: XEP
+  scope: anchor
+docnumber: XEP-0435
+date:
+- type: published
+  value: '2020-03-31'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: De Vera Piquero
+        language:
+        - en
+      completename:
+        content: Marcos De Vera Piquero
+        language:
+        - en
+    contact:
+    - email: marcos@tenak.net
+  role:
+  - type: author
+revdate: '2020-03-31'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0435'
+doctype: rfc

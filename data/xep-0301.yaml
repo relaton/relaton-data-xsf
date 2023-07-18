@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0301
+title:
+- content: In-Band Real Time Text
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0301.html
+  type: src
+type: standard
+docid:
+- id: XEP 0301
+  type: XEP
+  primary: true
+- id: XEP-0301
+  type: XEP
+  scope: anchor
+docnumber: XEP-0301
+date:
+- type: published
+  value: '2013-10-08'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Rejhon
+        language:
+        - en
+      completename:
+        content: Mark Rejhon
+        language:
+        - en
+    contact:
+    - email: mark@realjabber.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+      surname:
+        content: Hellstrom
+        language:
+        - en
+      completename:
+        content: Gunnar Hellstrom
+        language:
+        - en
+    contact:
+    - email: gunnar.hellstrom@omnitor.se
+  role:
+  - type: author
+revdate: '2013-10-08'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0301'
+doctype: rfc

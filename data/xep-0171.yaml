@@ -1,0 +1,134 @@
+---
+schema-version: v1.2.3
+id: XEP0171
+title:
+- content: Language Translation
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0171.html
+  type: src
+type: standard
+docid:
+- id: XEP 0171
+  type: XEP
+  primary: true
+- id: XEP-0171
+  type: XEP
+  scope: anchor
+docnumber: XEP-0171
+date:
+- type: published
+  value: '2015-10-15'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+      surname:
+        content: Fletcher
+        language:
+        - en
+      completename:
+        content: Boyd Fletcher
+        language:
+        - en
+    contact:
+    - email: boyd.fletcher@us.army.mil
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: LaPrade
+        language:
+        - en
+      completename:
+        content: Daniel LaPrade
+        language:
+        - en
+    contact:
+    - email: dlaprade@echostorm.net
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Lirette
+        language:
+        - en
+      completename:
+        content: Keith Lirette
+        language:
+        - en
+    contact:
+    - email: keith.lirette@tridsys.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: B
+        formatted_initials:
+          content: B.
+          language:
+          - en
+      surname:
+        content: Raymond
+        language:
+        - en
+      completename:
+        content: Brian Raymond
+        language:
+        - en
+    contact:
+    - email: braymond@echostorm.net
+  role:
+  - type: author
+revdate: '2015-10-15'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0171'
+doctype: rfc

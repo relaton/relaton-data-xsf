@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0044
+title:
+- content: Full Namespace Support for XML Streams
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0044.html
+  type: src
+type: standard
+docid:
+- id: XEP 0044
+  type: XEP
+  primary: true
+- id: XEP-0044
+  type: XEP
+  scope: anchor
+docnumber: XEP-0044
+date:
+- type: published
+  value: '2002-08-26'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+      surname:
+        content: Norris
+        language:
+        - en
+      completename:
+        content: Robert Norris
+        language:
+        - en
+    contact:
+    - email: rob@cataclysm.cx
+  role:
+  - type: author
+revdate: '2002-08-26'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0044'
+doctype: rfc

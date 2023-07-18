@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0367
+title:
+- content: Message Attaching
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0367.html
+  type: src
+type: standard
+docid:
+- id: XEP 0367
+  type: XEP
+  primary: true
+- id: XEP-0367
+  type: XEP
+  scope: anchor
+docnumber: XEP-0367
+date:
+- type: published
+  value: '2018-08-18'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: Whited
+        language:
+        - en
+      completename:
+        content: Sam Whited
+        language:
+        - en
+    contact:
+    - email: sam@samwhited.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+      surname:
+        content: Petchell
+        language:
+        - en
+      completename:
+        content: Craig Petchell
+        language:
+        - en
+    contact:
+    - email: cpetchell@atlassian.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Wild
+        language:
+        - en
+      completename:
+        content: Matthew Wild
+        language:
+        - en
+    contact:
+    - email: mwild1@gmail.com
+  role:
+  - type: author
+revdate: '2018-08-18'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0367'
+doctype: rfc

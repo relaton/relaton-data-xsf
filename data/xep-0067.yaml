@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0067
+title:
+- content: Stock Data Transmission
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0067.html
+  type: src
+type: standard
+docid:
+- id: XEP 0067
+  type: XEP
+  primary: true
+- id: XEP-0067
+  type: XEP
+  scope: anchor
+docnumber: XEP-0067
+date:
+- type: published
+  value: '2003-07-19'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: U
+        formatted_initials:
+          content: U.
+          language:
+          - en
+      surname:
+        content: Staudinger
+        language:
+        - en
+      completename:
+        content: Ulrich Staudinger
+        language:
+        - en
+    contact:
+    - email: chicago5@gmx.de
+  role:
+  - type: author
+revdate: '2003-07-19'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0067'
+doctype: rfc

@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0382
+title:
+- content: Spoiler messages
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0382.html
+  type: src
+type: standard
+docid:
+- id: XEP 0382
+  type: XEP
+  primary: true
+- id: XEP-0382
+  type: XEP
+  scope: anchor
+docnumber: XEP-0382
+date:
+- type: published
+  value: '2018-01-25'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: Ferrer de la Peñita
+        language:
+        - en
+      completename:
+        content: Severino Ferrer de la Peñita
+        language:
+        - en
+    contact:
+    - email: soul@blastersklan.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: X
+        formatted_initials:
+          content: X.
+          language:
+          - en
+      surname:
+        content: Ferrer de la Peñita
+        language:
+        - en
+      completename:
+        content: Xavier Ferrer de la Peñita
+        language:
+        - en
+    contact:
+    - email: vaulor@openmailbox.org
+  role:
+  - type: author
+revdate: '2018-01-25'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0382'
+doctype: rfc

@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0265
+title:
+- content: Out-of-Band Stream Data
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0265.html
+  type: src
+type: standard
+docid:
+- id: XEP 0265
+  type: XEP
+  primary: true
+- id: XEP-0265
+  type: XEP
+  scope: anchor
+docnumber: XEP-0265
+date:
+- type: published
+  value: '2009-04-02'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Meyer
+        language:
+        - en
+      completename:
+        content: Dirk Meyer
+        language:
+        - en
+    contact:
+    - email: dmeyer@tzi.de
+  role:
+  - type: author
+revdate: '2009-04-02'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0265'
+doctype: rfc

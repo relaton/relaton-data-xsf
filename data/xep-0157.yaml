@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0157
+title:
+- content: Contact Addresses for XMPP Services
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0157.html
+  type: src
+type: standard
+docid:
+- id: XEP 0157
+  type: XEP
+  primary: true
+- id: XEP-0157
+  type: XEP
+  scope: anchor
+docnumber: XEP-0157
+date:
+- type: published
+  value: '2021-03-04'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Konieczny
+        language:
+        - en
+      completename:
+        content: Jacek Konieczny
+        language:
+        - en
+    contact:
+    - email: jajcus@jajcus.net
+  role:
+  - type: author
+revdate: '2021-03-04'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0157'
+doctype: rfc

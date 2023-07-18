@@ -1,0 +1,180 @@
+---
+schema-version: v1.2.3
+id: XEP0204
+title:
+- content: Collaborative Data Objects
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0204.html
+  type: src
+type: standard
+docid:
+- id: XEP 0204
+  type: XEP
+  primary: true
+- id: XEP-0204
+  type: XEP
+  scope: anchor
+docnumber: XEP-0204
+date:
+- type: published
+  value: '2007-01-17'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Bryson
+        language:
+        - en
+      completename:
+        content: Dave Bryson
+        language:
+        - en
+    contact:
+    - email: dbryson@mitre.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Winkowski
+        language:
+        - en
+      completename:
+        content: Dan Winkowski
+        language:
+        - en
+    contact:
+    - email: winkowsk@mitre.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Krutsch
+        language:
+        - en
+      completename:
+        content: Michael Krutsch
+        language:
+        - en
+    contact:
+    - email: michael@mitre.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+      surname:
+        content: Smith
+        language:
+        - en
+      completename:
+        content: Chad Smith
+        language:
+        - en
+    contact:
+    - email: chadsm@mitre.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Jacobsen
+        language:
+        - en
+      completename:
+        content: Jasen Jacobsen
+        language:
+        - en
+    contact:
+    - email: jasenj1@mitre.org
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Huss
+        language:
+        - en
+      completename:
+        content: Marshall Huss
+        language:
+        - en
+    contact:
+    - email: mhuss@mitre.org
+  role:
+  - type: author
+revdate: '2007-01-17'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0204'
+doctype: rfc

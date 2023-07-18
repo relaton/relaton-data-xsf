@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0424
+title:
+- content: Message Retraction
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0424.html
+  type: src
+type: standard
+docid:
+- id: XEP 0424
+  type: XEP
+  primary: true
+- id: XEP-0424
+  type: XEP
+  scope: anchor
+docnumber: XEP-0424
+date:
+- type: published
+  value: '2020-05-17'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+      surname:
+        content: Stout
+        language:
+        - en
+      completename:
+        content: Lance Stout
+        language:
+        - en
+    contact:
+    - email: lance@andyet.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Brand
+        language:
+        - en
+      completename:
+        content: JC Brand
+        language:
+        - en
+    contact:
+    - email: jc@opkode.com
+  role:
+  - type: author
+revdate: '2020-05-17'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0424'
+doctype: rfc

@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0051
+title:
+- content: Connection Transfer
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0051.html
+  type: src
+type: standard
+docid:
+- id: XEP 0051
+  type: XEP
+  primary: true
+- id: XEP-0051
+  type: XEP
+  scope: anchor
+docnumber: XEP-0051
+date:
+- type: published
+  value: '2022-03-08'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: K
+        formatted_initials:
+          content: K.
+          language:
+          - en
+      surname:
+        content: Wolf
+        language:
+        - en
+      completename:
+        content: Klaus Wolf
+        language:
+        - en
+    contact:
+    - email: wolf@bluehands.de
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: R
+        formatted_initials:
+          content: R.
+          language:
+          - en
+      surname:
+        content: Dobson
+        language:
+        - en
+      completename:
+        content: Richard Dobson
+        language:
+        - en
+    contact:
+    - email: richard@dobson-i.net
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: F
+        formatted_initials:
+          content: F.
+          language:
+          - en
+      surname:
+        content: Jensen
+        language:
+        - en
+      completename:
+        content: Florian Jensen
+        language:
+        - en
+    contact:
+    - email: florian@florianjensen.com
+  role:
+  - type: author
+revdate: '2022-03-08'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0051'
+doctype: rfc

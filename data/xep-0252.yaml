@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0252
+title:
+- content: BOSH Script Syntax
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0252.html
+  type: src
+type: standard
+docid:
+- id: XEP 0252
+  type: XEP
+  primary: true
+- id: XEP-0252
+  type: XEP
+  scope: anchor
+docnumber: XEP-0252
+date:
+- type: published
+  value: '2008-10-31'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: I
+        formatted_initials:
+          content: I.
+          language:
+          - en
+      surname:
+        content: Paterson
+        language:
+        - en
+      completename:
+        content: Ian Paterson
+        language:
+        - en
+    contact:
+    - email: ian.paterson@clientside.co.uk
+  role:
+  - type: author
+revdate: '2008-10-31'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0252'
+doctype: rfc

@@ -1,0 +1,111 @@
+---
+schema-version: v1.2.3
+id: XEP0156
+title:
+- content: Discovering Alternative XMPP Connection Methods
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0156.html
+  type: src
+type: standard
+docid:
+- id: XEP 0156
+  type: XEP
+  primary: true
+- id: XEP-0156
+  type: XEP
+  scope: anchor
+docnumber: XEP-0156
+date:
+- type: published
+  value: '2022-02-10'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Hildebrand
+        language:
+        - en
+      completename:
+        content: Joe Hildebrand
+        language:
+        - en
+    contact:
+    - email: jhildebr@cisco.com
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: xsf@stpeter.im
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+      surname:
+        content: Stout
+        language:
+        - en
+      completename:
+        content: Lance Stout
+        language:
+        - en
+    contact:
+    - email: lance@andyet.com
+  role:
+  - type: author
+revdate: '2022-02-10'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0156'
+doctype: rfc

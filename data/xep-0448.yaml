@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0448
+title:
+- content: Encryption for stateless file sharing
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0448.html
+  type: src
+type: standard
+docid:
+- id: XEP 0448
+  type: XEP
+  primary: true
+- id: XEP-0448
+  type: XEP
+  scope: anchor
+docnumber: XEP-0448
+date:
+- type: published
+  value: '2022-07-17'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Wißfeld
+        language:
+        - en
+      completename:
+        content: Marvin Wißfeld
+        language:
+        - en
+    contact:
+    - email: xmpp@larma.de
+  role:
+  - type: author
+revdate: '2022-07-17'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0448'
+doctype: rfc

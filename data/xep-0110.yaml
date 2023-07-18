@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0110
+title:
+- content: Generic Maps
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0110.html
+  type: src
+type: standard
+docid:
+- id: XEP 0110
+  type: XEP
+  primary: true
+- id: XEP-0110
+  type: XEP
+  scope: anchor
+docnumber: XEP-0110
+date:
+- type: published
+  value: '2003-07-28'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Komzak
+        language:
+        - en
+      completename:
+        content: Jiri Komzak
+        language:
+        - en
+    contact:
+    - email: j.komzak@open.ac.uk
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Dzbor
+        language:
+        - en
+      completename:
+        content: Martin Dzbor
+        language:
+        - en
+    contact:
+    - email: m.dzbor@open.ac.uk
+  role:
+  - type: author
+revdate: '2003-07-28'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0110'
+doctype: rfc

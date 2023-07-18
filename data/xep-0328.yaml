@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0328
+title:
+- content: JID Preparation and Validation Service
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0328.html
+  type: src
+type: standard
+docid:
+- id: XEP 0328
+  type: XEP
+  primary: true
+- id: XEP-0328
+  type: XEP
+  scope: anchor
+docnumber: XEP-0328
+date:
+- type: published
+  value: '2019-12-16'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+      surname:
+        content: Stout
+        language:
+        - en
+      completename:
+        content: Lance Stout
+        language:
+        - en
+    contact:
+    - email: lance@lance.im
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: F
+        formatted_initials:
+          content: F.
+          language:
+          - en
+      surname:
+        content: Schmaus
+        language:
+        - en
+      completename:
+        content: Florian Schmaus
+        language:
+        - en
+    contact:
+    - email: flo@geekplace.eu
+  role:
+  - type: author
+revdate: '2019-12-16'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0328'
+doctype: rfc

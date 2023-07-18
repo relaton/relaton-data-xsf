@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0257
+title:
+- content: Client Certificate Management for SASL EXTERNAL
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0257.html
+  type: src
+type: standard
+docid:
+- id: XEP 0257
+  type: XEP
+  primary: true
+- id: XEP-0257
+  type: XEP
+  scope: anchor
+docnumber: XEP-0257
+date:
+- type: published
+  value: '2012-07-18'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Meyer
+        language:
+        - en
+      completename:
+        content: Dirk Meyer
+        language:
+        - en
+    contact:
+    - email: dmeyer@tzi.de
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Alkemade
+        language:
+        - en
+      completename:
+        content: Thijs Alkemade
+        language:
+        - en
+    contact:
+    - email: thijsalkemade@gmail.com
+  role:
+  - type: author
+revdate: '2012-07-18'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0257'
+doctype: rfc

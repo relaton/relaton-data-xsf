@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0437
+title:
+- content: Room Activity Indicators
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0437.html
+  type: src
+type: standard
+docid:
+- id: XEP 0437
+  type: XEP
+  primary: true
+- id: XEP-0437
+  type: XEP
+  scope: anchor
+docnumber: XEP-0437
+date:
+- type: published
+  value: '2020-05-05'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Wild
+        language:
+        - en
+      completename:
+        content: Matthew Wild
+        language:
+        - en
+    contact:
+    - email: mwild1@gmail.com
+  role:
+  - type: author
+revdate: '2020-05-05'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0437'
+doctype: rfc

@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0335
+title:
+- content: JSON Containers
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0335.html
+  type: src
+type: standard
+docid:
+- id: XEP 0335
+  type: XEP
+  primary: true
+- id: XEP-0335
+  type: XEP
+  scope: anchor
+docnumber: XEP-0335
+date:
+- type: published
+  value: '2018-09-26'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Wild
+        language:
+        - en
+      completename:
+        content: Matthew Wild
+        language:
+        - en
+    contact:
+    - email: mwild1@gmail.com
+  role:
+  - type: author
+revdate: '2018-09-26'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0335'
+doctype: rfc

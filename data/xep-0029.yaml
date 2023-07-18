@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0029
+title:
+- content: Definition of Jabber Identifiers (JIDs)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0029.html
+  type: src
+type: standard
+docid:
+- id: XEP 0029
+  type: XEP
+  primary: true
+- id: XEP-0029
+  type: XEP
+  scope: anchor
+docnumber: XEP-0029
+date:
+- type: published
+  value: '2022-09-23'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+      surname:
+        content: Kaes
+        language:
+        - en
+      completename:
+        content: Craig Kaes
+        language:
+        - en
+    contact:
+    - email: craigk@jabber.com
+  role:
+  - type: author
+revdate: '2022-09-23'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0029'
+doctype: rfc

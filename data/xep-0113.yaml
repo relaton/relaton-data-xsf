@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0113
+title:
+- content: Simple Whiteboarding
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0113.html
+  type: src
+type: standard
+docid:
+- id: XEP 0113
+  type: XEP
+  primary: true
+- id: XEP-0113
+  type: XEP
+  scope: anchor
+docnumber: XEP-0113
+date:
+- type: published
+  value: '2003-09-07'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: H
+        formatted_initials:
+          content: H.
+          language:
+          - en
+      surname:
+        content: Imbens
+        language:
+        - en
+      completename:
+        content: Huib-Jan Imbens
+        language:
+        - en
+    contact:
+    - email: jabber@imbens.nl
+  role:
+  - type: author
+revdate: '2003-09-07'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0113'
+doctype: rfc

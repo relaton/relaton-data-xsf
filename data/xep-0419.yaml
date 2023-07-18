@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0419
+title:
+- content: Improving Baseline Security in XMPP
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0419.html
+  type: src
+type: standard
+docid:
+- id: XEP 0419
+  type: XEP
+  primary: true
+- id: XEP-0419
+  type: XEP
+  scope: anchor
+docnumber: XEP-0419
+date:
+- type: published
+  value: '2019-04-01'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+      surname:
+        content: Davidland
+        language:
+        - en
+      completename:
+        content: Chris Davidland
+        language:
+        - en
+    contact:
+    - email: chris.davidland@crap-security.example
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: L
+        formatted_initials:
+          content: L.
+          language:
+          - en
+      surname:
+        content: George
+        language:
+        - en
+      completename:
+        content: Lucas George
+        language:
+        - en
+    contact:
+    - email: lucas.george@shiteam.example
+  role:
+  - type: author
+revdate: '2019-04-01'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0419'
+doctype: rfc

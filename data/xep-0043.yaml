@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0043
+title:
+- content: Jabber Database Access
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0043.html
+  type: src
+type: standard
+docid:
+- id: XEP 0043
+  type: XEP
+  primary: true
+- id: XEP-0043
+  type: XEP
+  scope: anchor
+docnumber: XEP-0043
+date:
+- type: published
+  value: '2003-10-20'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: J
+        formatted_initials:
+          content: J.
+          language:
+          - en
+      surname:
+        content: Kirby
+        language:
+        - en
+      completename:
+        content: Justin Kirby
+        language:
+        - en
+    contact:
+    - email: justin@openaether.org
+  role:
+  - type: author
+revdate: '2003-10-20'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0043'
+doctype: rfc

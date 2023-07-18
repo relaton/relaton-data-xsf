@@ -1,0 +1,88 @@
+---
+schema-version: v1.2.3
+id: XEP0282
+title:
+- content: 'DMUC2: Distributed MUC'
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0282.html
+  type: src
+type: standard
+docid:
+- id: XEP 0282
+  type: XEP
+  primary: true
+- id: XEP-0282
+  type: XEP
+  scope: anchor
+docnumber: XEP-0282
+date:
+- type: published
+  value: '2021-03-04'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: C
+        formatted_initials:
+          content: C.
+          language:
+          - en
+      surname:
+        content: von Loesch
+        language:
+        - en
+      completename:
+        content: Carlo von Loesch
+        language:
+        - en
+    contact:
+    - email: ''
+  role:
+  - type: author
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Hancke
+        language:
+        - en
+      completename:
+        content: Philipp Hancke
+        language:
+        - en
+    contact:
+    - email: ''
+  role:
+  - type: author
+revdate: '2021-03-04'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0282'
+doctype: rfc

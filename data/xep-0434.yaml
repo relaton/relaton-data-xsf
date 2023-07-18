@@ -1,0 +1,65 @@
+---
+schema-version: v1.2.3
+id: XEP0434
+title:
+- content: Trust Messages (TM)
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0434.html
+  type: src
+type: standard
+docid:
+- id: XEP 0434
+  type: XEP
+  primary: true
+- id: XEP-0434
+  type: XEP
+  scope: anchor
+docnumber: XEP-0434
+date:
+- type: published
+  value: '2021-10-04'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Keskin
+        language:
+        - en
+      completename:
+        content: Melvin Keskin
+        language:
+        - en
+    contact:
+    - email: melvo@olomono.de
+  role:
+  - type: author
+revdate: '2021-10-04'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0434'
+doctype: rfc
