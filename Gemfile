@@ -2,4 +2,4 @@
 
 source "https://rubygems.org"
 
-gem "relaton_xml", github: "relaton/relaton-xsf"
+gem "relaton_xml", github: "relaton/relaton-xsf", branch: "main"
