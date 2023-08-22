@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0453
 date:
 - type: published
-  value: '2024-07-04'
+  value: '2023-07-04'
 contributor:
 - person:
     name:
@@ -47,7 +47,7 @@ contributor:
     - email: linkmauve@linkmauve.fr
   role:
   - type: author
-revdate: '2024-07-04'
+revdate: '2023-07-04'
 language:
 - en
 script:
