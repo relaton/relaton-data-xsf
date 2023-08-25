@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0333
 date:
 - type: published
-  value: '2020-04-15'
+  value: '2023-07-19'
 contributor:
 - person:
     name:
@@ -47,7 +47,7 @@ contributor:
     - email: im@spencermacdonald.com
   role:
   - type: author
-revdate: '2020-04-15'
+revdate: '2023-07-19'
 language:
 - en
 script:
