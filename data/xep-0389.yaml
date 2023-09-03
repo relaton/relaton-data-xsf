@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: XEP0389
 title:
 - content: Extensible In-Band Registration

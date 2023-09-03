@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: XEP0344
 title:
 - content: Impact of TLS and DNSSEC on Dialback
