@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0458
 date:
 - type: published
-  value: '2023-07-12'
+  value: '2023-09-14'
 contributor:
 - person:
     name:
@@ -47,7 +47,30 @@ contributor:
     - email: dave@hellopando.com
   role:
   - type: author
-revdate: '2023-07-12'
+- person:
+    name:
+      given:
+        forename:
+        - language:
+          - en
+          initial: P
+        formatted_initials:
+          content: P.
+          language:
+          - en
+      surname:
+        content: Saint-Andre
+        language:
+        - en
+      completename:
+        content: Peter Saint-Andre
+        language:
+        - en
+    contact:
+    - email: stpeter@stpeter.im
+  role:
+  - type: author
+revdate: '2023-09-14'
 language:
 - en
 script:
