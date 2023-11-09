@@ -28,7 +28,8 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           initial: B
         formatted_initials:

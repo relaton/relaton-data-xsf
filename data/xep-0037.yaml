@@ -28,7 +28,8 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           initial: D
         formatted_initials:
@@ -50,6 +51,7 @@ contributor:
 - person:
     name:
       surname:
+        content: ''
         language:
         - en
       completename:
