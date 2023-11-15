@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: XEP0354
 title:
 - content: Customizable Message Routing

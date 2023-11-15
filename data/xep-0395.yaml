@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: XEP0395
 title:
 - content: Atomically Compare-And-Publish PubSub Items

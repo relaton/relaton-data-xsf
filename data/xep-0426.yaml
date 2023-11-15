@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: XEP0426
 title:
 - content: Character counting in message bodies

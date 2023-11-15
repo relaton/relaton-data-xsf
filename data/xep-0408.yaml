@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: XEP0408
 title:
 - content: 'Mediated Information eXchange (MIX): Co-existence with MUC'

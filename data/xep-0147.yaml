@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: XEP0147
 title:
 - content: XMPP URI Scheme Query Components

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: XEP0274
 title:
 - content: Design Considerations for Digital Signatures in XMPP
