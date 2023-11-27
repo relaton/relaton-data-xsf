@@ -87,4 +87,5 @@ series:
     - Latn
     format: text/plain
   number: '0442'
-doctype: rfc
+doctype:
+  type: rfc

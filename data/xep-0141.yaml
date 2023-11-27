@@ -63,4 +63,5 @@ series:
     - Latn
     format: text/plain
   number: '0141'
-doctype: rfc
+doctype:
+  type: rfc

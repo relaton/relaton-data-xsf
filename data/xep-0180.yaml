@@ -87,4 +87,5 @@ series:
     - Latn
     format: text/plain
   number: '0180'
-doctype: rfc
+doctype:
+  type: rfc

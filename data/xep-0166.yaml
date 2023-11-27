@@ -183,4 +183,5 @@ series:
     - Latn
     format: text/plain
   number: '0166'
-doctype: rfc
+doctype:
+  type: rfc

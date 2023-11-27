@@ -63,4 +63,5 @@ series:
     - Latn
     format: text/plain
   number: '0315'
-doctype: rfc
+doctype:
+  type: rfc

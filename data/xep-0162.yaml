@@ -63,4 +63,5 @@ series:
     - Latn
     format: text/plain
   number: '0162'
-doctype: rfc
+doctype:
+  type: rfc

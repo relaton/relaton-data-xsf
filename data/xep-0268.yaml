@@ -159,4 +159,5 @@ series:
     - Latn
     format: text/plain
   number: '0268'
-doctype: rfc
+doctype:
+  type: rfc

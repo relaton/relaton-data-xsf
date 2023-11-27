@@ -63,4 +63,5 @@ series:
     - Latn
     format: text/plain
   number: xxxx
-doctype: rfc
+doctype:
+  type: rfc

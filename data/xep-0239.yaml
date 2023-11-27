@@ -111,4 +111,5 @@ series:
     - Latn
     format: text/plain
   number: '0239'
-doctype: rfc
+doctype:
+  type: rfc

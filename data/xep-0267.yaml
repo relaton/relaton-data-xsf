@@ -159,4 +159,5 @@ series:
     - Latn
     format: text/plain
   number: '0267'
-doctype: rfc
+doctype:
+  type: rfc

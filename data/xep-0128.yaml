@@ -63,4 +63,5 @@ series:
     - Latn
     format: text/plain
   number: '0128'
-doctype: rfc
+doctype:
+  type: rfc

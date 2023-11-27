@@ -63,4 +63,5 @@ series:
     - Latn
     format: text/plain
   number: '0472'
-doctype: rfc
+doctype:
+  type: rfc
