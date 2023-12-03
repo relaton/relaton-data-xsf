@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: XEP0385
 title:
 - content: Stateless Inline Media Sharing (SIMS)

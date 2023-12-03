@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: XEP0293
 title:
 - content: Jingle RTP Feedback Negotiation

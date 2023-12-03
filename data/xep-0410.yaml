@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: XEP0410
 title:
 - content: MUC Self-Ping (Schrödinger's Chat)

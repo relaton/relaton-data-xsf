@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: XEP0379
 title:
 - content: Pre-Authenticated Roster Subscription

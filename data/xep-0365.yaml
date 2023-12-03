@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: XEP0365
 title:
 - content: Server to Server communication over STANAG 5066 ARQ

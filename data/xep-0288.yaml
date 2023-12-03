@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: XEP0288
 title:
 - content: Bidirectional Server-to-Server Connections
