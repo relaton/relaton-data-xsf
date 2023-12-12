@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.7
-id: XEP0402
+id: XEP0483
 title:
-- content: PEP Native Bookmarks
+- content: HTTP Online Meetings
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: http://xmpp.org/extensions/xep-0402.html
+- content: http://xmpp.org/extensions/xep-0483.html
   type: src
 type: standard
 docid:
-- id: XEP 0402
+- id: XEP 0483
   type: XEP
   primary: true
-- id: XEP-0402
+- id: XEP-0483
   type: XEP
   scope: anchor
-docnumber: XEP-0402
+docnumber: XEP-0483
 date:
 - type: published
-  value: '2023-04-02'
+  value: '2023-12-11'
 contributor:
 - person:
     name:
@@ -37,15 +37,15 @@ contributor:
           language:
           - en
       surname:
-        content: Cridland
+        content: Olajide
         language:
         - en
       completename:
-        content: Dave Cridland
+        content: Dele Olajide
         language:
         - en
     contact:
-    - email: dave@hellopando.com
+    - email: dele@olajide.net
   role:
   - type: author
 - person:
@@ -55,24 +55,24 @@ contributor:
         - content: 
           language:
           - en
-          initial: J
+          initial: G
         formatted_initials:
-          content: J.
+          content: G.
           language:
           - en
       surname:
-        content: Brand
+        content: der Kinderen
         language:
         - en
       completename:
-        content: JC Brand
+        content: Guus der Kinderen
         language:
         - en
     contact:
-    - email: jc@opkode.com
+    - email: guus.der.kinderen@gmail.com
   role:
   - type: author
-revdate: '2023-04-02'
+revdate: '2023-12-11'
 language:
 - en
 script:
@@ -86,6 +86,6 @@ series:
     script:
     - Latn
     format: text/plain
-  number: '0402'
+  number: '0483'
 doctype:
   type: rfc

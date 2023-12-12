@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0198
 date:
 - type: published
-  value: '2018-07-25'
+  value: '2022-10-05'
 contributor:
 - person:
     name:
@@ -168,7 +168,31 @@ contributor:
     - email: mwild1@gmail.com
   role:
   - type: author
-revdate: '2018-07-25'
+- person:
+    name:
+      given:
+        forename:
+        - content: 
+          language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Molitor
+        language:
+        - en
+      completename:
+        content: Thilo Molitor
+        language:
+        - en
+    contact:
+    - email: thilo+xmpp@eightysoft.de
+  role:
+  - type: author
+revdate: '2022-10-05'
 language:
 - en
 script:

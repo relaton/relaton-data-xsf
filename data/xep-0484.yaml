@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.7
-id: XEP0474
+id: XEP0484
 title:
-- content: SASL SCRAM Downgrade Protection
+- content: Fast Authentication Streamlining Tokens
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: http://xmpp.org/extensions/xep-0474.html
+- content: http://xmpp.org/extensions/xep-0484.html
   type: src
 type: standard
 docid:
-- id: XEP 0474
+- id: XEP 0484
   type: XEP
   primary: true
-- id: XEP-0474
+- id: XEP-0484
   type: XEP
   scope: anchor
-docnumber: XEP-0474
+docnumber: XEP-0484
 date:
 - type: published
-  value: '2023-12-04'
+  value: '2023-12-11'
 contributor:
 - person:
     name:
@@ -31,24 +31,24 @@ contributor:
         - content: 
           language:
           - en
-          initial: T
+          initial: M
         formatted_initials:
-          content: T.
+          content: M.
           language:
           - en
       surname:
-        content: Molitor
+        content: Wild
         language:
         - en
       completename:
-        content: Thilo Molitor
+        content: Matthew Wild
         language:
         - en
     contact:
-    - email: thilo+xmpp@eightysoft.de
+    - email: mwild1@gmail.com
   role:
   - type: author
-revdate: '2023-12-04'
+revdate: '2023-12-11'
 language:
 - en
 script:
@@ -62,6 +62,6 @@ series:
     script:
     - Latn
     format: text/plain
-  number: '0474'
+  number: '0484'
 doctype:
   type: rfc
