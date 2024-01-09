@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: XEP0250
 title:
 - content: C2C Authentication Using TLS

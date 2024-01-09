@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: XEP0298
 title:
 - content: Delivering Conference Information to Jingle Participants (Coin)

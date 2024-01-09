@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: XEP0307
 title:
 - content: Unique Room Names for Multi-User Chat

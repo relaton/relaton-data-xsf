@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: XEP0179
 title:
 - content: Jingle IAX Transport Method

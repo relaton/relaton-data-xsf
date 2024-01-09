@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: XEP0233
 title:
 - content: XMPP Server Registration for use with Kerberos V5
