@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.8
-id: XEP0447
+id: XEP0487
 title:
-- content: Stateless file sharing
+- content: Host Meta 2 - One Method To Rule Them All
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: http://xmpp.org/extensions/xep-0447.html
+- content: http://xmpp.org/extensions/xep-0487.html
   type: src
 type: standard
 docid:
-- id: XEP 0447
+- id: XEP 0487
   type: XEP
   primary: true
-- id: XEP-0447
+- id: XEP-0487
   type: XEP
   scope: anchor
-docnumber: XEP-0447
+docnumber: XEP-0487
 date:
 - type: published
-  value: '2024-01-01'
+  value: '2024-03-10'
 contributor:
 - person:
     name:
@@ -31,24 +31,24 @@ contributor:
         - content: 
           language:
           - en
-          initial: M
+          initial: T
         formatted_initials:
-          content: M.
+          content: T.
           language:
           - en
       surname:
-        content: Wißfeld
+        content: Burtrum
         language:
         - en
       completename:
-        content: Marvin Wißfeld
+        content: Travis Burtrum
         language:
         - en
     contact:
-    - email: xmpp@larma.de
+    - email: travis@burtrum.org
   role:
   - type: author
-revdate: '2024-01-01'
+revdate: '2024-03-10'
 language:
 - en
 script:
@@ -62,6 +62,6 @@ series:
     script:
     - Latn
     format: text/plain
-  number: '0447'
+  number: '0487'
 doctype:
   type: rfc

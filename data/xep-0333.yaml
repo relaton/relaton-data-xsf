@@ -2,7 +2,7 @@
 schema-version: v1.2.8
 id: XEP0333
 title:
-- content: Chat Markers
+- content: 'Displayed Markers (was: Chat Markers)'
   language:
   - en
   script:
@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0333
 date:
 - type: published
-  value: '2023-07-19'
+  value: '2024-03-06'
 contributor:
 - person:
     name:
@@ -48,7 +48,31 @@ contributor:
     - email: im@spencermacdonald.com
   role:
   - type: author
-revdate: '2023-07-19'
+- person:
+    name:
+      given:
+        forename:
+        - content: 
+          language:
+          - en
+          initial: D
+        formatted_initials:
+          content: D.
+          language:
+          - en
+      surname:
+        content: Gultsch
+        language:
+        - en
+      completename:
+        content: Daniel Gultsch
+        language:
+        - en
+    contact:
+    - email: daniel@gultsch.de
+  role:
+  - type: author
+revdate: '2024-03-06'
 language:
 - en
 script:

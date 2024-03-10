@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0398
 date:
 - type: published
-  value: '2018-08-27'
+  value: '2024-03-08'
 contributor:
 - person:
     name:
@@ -48,7 +48,7 @@ contributor:
     - email: daniel@gultsch.de
   role:
   - type: author
-revdate: '2018-08-27'
+revdate: '2024-03-08'
 language:
 - en
 script:

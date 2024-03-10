@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.8
-id: XEP0447
+id: XEP0486
 title:
-- content: Stateless file sharing
+- content: MUC Avatars
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: http://xmpp.org/extensions/xep-0447.html
+- content: http://xmpp.org/extensions/xep-0486.html
   type: src
 type: standard
 docid:
-- id: XEP 0447
+- id: XEP 0486
   type: XEP
   primary: true
-- id: XEP-0447
+- id: XEP-0486
   type: XEP
   scope: anchor
-docnumber: XEP-0447
+docnumber: XEP-0486
 date:
 - type: published
-  value: '2024-01-01'
+  value: '2024-03-10'
 contributor:
 - person:
     name:
@@ -31,24 +31,24 @@ contributor:
         - content: 
           language:
           - en
-          initial: M
+          initial: E
         formatted_initials:
-          content: M.
+          content: E.
           language:
           - en
       surname:
-        content: Wißfeld
+        content: Peyrot
         language:
         - en
       completename:
-        content: Marvin Wißfeld
+        content: Emmanuel Gil Peyrot
         language:
         - en
     contact:
-    - email: xmpp@larma.de
+    - email: linkmauve@linkmauve.fr
   role:
   - type: author
-revdate: '2024-01-01'
+revdate: '2024-03-10'
 language:
 - en
 script:
@@ -62,6 +62,6 @@ series:
     script:
     - Latn
     format: text/plain
-  number: '0447'
+  number: '0486'
 doctype:
   type: rfc
