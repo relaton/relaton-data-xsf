@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.8
+id: XEP0488
+title:
+- content: MUC Token Invite
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0488.html
+  type: src
+type: standard
+docid:
+- id: XEP 0488
+  type: XEP
+  primary: true
+- id: XEP-0488
+  type: XEP
+  scope: anchor
+docnumber: XEP-0488
+date:
+- type: published
+  value: '2024-03-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: 
+          language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Buquet
+        language:
+        - en
+      completename:
+        content: Maxime Buquet
+        language:
+        - en
+    contact:
+    - email: pep@bouah.net
+  role:
+  - type: author
+revdate: '2024-03-11'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0488'
+doctype:
+  type: rfc

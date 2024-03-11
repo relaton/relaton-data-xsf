@@ -1,0 +1,67 @@
+---
+schema-version: v1.2.8
+id: XEP0489
+title:
+- content: Reporting Account Affiliations
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0489.html
+  type: src
+type: standard
+docid:
+- id: XEP 0489
+  type: XEP
+  primary: true
+- id: XEP-0489
+  type: XEP
+  scope: anchor
+docnumber: XEP-0489
+date:
+- type: published
+  value: '2024-03-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content: 
+          language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Wild
+        language:
+        - en
+      completename:
+        content: Matthew Wild
+        language:
+        - en
+    contact:
+    - email: mwild1@gmail.com
+  role:
+  - type: author
+revdate: '2024-03-11'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0489'
+doctype:
+  type: rfc
