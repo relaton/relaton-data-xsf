@@ -2,7 +2,7 @@
 schema-version: v1.2.8
 id: XEP0425
 title:
-- content: Message Moderation
+- content: Moderated Message Retraction
   language:
   - en
   script:
@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0425
 date:
 - type: published
-  value: '2020-01-28'
+  value: '2023-03-02'
 contributor:
 - person:
     name:
@@ -48,7 +48,7 @@ contributor:
     - email: jc@opkode.com
   role:
   - type: author
-revdate: '2020-01-28'
+revdate: '2023-03-02'
 language:
 - en
 script:
