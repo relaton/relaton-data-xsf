@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0333
 date:
 - type: published
-  value: '2024-03-06'
+  value: '2024-03-21'
 contributor:
 - person:
     name:
@@ -72,7 +72,7 @@ contributor:
     - email: daniel@gultsch.de
   role:
   - type: author
-revdate: '2024-03-06'
+revdate: '2024-03-21'
 language:
 - en
 script:
