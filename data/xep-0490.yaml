@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.8
-id: XEP0334
+id: XEP0490
 title:
-- content: Message Processing Hints
+- content: Message Displayed Synchronization
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: http://xmpp.org/extensions/xep-0334.html
+- content: http://xmpp.org/extensions/xep-0490.html
   type: src
 type: standard
 docid:
-- id: XEP 0334
+- id: XEP 0490
   type: XEP
   primary: true
-- id: XEP-0334
+- id: XEP-0490
   type: XEP
   scope: anchor
-docnumber: XEP-0334
+docnumber: XEP-0490
 date:
 - type: published
-  value: '2024-03-25'
+  value: '2024-03-26'
 contributor:
 - person:
     name:
@@ -31,24 +31,24 @@ contributor:
         - content: 
           language:
           - en
-          initial: M
+          initial: D
         formatted_initials:
-          content: M.
+          content: D.
           language:
           - en
       surname:
-        content: Wild
+        content: Gultsch
         language:
         - en
       completename:
-        content: Matthew Wild
+        content: Daniel Gultsch
         language:
         - en
     contact:
-    - email: mwild1@gmail.com
+    - email: daniel@gultsch.de
   role:
   - type: author
-revdate: '2024-03-25'
+revdate: '2024-03-26'
 language:
 - en
 script:
@@ -62,6 +62,6 @@ series:
     script:
     - Latn
     format: text/plain
-  number: '0334'
+  number: '0490'
 doctype:
   type: rfc
