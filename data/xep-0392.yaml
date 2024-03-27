@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0392
 date:
 - type: published
-  value: '2021-10-26'
+  value: '2024-03-27'
 contributor:
 - person:
     name:
@@ -48,7 +48,7 @@ contributor:
     - email: jonas@wielicki.name
   role:
   - type: author
-revdate: '2021-10-26'
+revdate: '2024-03-27'
 language:
 - en
 script:
