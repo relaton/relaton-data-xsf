@@ -2,7 +2,7 @@
 schema-version: v1.2.8
 id: XEP0333
 title:
-- content: 'Displayed Markers (was: Chat Markers)'
+- content: Displayed Markers
   language:
   - en
   script:
@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0333
 date:
 - type: published
-  value: '2024-03-21'
+  value: '2024-04-04'
 contributor:
 - person:
     name:
@@ -72,7 +72,7 @@ contributor:
     - email: daniel@gultsch.de
   role:
   - type: author
-revdate: '2024-03-21'
+revdate: '2024-04-04'
 language:
 - en
 script:
