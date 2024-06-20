@@ -1,25 +1,25 @@
 ---
 schema-version: v1.2.8
-id: XEP0107
+id: XEP0491
 title:
-- content: User Mood
+- content: WebXDC
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: http://xmpp.org/extensions/xep-0107.html
+- content: http://xmpp.org/extensions/xep-0491.html
   type: src
 type: standard
 docid:
-- id: XEP 0107
+- id: XEP 0491
   type: XEP
   primary: true
-- id: XEP-0107
+- id: XEP-0491
   type: XEP
   scope: anchor
-docnumber: XEP-0107
+docnumber: XEP-0491
 date:
 - type: published
   value: '2024-06-20'
@@ -31,45 +31,21 @@ contributor:
         - content: 
           language:
           - en
-          initial: P
+          initial: S
         formatted_initials:
-          content: P.
+          content: S.
           language:
           - en
       surname:
-        content: Saint-Andre
+        content: Weber
         language:
         - en
       completename:
-        content: Peter Saint-Andre
+        content: Stephen Paul Weber
         language:
         - en
     contact:
-    - email: stpeter@stpeter.im
-  role:
-  - type: author
-- person:
-    name:
-      given:
-        forename:
-        - content: 
-          language:
-          - en
-          initial: R
-        formatted_initials:
-          content: R.
-          language:
-          - en
-      surname:
-        content: Meijer
-        language:
-        - en
-      completename:
-        content: Ralph Meijer
-        language:
-        - en
-    contact:
-    - email: ralphm@ik.nu
+    - email: singpolyma@singpolyma.net
   role:
   - type: author
 revdate: '2024-06-20'
@@ -86,6 +62,6 @@ series:
     script:
     - Latn
     format: text/plain
-  number: '0107'
+  number: '0491'
 doctype:
   type: rfc
