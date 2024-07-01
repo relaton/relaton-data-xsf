@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.8
-id: XEP0484
+id: XEP0492
 title:
-- content: Fast Authentication Streamlining Tokens
+- content: Chat notification settings
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: http://xmpp.org/extensions/xep-0484.html
+- content: http://xmpp.org/extensions/xep-0492.html
   type: src
 type: standard
 docid:
-- id: XEP 0484
+- id: XEP 0492
   type: XEP
   primary: true
-- id: XEP-0484
+- id: XEP-0492
   type: XEP
   scope: anchor
-docnumber: XEP-0484
+docnumber: XEP-0492
 date:
 - type: published
-  value: '2024-06-30'
+  value: '2024-07-01'
 contributor:
 - person:
     name:
@@ -31,24 +31,24 @@ contributor:
         - content: 
           language:
           - en
-          initial: M
+          initial: N
         formatted_initials:
-          content: M.
+          content: N.
           language:
           - en
       surname:
-        content: Wild
+        content: Cedilnik
         language:
         - en
       completename:
-        content: Matthew Wild
+        content: Nicolas Cedilnik
         language:
         - en
     contact:
-    - email: mwild1@gmail.com
+    - email: nicoco@nicoco.fr
   role:
   - type: author
-revdate: '2024-06-30'
+revdate: '2024-07-01'
 language:
 - en
 script:
@@ -62,6 +62,6 @@ series:
     script:
     - Latn
     format: text/plain
-  number: '0484'
+  number: '0492'
 doctype:
   type: rfc
