@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0491
 date:
 - type: published
-  value: '2024-06-20'
+  value: '2024-07-03'
 contributor:
 - person:
     name:
@@ -48,7 +48,7 @@ contributor:
     - email: singpolyma@singpolyma.net
   role:
   - type: author
-revdate: '2024-06-20'
+revdate: '2024-07-03'
 language:
 - en
 script:

@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0440
 date:
 - type: published
-  value: '2024-01-30'
+  value: '2024-07-02'
 contributor:
 - person:
     name:
@@ -48,7 +48,7 @@ contributor:
     - email: flo@geekplace.eu
   role:
   - type: author
-revdate: '2024-01-30'
+revdate: '2024-07-02'
 language:
 - en
 script:
