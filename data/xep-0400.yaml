@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: XEP0400
 title:
 - content: Multi-Factor Authentication with TOTP

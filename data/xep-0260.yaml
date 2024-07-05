@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: XEP0260
 title:
 - content: Jingle SOCKS5 Bytestreams Transport Method

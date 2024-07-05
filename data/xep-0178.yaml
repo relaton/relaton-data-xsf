@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: XEP0178
 title:
 - content: Best Practices for Use of SASL EXTERNAL with Certificates

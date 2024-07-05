@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: XEP0143
 title:
 - content: Guidelines for Authors of XMPP Extension Protocols

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: XEP0304
 title:
 - content: Whitespace Keepalive Negotiation

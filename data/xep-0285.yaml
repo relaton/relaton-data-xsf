@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: XEP0285
 title:
 - content: Encapsulating Digital Signatures in XMPP

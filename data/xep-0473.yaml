@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: XEP0473
 title:
 - content: OpenPGP for XMPP Pubsub

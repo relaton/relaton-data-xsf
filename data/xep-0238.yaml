@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: XEP0238
 title:
 - content: XMPP Protocol Flows for Inter-Domain Federation
