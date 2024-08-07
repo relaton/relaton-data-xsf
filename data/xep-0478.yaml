@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0478
 date:
 - type: published
-  value: '2023-05-04'
+  value: '2024-08-02'
 contributor:
 - person:
     name:
@@ -72,7 +72,7 @@ contributor:
     - email: mwild1@gmail.com
   role:
   - type: author
-revdate: '2023-05-04'
+revdate: '2024-08-02'
 language:
 - en
 script:
