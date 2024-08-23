@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0402
 date:
 - type: published
-  value: '2023-04-02'
+  value: '2024-08-15'
 contributor:
 - person:
     name:
@@ -72,7 +72,7 @@ contributor:
     - email: jc@opkode.com
   role:
   - type: author
-revdate: '2023-04-02'
+revdate: '2024-08-15'
 language:
 - en
 script:
