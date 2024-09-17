@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0272
 date:
 - type: published
-  value: '2022-08-06'
+  value: '2024-08-21'
 contributor:
 - person:
     name:
@@ -72,7 +72,31 @@ contributor:
     - email: dafydd.harries@collabora.co.uk
   role:
   - type: author
-revdate: '2022-08-06'
+- person:
+    name:
+      given:
+        forename:
+        - content: 
+          language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Wißfeld
+        language:
+        - en
+      completename:
+        content: Marvin Wißfeld
+        language:
+        - en
+    contact:
+    - email: xmpp@larma.de
+  role:
+  - type: author
+revdate: '2024-08-21'
 language:
 - en
 script:

@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.9
-id: XEP0474
+id: XEP0493
 title:
-- content: SASL SCRAM Downgrade Protection
+- content: OAuth Client Login
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: http://xmpp.org/extensions/xep-0474.html
+- content: http://xmpp.org/extensions/xep-0493.html
   type: src
 type: standard
 docid:
-- id: XEP 0474
+- id: XEP 0493
   type: XEP
   primary: true
-- id: XEP-0474
+- id: XEP-0493
   type: XEP
   scope: anchor
-docnumber: XEP-0474
+docnumber: XEP-0493
 date:
 - type: published
-  value: '2024-09-11'
+  value: '2024-09-17'
 contributor:
 - person:
     name:
@@ -31,24 +31,24 @@ contributor:
         - content: 
           language:
           - en
-          initial: T
+          initial: M
         formatted_initials:
-          content: T.
+          content: M.
           language:
           - en
       surname:
-        content: Molitor
+        content: Wild
         language:
         - en
       completename:
-        content: Thilo Molitor
+        content: Matthew Wild
         language:
         - en
     contact:
-    - email: thilo+xmpp@eightysoft.de
+    - email: mwild1@gmail.com
   role:
   - type: author
-revdate: '2024-09-11'
+revdate: '2024-09-17'
 language:
 - en
 script:
@@ -62,6 +62,6 @@ series:
     script:
     - Latn
     format: text/plain
-  number: '0474'
+  number: '0493'
 doctype:
   type: rfc
