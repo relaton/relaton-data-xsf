@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0004
 date:
 - type: published
-  value: '2022-07-25'
+  value: '2024-08-30'
 contributor:
 - person:
     name:
@@ -144,7 +144,7 @@ contributor:
     - email: stpeter@stpeter.im
   role:
   - type: author
-revdate: '2022-07-25'
+revdate: '2024-08-30'
 language:
 - en
 script:
