@@ -28,7 +28,7 @@ contributor:
     name:
       given:
         forename:
-        - content:
+        - content: 
           language:
           - en
           initial: P
@@ -52,7 +52,7 @@ contributor:
     name:
       given:
         forename:
-        - content:
+        - content: 
           language:
           - en
           initial: Y
@@ -76,7 +76,7 @@ contributor:
     name:
       given:
         forename:
-        - content:
+        - content: 
           language:
           - en
           initial: A
@@ -100,7 +100,7 @@ contributor:
     name:
       given:
         forename:
-        - content:
+        - content: 
           language:
           - en
           initial: J
@@ -124,7 +124,7 @@ contributor:
     name:
       given:
         forename:
-        - content:
+        - content: 
           language:
           - en
           initial: M
@@ -148,7 +148,7 @@ contributor:
     name:
       given:
         forename:
-        - content:
+        - content: 
           language:
           - en
           initial: V
