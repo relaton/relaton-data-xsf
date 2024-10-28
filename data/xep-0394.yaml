@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0394
 date:
 - type: published
-  value: '2019-01-05'
+  value: '2024-07-13'
 contributor:
 - person:
     name:
@@ -48,7 +48,31 @@ contributor:
     - email: yagiza@yandex.ru
   role:
   - type: author
-revdate: '2019-01-05'
+- person:
+    name:
+      given:
+        forename:
+        - content: 
+          language:
+          - en
+          initial: M
+        formatted_initials:
+          content: M.
+          language:
+          - en
+      surname:
+        content: Wißfeld
+        language:
+        - en
+      completename:
+        content: Marvin Wißfeld
+        language:
+        - en
+    contact:
+    - email: xmpp@larma.de
+  role:
+  - type: author
+revdate: '2024-07-13'
 language:
 - en
 script:
