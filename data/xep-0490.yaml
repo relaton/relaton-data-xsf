@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0490
 date:
 - type: published
-  value: '2024-03-26'
+  value: '2024-11-06'
 contributor:
 - person:
     name:
@@ -48,7 +48,7 @@ contributor:
     - email: daniel@gultsch.de
   role:
   - type: author
-revdate: '2024-03-26'
+revdate: '2024-11-06'
 language:
 - en
 script:
