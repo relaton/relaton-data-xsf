@@ -989,6 +989,14 @@
   :file: data/xep-0494.yaml
 - :id: XEP 0495
   :file: data/xep-0495.yaml
+- :id: XEP 0496
+  :file: data/xep-0496.yaml
+- :id: XEP 0497
+  :file: data/xep-0497.yaml
+- :id: XEP 0498
+  :file: data/xep-0498.yaml
+- :id: XEP 0499
+  :file: data/xep-0499.yaml
 - :id: XEP README
   :file: data/xep-readme.yaml
 - :id: XEP xxxx
