@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.9
-id: XEP0490
+id: XEP0500
 title:
-- content: Message Displayed Synchronization
+- content: MUC Slow Mode
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: http://xmpp.org/extensions/xep-0490.html
+- content: http://xmpp.org/extensions/xep-0500.html
   type: src
 type: standard
 docid:
-- id: XEP 0490
+- id: XEP 0500
   type: XEP
   primary: true
-- id: XEP-0490
+- id: XEP-0500
   type: XEP
   scope: anchor
-docnumber: XEP-0490
+docnumber: XEP-0500
 date:
 - type: published
-  value: '2024-11-20'
+  value: '2024-11-28'
 contributor:
 - person:
     name:
@@ -31,24 +31,24 @@ contributor:
         - content: 
           language:
           - en
-          initial: D
+          initial: J
         formatted_initials:
-          content: D.
+          content: J.
           language:
           - en
       surname:
-        content: Gultsch
+        content: Livingston
         language:
         - en
       completename:
-        content: Daniel Gultsch
+        content: John Livingston
         language:
         - en
     contact:
-    - email: daniel@gultsch.de
+    - email: contact@john-livingston.fr
   role:
   - type: author
-revdate: '2024-11-20'
+revdate: '2024-11-28'
 language:
 - en
 script:
@@ -62,6 +62,6 @@ series:
     script:
     - Latn
     format: text/plain
-  number: '0490'
+  number: '0500'
 doctype:
   type: rfc
