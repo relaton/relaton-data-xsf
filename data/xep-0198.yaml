@@ -207,5 +207,6 @@ series:
     - Latn
     format: text/plain
   number: '0198'
-doctype:
-  type: rfc
+ext:
+  doctype:
+    type: rfc

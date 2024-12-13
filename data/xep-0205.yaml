@@ -63,5 +63,6 @@ series:
     - Latn
     format: text/plain
   number: '0205'
-doctype:
-  type: rfc
+ext:
+  doctype:
+    type: rfc

@@ -183,5 +183,6 @@ series:
     - Latn
     format: text/plain
   number: '0260'
-doctype:
-  type: rfc
+ext:
+  doctype:
+    type: rfc

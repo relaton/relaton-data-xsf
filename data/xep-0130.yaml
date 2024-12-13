@@ -183,5 +183,6 @@ series:
     - Latn
     format: text/plain
   number: '0130'
-doctype:
-  type: rfc
+ext:
+  doctype:
+    type: rfc

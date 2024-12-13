@@ -111,5 +111,6 @@ series:
     - Latn
     format: text/plain
   number: '0452'
-doctype:
-  type: rfc
+ext:
+  doctype:
+    type: rfc

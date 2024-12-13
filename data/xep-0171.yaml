@@ -135,5 +135,6 @@ series:
     - Latn
     format: text/plain
   number: '0171'
-doctype:
-  type: rfc
+ext:
+  doctype:
+    type: rfc

@@ -135,5 +135,6 @@ series:
     - Latn
     format: text/plain
   number: '0030'
-doctype:
-  type: rfc
+ext:
+  doctype:
+    type: rfc

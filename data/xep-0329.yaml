@@ -87,5 +87,6 @@ series:
     - Latn
     format: text/plain
   number: '0329'
-doctype:
-  type: rfc
+ext:
+  doctype:
+    type: rfc
