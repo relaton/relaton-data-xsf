@@ -1,0 +1,68 @@
+---
+schema-version: v1.2.9
+id: XEP0501
+title:
+- content: Pubsub Stories
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0501.html
+  type: src
+type: standard
+docid:
+- id: XEP 0501
+  type: XEP
+  primary: true
+- id: XEP-0501
+  type: XEP
+  scope: anchor
+docnumber: XEP-0501
+date:
+- type: published
+  value: '2024-12-19'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content:
+          language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Jaussoin
+        language:
+        - en
+      completename:
+        content: Timothée Jaussoin
+        language:
+        - en
+    contact:
+    - email: edhelas@movim.eu
+  role:
+  - type: author
+revdate: '2024-12-19'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0501'
+ext:
+  doctype:
+    type: rfc
