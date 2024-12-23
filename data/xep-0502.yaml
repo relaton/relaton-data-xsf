@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.9
-id: XEP0501
+id: XEP0502
 title:
-- content: Pubsub Stories
+- content: MUC Activity Indicator
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: http://xmpp.org/extensions/xep-0501.html
+- content: http://xmpp.org/extensions/xep-0502.html
   type: src
 type: standard
 docid:
-- id: XEP 0501
+- id: XEP 0502
   type: XEP
   primary: true
-- id: XEP-0501
+- id: XEP-0502
   type: XEP
   scope: anchor
-docnumber: XEP-0501
+docnumber: XEP-0502
 date:
 - type: published
-  value: '2024-12-20'
+  value: '2024-12-23'
 contributor:
 - person:
     name:
@@ -31,24 +31,24 @@ contributor:
         - content:
           language:
           - en
-          initial: T
+          initial: J
         formatted_initials:
-          content: T.
+          content: J.
           language:
           - en
       surname:
-        content: Jaussoin
+        content: Schäfer
         language:
         - en
       completename:
-        content: Timothée Jaussoin
+        content: Jonas Schäfer
         language:
         - en
     contact:
-    - email: edhelas@movim.eu
+    - email: jonas@wielicki.name
   role:
   - type: author
-revdate: '2024-12-20'
+revdate: '2024-12-23'
 language:
 - en
 script:
@@ -62,7 +62,7 @@ series:
     script:
     - Latn
     format: text/plain
-  number: '0501'
+  number: '0502'
 ext:
   doctype:
     type: rfc
