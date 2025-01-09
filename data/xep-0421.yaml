@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: XEP0421
 title:
-- content: Anonymous unique occupant identifiers for MUCs
+- content: Occupant identifiers for semi-anonymous MUCs
   language:
   - en
   script:
@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0421
 date:
 - type: published
-  value: '2024-05-28'
+  value: '2025-01-07'
 contributor:
 - person:
     name:
@@ -37,18 +37,18 @@ contributor:
           language:
           - en
       surname:
-        content: Wissfeld
+        content: Wißfeld
         language:
         - en
       completename:
-        content: Marvin Wissfeld
+        content: Marvin Wißfeld
         language:
         - en
     contact:
-    - email: xsf@larma.de
+    - email: xmpp@larma.de
   role:
   - type: author
-revdate: '2024-05-28'
+revdate: '2025-01-07'
 language:
 - en
 script:
