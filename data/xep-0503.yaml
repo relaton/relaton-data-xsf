@@ -1,0 +1,68 @@
+---
+schema-version: v1.2.9
+id: XEP0503
+title:
+- content: Server-side spaces
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0503.html
+  type: src
+type: standard
+docid:
+- id: XEP 0503
+  type: XEP
+  primary: true
+- id: XEP-0503
+  type: XEP
+  scope: anchor
+docnumber: XEP-0503
+date:
+- type: published
+  value: '2025-03-11'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content:
+          language:
+          - en
+          initial: N
+        formatted_initials:
+          content: N.
+          language:
+          - en
+      surname:
+        content: Cedilnik
+        language:
+        - en
+      completename:
+        content: Nicolas Cedilnik
+        language:
+        - en
+    contact:
+    - email: nicoco@nicoco.fr
+  role:
+  - type: author
+revdate: '2025-03-11'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0503'
+ext:
+  doctype:
+    type: rfc
