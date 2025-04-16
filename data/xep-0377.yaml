@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0377
 date:
 - type: published
-  value: '2023-04-03'
+  value: '2025-04-09'
 contributor:
 - person:
     name:
@@ -48,7 +48,31 @@ contributor:
     - email: sam@samwhited.com
   role:
   - type: author
-revdate: '2023-04-03'
+- person:
+    name:
+      given:
+        forename:
+        - content:
+          language:
+          - en
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+      surname:
+        content: der Kinderen
+        language:
+        - en
+      completename:
+        content: Guus der Kinderen
+        language:
+        - en
+    contact:
+    - email: guus.der.kinderen@gmail.com
+  role:
+  - type: author
+revdate: '2025-04-09'
 language:
 - en
 script:
