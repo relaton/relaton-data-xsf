@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0455
 date:
 - type: published
-  value: '2025-04-05'
+  value: '2025-04-20'
 contributor:
 - person:
     name:
@@ -48,7 +48,7 @@ contributor:
     - email: mathieui@mathieui.net
   role:
   - type: author
-revdate: '2025-04-05'
+revdate: '2025-04-20'
 language:
 - en
 script:
