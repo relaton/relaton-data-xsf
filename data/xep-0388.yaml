@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0388
 date:
 - type: published
-  value: '2024-08-06'
+  value: '2025-06-12'
 contributor:
 - person:
     name:
@@ -96,7 +96,7 @@ contributor:
     - email: mwild1@gmail.com
   role:
   - type: author
-revdate: '2024-08-06'
+revdate: '2025-06-12'
 language:
 - en
 script:
