@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0284
 date:
 - type: published
-  value: '2021-03-04'
+  value: '2020-03-10'
 contributor:
 - person:
     name:
@@ -96,7 +96,31 @@ contributor:
     - email: pusateri@bangj.com
   role:
   - type: author
-revdate: '2021-03-04'
+- person:
+    name:
+      given:
+        forename:
+        - content:
+          language:
+          - en
+          initial: E
+        formatted_initials:
+          content: E.
+          language:
+          - en
+      surname:
+        content: Peyrot
+        language:
+        - en
+      completename:
+        content: Emmanuel Gil Peyrot
+        language:
+        - en
+    contact:
+    - email: linkmauve@linkmauve.fr
+  role:
+  - type: author
+revdate: '2020-03-10'
 language:
 - en
 script:
