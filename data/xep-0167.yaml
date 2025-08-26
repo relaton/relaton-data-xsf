@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0167
 date:
 - type: published
-  value: '2022-09-26'
+  value: '2025-07-04'
 contributor:
 - person:
     name:
@@ -144,7 +144,7 @@ contributor:
     - email: diana@null.ro
   role:
   - type: author
-revdate: '2022-09-26'
+revdate: '2025-07-04'
 language:
 - en
 script:
