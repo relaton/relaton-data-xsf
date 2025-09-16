@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0503
 date:
 - type: published
-  value: '2025-03-11'
+  value: '2025-09-13'
 contributor:
 - person:
     name:
@@ -48,7 +48,31 @@ contributor:
     - email: nicoco@nicoco.fr
   role:
   - type: author
-revdate: '2025-03-11'
+- person:
+    name:
+      given:
+        forename:
+        - content:
+          language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Jaussoin
+        language:
+        - en
+      completename:
+        content: Timothée Jaussoin
+        language:
+        - en
+    contact:
+    - email: edhelas@movim.eu
+  role:
+  - type: author
+revdate: '2025-09-13'
 language:
 - en
 script:
