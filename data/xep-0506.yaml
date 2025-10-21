@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.9
-id: XEP0045
+id: XEP0506
 title:
-- content: Multi-User Chat
+- content: No-reply JIDs
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: http://xmpp.org/extensions/xep-0045.html
+- content: http://xmpp.org/extensions/xep-0506.html
   type: src
 type: standard
 docid:
-- id: XEP 0045
+- id: XEP 0506
   type: XEP
   primary: true
-- id: XEP-0045
+- id: XEP-0506
   type: XEP
   scope: anchor
-docnumber: XEP-0045
+docnumber: XEP-0506
 date:
 - type: published
-  value: '2025-09-30'
+  value: '2025-10-20'
 contributor:
 - person:
     name:
@@ -31,24 +31,24 @@ contributor:
         - content:
           language:
           - en
-          initial: P
+          initial: M
         formatted_initials:
-          content: P.
+          content: M.
           language:
           - en
       surname:
-        content: Saint-Andre
+        content: Wild
         language:
         - en
       completename:
-        content: Peter Saint-Andre
+        content: Matthew Wild
         language:
         - en
     contact:
-    - email: stpeter@stpeter.im
+    - email: mwild1@gmail.com
   role:
   - type: author
-revdate: '2025-09-30'
+revdate: '2025-10-20'
 language:
 - en
 script:
@@ -62,7 +62,7 @@ series:
     script:
     - Latn
     format: text/plain
-  number: '0045'
+  number: '0506'
 ext:
   doctype:
     type: rfc
