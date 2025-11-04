@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0474
 date:
 - type: published
-  value: '2025-01-24'
+  value: '2025-10-25'
 contributor:
 - person:
     name:
@@ -48,7 +48,7 @@ contributor:
     - email: thilo+xmpp@eightysoft.de
   role:
   - type: author
-revdate: '2025-01-24'
+revdate: '2025-10-25'
 language:
 - en
 script:
