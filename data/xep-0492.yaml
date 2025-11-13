@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0492
 date:
 - type: published
-  value: '2024-07-01'
+  value: '2025-10-25'
 contributor:
 - person:
     name:
@@ -48,7 +48,31 @@ contributor:
     - email: nicoco@nicoco.fr
   role:
   - type: author
-revdate: '2024-07-01'
+- person:
+    name:
+      given:
+        forename:
+        - content:
+          language:
+          - en
+          initial: T
+        formatted_initials:
+          content: T.
+          language:
+          - en
+      surname:
+        content: Molitor
+        language:
+        - en
+      completename:
+        content: Thilo Molitor
+        language:
+        - en
+    contact:
+    - email: thilo+xmpp@eightysoft.de
+  role:
+  - type: author
+revdate: '2025-10-25'
 language:
 - en
 script:
