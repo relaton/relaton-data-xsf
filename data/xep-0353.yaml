@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0353
 date:
 - type: published
-  value: '2022-01-29'
+  value: '2025-09-16'
 contributor:
 - person:
     name:
@@ -96,7 +96,7 @@ contributor:
     - email: thilo+xmpp@eightysoft.de
   role:
   - type: author
-revdate: '2022-01-29'
+revdate: '2025-09-16'
 language:
 - en
 script:
