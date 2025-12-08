@@ -1,25 +1,25 @@
 ---
 schema-version: v1.2.9
-id: XEP0440
+id: XEP0508
 title:
-- content: SASL Channel-Binding Type Capability
+- content: Forums
   language:
   - en
   script:
   - Latn
   format: text/plain
 link:
-- content: http://xmpp.org/extensions/xep-0440.html
+- content: http://xmpp.org/extensions/xep-0508.html
   type: src
 type: standard
 docid:
-- id: XEP 0440
+- id: XEP 0508
   type: XEP
   primary: true
-- id: XEP-0440
+- id: XEP-0508
   type: XEP
   scope: anchor
-docnumber: XEP-0440
+docnumber: XEP-0508
 date:
 - type: published
   value: '2025-12-08'
@@ -31,45 +31,21 @@ contributor:
         - content:
           language:
           - en
-          initial: F
+          initial: J
         formatted_initials:
-          content: F.
+          content: J.
           language:
           - en
       surname:
-        content: Schmaus
+        content: Poisson
         language:
         - en
       completename:
-        content: Florian Schmaus
+        content: Jérôme Poisson
         language:
         - en
     contact:
-    - email: flo@geekplace.eu
-  role:
-  - type: author
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: T
-        formatted_initials:
-          content: T.
-          language:
-          - en
-      surname:
-        content: Molitor
-        language:
-        - en
-      completename:
-        content: Thilo Molitor
-        language:
-        - en
-    contact:
-    - email: thilo+xmpp@eightysoft.de
+    - email: goffi@goffi.org
   role:
   - type: author
 revdate: '2025-12-08'
@@ -86,7 +62,7 @@ series:
     script:
     - Latn
     format: text/plain
-  number: '0440'
+  number: '0508'
 ext:
   doctype:
     type: rfc

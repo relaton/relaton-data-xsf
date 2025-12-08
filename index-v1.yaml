@@ -1013,6 +1013,8 @@
   :file: data/xep-0506.yaml
 - :id: XEP 0507
   :file: data/xep-0507.yaml
+- :id: XEP 0508
+  :file: data/xep-0508.yaml
 - :id: XEP README
   :file: data/xep-readme.yaml
 - :id: XEP xxxx
