@@ -61,15 +61,15 @@ contributor:
           language:
           - en
       surname:
-        content: Wissfeld
+        content: Wißfeld
         language:
         - en
       completename:
-        content: Marvin Wissfeld
+        content: Marvin Wißfeld
         language:
         - en
     contact:
-    - email: xsf@larma.de
+    - email: xmpp@larma.de
   role:
   - type: author
 revdate: '2022-12-09'

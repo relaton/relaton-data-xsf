@@ -45,7 +45,7 @@ contributor:
         language:
         - en
     contact:
-    - email: xsf@larma.de
+    - email: nataliew@laposte.net
   role:
   - type: author
 - person:
@@ -61,15 +61,15 @@ contributor:
           language:
           - en
       surname:
-        content: Wissfeld
+        content: Wißfeld
         language:
         - en
       completename:
-        content: Marvin Wissfeld
+        content: Marvin Wißfeld
         language:
         - en
     contact:
-    - email: xsf@larma.de
+    - email: xmpp@larma.de
   role:
   - type: author
 revdate: '2024-04-15'
