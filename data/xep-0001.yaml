@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0001
 date:
 - type: published
-  value: '2024-03-11'
+  value: '2024-12-24'
 contributor:
 - person:
     name:
@@ -96,7 +96,7 @@ contributor:
     - email: ralphm@ik.nu
   role:
   - type: author
-revdate: '2024-03-11'
+revdate: '2024-12-24'
 language:
 - en
 script:
