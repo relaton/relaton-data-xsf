@@ -1,0 +1,68 @@
+---
+schema-version: v1.2.9
+id: XEP0511
+title:
+- content: Link Metadata
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0511.html
+  type: src
+type: standard
+docid:
+- id: XEP 0511
+  type: XEP
+  primary: true
+- id: XEP-0511
+  type: XEP
+  scope: anchor
+docnumber: XEP-0511
+date:
+- type: published
+  value: '2026-02-24'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content:
+          language:
+          - en
+          initial: S
+        formatted_initials:
+          content: S.
+          language:
+          - en
+      surname:
+        content: Weber
+        language:
+        - en
+      completename:
+        content: Stephen Paul Weber
+        language:
+        - en
+    contact:
+    - email: singpolyma@singpolyma.net
+  role:
+  - type: author
+revdate: '2026-02-24'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0511'
+ext:
+  doctype:
+    type: rfc
