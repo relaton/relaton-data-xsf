@@ -1,126 +1,97 @@
 ---
-schema-version: v1.2.9
 id: XEP0084
-title:
-- content: User Avatar
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0084.html
-  type: src
 type: standard
-docid:
-- id: XEP 0084
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: User Avatar
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0084.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0084.html
+docidentifier:
+- content: XEP 0084
   type: XEP
   primary: true
-- id: XEP-0084
-  type: XEP
-  scope: anchor
 docnumber: XEP-0084
 date:
 - type: published
-  value: '2019-09-20'
+  at: '2019-09-20'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - stpeter@stpeter.im
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Saint-Andre
-        language:
-        - en
       completename:
+        language: en
         content: Peter Saint-Andre
-        language:
-        - en
-    contact:
-    - email: stpeter@stpeter.im
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - ''
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Millard
-        language:
-        - en
       completename:
+        language: en
         content: Peter Millard
-        language:
-        - en
-    contact:
-    - email: ''
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - temas@jabber.org
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: T
-        formatted_initials:
-          content: T.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: T
+      formatted_initials:
+        language: en
+        content: T.
       surname:
+        language: en
         content: Muldowney
-        language:
-        - en
       completename:
+        language: en
         content: Thomas Muldowney
-        language:
-        - en
-    contact:
-    - email: temas@jabber.org
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - julian@jabber.org
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: J
-        formatted_initials:
-          content: J.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: J
+      formatted_initials:
+        language: en
+        content: J.
       surname:
+        language: en
         content: Missig
-        language:
-        - en
       completename:
+        language: en
         content: Julian Missig
-        language:
-        - en
-    contact:
-    - email: julian@jabber.org
-  role:
-  - type: author
-revdate: '2019-09-20'
 language:
 - en
 script:
@@ -128,13 +99,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0084'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

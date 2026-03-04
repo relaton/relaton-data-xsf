@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0337
-title:
-- content: Event Logging over XMPP
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0337.html
-  type: src
 type: standard
-docid:
-- id: XEP 0337
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Event Logging over XMPP
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0337.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0337.html
+docidentifier:
+- content: XEP 0337
   type: XEP
   primary: true
-- id: XEP-0337
-  type: XEP
-  scope: anchor
 docnumber: XEP-0337
 date:
 - type: published
-  value: '2017-09-11'
+  at: '2017-09-11'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
-      surname:
-        content: Waher
-        language:
-        - en
-      completename:
-        content: Peter Waher
-        language:
-        - en
-    contact:
-    - email: peterwaher@hotmail.com
-  role:
+- role:
   - type: author
-revdate: '2017-09-11'
+  person:
+    email:
+    - peterwaher@hotmail.com
+    name:
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
+      surname:
+        language: en
+        content: Waher
+      completename:
+        language: en
+        content: Peter Waher
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0337'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

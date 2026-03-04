@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0503
-title:
-- content: Server-side spaces
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0503.html
-  type: src
 type: standard
-docid:
-- id: XEP 0503
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Server-side spaces
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0503.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0503.html
+docidentifier:
+- content: XEP 0503
   type: XEP
   primary: true
-- id: XEP-0503
-  type: XEP
-  scope: anchor
 docnumber: XEP-0503
 date:
 - type: published
-  value: '2025-09-13'
+  at: '2025-09-13'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - nicoco@nicoco.fr
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: N
-        formatted_initials:
-          content: N.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: "N"
+      formatted_initials:
+        language: en
+        content: N.
       surname:
+        language: en
         content: Cedilnik
-        language:
-        - en
       completename:
+        language: en
         content: Nicolas Cedilnik
-        language:
-        - en
-    contact:
-    - email: nicoco@nicoco.fr
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - edhelas@movim.eu
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: T
-        formatted_initials:
-          content: T.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: T
+      formatted_initials:
+        language: en
+        content: T.
       surname:
+        language: en
         content: Jaussoin
-        language:
-        - en
       completename:
+        language: en
         content: Timothée Jaussoin
-        language:
-        - en
-    contact:
-    - email: edhelas@movim.eu
-  role:
-  - type: author
-revdate: '2025-09-13'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0503'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

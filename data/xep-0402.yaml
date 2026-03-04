@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0402
-title:
-- content: PEP Native Bookmarks
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0402.html
-  type: src
 type: standard
-docid:
-- id: XEP 0402
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: PEP Native Bookmarks
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0402.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0402.html
+docidentifier:
+- content: XEP 0402
   type: XEP
   primary: true
-- id: XEP-0402
-  type: XEP
-  scope: anchor
 docnumber: XEP-0402
 date:
 - type: published
-  value: '2024-08-15'
+  at: '2024-08-15'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - dave@hellopando.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: D
-        formatted_initials:
-          content: D.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: D
+      formatted_initials:
+        language: en
+        content: D.
       surname:
+        language: en
         content: Cridland
-        language:
-        - en
       completename:
+        language: en
         content: Dave Cridland
-        language:
-        - en
-    contact:
-    - email: dave@hellopando.com
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - jc@opkode.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: J
-        formatted_initials:
-          content: J.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: J
+      formatted_initials:
+        language: en
+        content: J.
       surname:
+        language: en
         content: Brand
-        language:
-        - en
       completename:
+        language: en
         content: JC Brand
-        language:
-        - en
-    contact:
-    - email: jc@opkode.com
-  role:
-  - type: author
-revdate: '2024-08-15'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0402'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

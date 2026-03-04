@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0010
-title:
-- content: Whiteboarding SIG
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0010.html
-  type: src
 type: standard
-docid:
-- id: XEP 0010
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Whiteboarding SIG
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0010.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0010.html
+docidentifier:
+- content: XEP 0010
   type: XEP
   primary: true
-- id: XEP-0010
-  type: XEP
-  scope: anchor
 docnumber: XEP-0010
 date:
 - type: published
-  value: '2002-05-08'
+  at: '2002-05-08'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: N
-        formatted_initials:
-          content: N.
-          language:
-          - en
-      surname:
-        content: Gustavsson
-        language:
-        - en
-      completename:
-        content: Niklas Gustavsson
-        language:
-        - en
-    contact:
-    - email: niklas@protocol7.com
-  role:
+- role:
   - type: author
-revdate: '2002-05-08'
+  person:
+    email:
+    - niklas@protocol7.com
+    name:
+      forename:
+      - language: en
+        initial: "N"
+      formatted_initials:
+        language: en
+        content: N.
+      surname:
+        language: en
+        content: Gustavsson
+      completename:
+        language: en
+        content: Niklas Gustavsson
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0010'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

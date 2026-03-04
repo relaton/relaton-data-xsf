@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0354
-title:
-- content: Customizable Message Routing
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0354.html
-  type: src
 type: standard
-docid:
-- id: XEP 0354
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Customizable Message Routing
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0354.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0354.html
+docidentifier:
+- content: XEP 0354
   type: XEP
   primary: true
-- id: XEP-0354
-  type: XEP
-  scope: anchor
 docnumber: XEP-0354
 date:
 - type: published
-  value: '2017-09-11'
+  at: '2017-09-11'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: F
-        formatted_initials:
-          content: F.
-          language:
-          - en
-      surname:
-        content: Schmaus
-        language:
-        - en
-      completename:
-        content: Florian Schmaus
-        language:
-        - en
-    contact:
-    - email: flo@geekplace.eu
-  role:
+- role:
   - type: author
-revdate: '2017-09-11'
+  person:
+    email:
+    - flo@geekplace.eu
+    name:
+      forename:
+      - language: en
+        initial: F
+      formatted_initials:
+        language: en
+        content: F.
+      surname:
+        language: en
+        content: Schmaus
+      completename:
+        language: en
+        content: Florian Schmaus
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0354'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

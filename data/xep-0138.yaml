@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0138
-title:
-- content: Stream Compression
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0138.html
-  type: src
 type: standard
-docid:
-- id: XEP 0138
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Stream Compression
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0138.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0138.html
+docidentifier:
+- content: XEP 0138
   type: XEP
   primary: true
-- id: XEP-0138
-  type: XEP
-  scope: anchor
 docnumber: XEP-0138
 date:
 - type: published
-  value: '2022-02-10'
+  at: '2022-02-10'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - jhildebr@cisco.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: J
-        formatted_initials:
-          content: J.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: J
+      formatted_initials:
+        language: en
+        content: J.
       surname:
+        language: en
         content: Hildebrand
-        language:
-        - en
       completename:
+        language: en
         content: Joe Hildebrand
-        language:
-        - en
-    contact:
-    - email: jhildebr@cisco.com
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - stpeter@stpeter.im
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Saint-Andre
-        language:
-        - en
       completename:
+        language: en
         content: Peter Saint-Andre
-        language:
-        - en
-    contact:
-    - email: stpeter@stpeter.im
-  role:
-  - type: author
-revdate: '2022-02-10'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0138'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

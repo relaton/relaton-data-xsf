@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0407
-title:
-- content: 'Mediated Information eXchange (MIX): Miscellaneous Capabilities'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0407.html
-  type: src
 type: standard
-docid:
-- id: XEP 0407
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'Mediated Information eXchange (MIX): Miscellaneous Capabilities'
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0407.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0407.html
+docidentifier:
+- content: XEP 0407
   type: XEP
   primary: true
-- id: XEP-0407
-  type: XEP
-  scope: anchor
 docnumber: XEP-0407
 date:
 - type: published
-  value: '2020-11-03'
+  at: '2020-11-03'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - kevin.smith@isode.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: K
-        formatted_initials:
-          content: K.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: K
+      formatted_initials:
+        language: en
+        content: K.
       surname:
+        language: en
         content: Smith
-        language:
-        - en
       completename:
+        language: en
         content: Kevin Smith
-        language:
-        - en
-    contact:
-    - email: kevin.smith@isode.com
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - steve.kille@isode.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: S
-        formatted_initials:
-          content: S.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: S
+      formatted_initials:
+        language: en
+        content: S.
       surname:
+        language: en
         content: Kille
-        language:
-        - en
       completename:
+        language: en
         content: Steve Kille
-        language:
-        - en
-    contact:
-    - email: steve.kille@isode.com
-  role:
-  - type: author
-revdate: '2020-11-03'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0407'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

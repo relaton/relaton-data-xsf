@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0040
-title:
-- content: Jabber Robust Publish-Subscribe
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0040.html
-  type: src
 type: standard
-docid:
-- id: XEP 0040
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Jabber Robust Publish-Subscribe
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0040.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0040.html
+docidentifier:
+- content: XEP 0040
   type: XEP
   primary: true
-- id: XEP-0040
-  type: XEP
-  scope: anchor
 docnumber: XEP-0040
 date:
 - type: published
-  value: '2004-07-26'
+  at: '2004-07-26'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: T
-        formatted_initials:
-          content: T.
-          language:
-          - en
-      surname:
-        content: Carpenter
-        language:
-        - en
-      completename:
-        content: Tim Carpenter
-        language:
-        - en
-    contact:
-    - email: tim.carpenter@in8limited.co.uk
-  role:
+- role:
   - type: author
-revdate: '2004-07-26'
+  person:
+    email:
+    - tim.carpenter@in8limited.co.uk
+    name:
+      forename:
+      - language: en
+        initial: T
+      formatted_initials:
+        language: en
+        content: T.
+      surname:
+        language: en
+        content: Carpenter
+      completename:
+        language: en
+        content: Tim Carpenter
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0040'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

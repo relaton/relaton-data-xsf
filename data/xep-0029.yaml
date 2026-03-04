@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0029
-title:
-- content: Definition of Jabber Identifiers (JIDs)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0029.html
-  type: src
 type: standard
-docid:
-- id: XEP 0029
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Definition of Jabber Identifiers (JIDs)
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0029.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0029.html
+docidentifier:
+- content: XEP 0029
   type: XEP
   primary: true
-- id: XEP-0029
-  type: XEP
-  scope: anchor
 docnumber: XEP-0029
 date:
 - type: published
-  value: '2022-09-23'
+  at: '2022-09-23'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: C
-        formatted_initials:
-          content: C.
-          language:
-          - en
-      surname:
-        content: Kaes
-        language:
-        - en
-      completename:
-        content: Craig Kaes
-        language:
-        - en
-    contact:
-    - email: craigk@jabber.com
-  role:
+- role:
   - type: author
-revdate: '2022-09-23'
+  person:
+    email:
+    - craigk@jabber.com
+    name:
+      forename:
+      - language: en
+        initial: C
+      formatted_initials:
+        language: en
+        content: C.
+      surname:
+        language: en
+        content: Kaes
+      completename:
+        language: en
+        content: Craig Kaes
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0029'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

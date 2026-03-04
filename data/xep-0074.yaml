@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0074
-title:
-- content: Simple Access Control
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0074.html
-  type: src
 type: standard
-docid:
-- id: XEP 0074
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Simple Access Control
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0074.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0074.html
+docidentifier:
+- content: XEP 0074
   type: XEP
   primary: true
-- id: XEP-0074
-  type: XEP
-  scope: anchor
 docnumber: XEP-0074
 date:
 - type: published
-  value: '2003-10-20'
+  at: '2003-10-20'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: J
-        formatted_initials:
-          content: J.
-          language:
-          - en
-      surname:
-        content: Kirby
-        language:
-        - en
-      completename:
-        content: Justin Kirby
-        language:
-        - en
-    contact:
-    - email: justin@openaether.org
-  role:
+- role:
   - type: author
-revdate: '2003-10-20'
+  person:
+    email:
+    - justin@openaether.org
+    name:
+      forename:
+      - language: en
+        initial: J
+      formatted_initials:
+        language: en
+        content: J.
+      surname:
+        language: en
+        content: Kirby
+      completename:
+        language: en
+        content: Justin Kirby
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0074'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

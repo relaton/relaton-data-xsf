@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0278
-title:
-- content: Jingle Relay Nodes
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0278.html
-  type: src
 type: standard
-docid:
-- id: XEP 0278
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Jingle Relay Nodes
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0278.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0278.html
+docidentifier:
+- content: XEP 0278
   type: XEP
   primary: true
-- id: XEP-0278
-  type: XEP
-  scope: anchor
 docnumber: XEP-0278
 date:
 - type: published
-  value: '2021-03-04'
+  at: '2021-03-04'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: T
-        formatted_initials:
-          content: T.
-          language:
-          - en
-      surname:
-        content: Camargo
-        language:
-        - en
-      completename:
-        content: Thiago Camargo
-        language:
-        - en
-    contact:
-    - email: thiago@xmppjingle.com
-  role:
+- role:
   - type: author
-revdate: '2021-03-04'
+  person:
+    email:
+    - thiago@xmppjingle.com
+    name:
+      forename:
+      - language: en
+        initial: T
+      formatted_initials:
+        language: en
+        content: T.
+      surname:
+        language: en
+        content: Camargo
+      completename:
+        language: en
+        content: Thiago Camargo
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0278'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0368
-title:
-- content: SRV records for XMPP over TLS
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0368.html
-  type: src
 type: standard
-docid:
-- id: XEP 0368
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SRV records for XMPP over TLS
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0368.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0368.html
+docidentifier:
+- content: XEP 0368
   type: XEP
   primary: true
-- id: XEP-0368
-  type: XEP
-  scope: anchor
 docnumber: XEP-0368
 date:
 - type: published
-  value: '2019-08-20'
+  at: '2019-08-20'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: T
-        formatted_initials:
-          content: T.
-          language:
-          - en
-      surname:
-        content: Burtrum
-        language:
-        - en
-      completename:
-        content: Travis Burtrum
-        language:
-        - en
-    contact:
-    - email: travis@burtrum.org
-  role:
+- role:
   - type: author
-revdate: '2019-08-20'
+  person:
+    email:
+    - travis@burtrum.org
+    name:
+      forename:
+      - language: en
+        initial: T
+      formatted_initials:
+        language: en
+        content: T.
+      surname:
+        language: en
+        content: Burtrum
+      completename:
+        language: en
+        content: Travis Burtrum
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0368'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

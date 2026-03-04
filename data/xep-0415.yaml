@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0415
-title:
-- content: XMPP Over RELOAD (XOR)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0415.html
-  type: src
 type: standard
-docid:
-- id: XEP 0415
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: XMPP Over RELOAD (XOR)
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0415.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0415.html
+docidentifier:
+- content: XEP 0415
   type: XEP
   primary: true
-- id: XEP-0415
-  type: XEP
-  scope: anchor
 docnumber: XEP-0415
 date:
 - type: published
-  value: '2019-03-06'
+  at: '2019-03-06'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: E
-        formatted_initials:
-          content: E.
-          language:
-          - en
-      surname:
-        content: Khramtsov
-        language:
-        - en
-      completename:
-        content: Evgeny Khramtsov
-        language:
-        - en
-    contact:
-    - email: ekhramtsov@process-one.net
-  role:
+- role:
   - type: author
-revdate: '2019-03-06'
+  person:
+    email:
+    - ekhramtsov@process-one.net
+    name:
+      forename:
+      - language: en
+        initial: E
+      formatted_initials:
+        language: en
+        content: E.
+      surname:
+        language: en
+        content: Khramtsov
+      completename:
+        language: en
+        content: Evgeny Khramtsov
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0415'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

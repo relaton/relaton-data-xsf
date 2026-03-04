@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0197
-title:
-- content: User Viewing
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0197.html
-  type: src
 type: standard
-docid:
-- id: XEP 0197
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: User Viewing
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0197.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0197.html
+docidentifier:
+- content: XEP 0197
   type: XEP
   primary: true
-- id: XEP-0197
-  type: XEP
-  scope: anchor
 docnumber: XEP-0197
 date:
 - type: published
-  value: '2008-09-25'
+  at: '2008-09-25'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - stpeter@stpeter.im
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Saint-Andre
-        language:
-        - en
       completename:
+        language: en
         content: Peter Saint-Andre
-        language:
-        - en
-    contact:
-    - email: stpeter@stpeter.im
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - kevin.hoekman@pandora.be
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: K
-        formatted_initials:
-          content: K.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: K
+      formatted_initials:
+        language: en
+        content: K.
       surname:
+        language: en
         content: Hoekman
-        language:
-        - en
       completename:
+        language: en
         content: Kevin Hoekman
-        language:
-        - en
-    contact:
-    - email: kevin.hoekman@pandora.be
-  role:
-  - type: author
-revdate: '2008-09-25'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0197'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

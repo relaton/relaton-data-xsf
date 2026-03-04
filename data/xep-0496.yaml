@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0496
-title:
-- content: Pubsub Node Relationships
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0496.html
-  type: src
 type: standard
-docid:
-- id: XEP 0496
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Pubsub Node Relationships
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0496.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0496.html
+docidentifier:
+- content: XEP 0496
   type: XEP
   primary: true
-- id: XEP-0496
-  type: XEP
-  scope: anchor
 docnumber: XEP-0496
 date:
 - type: published
-  value: '2024-11-20'
+  at: '2024-11-20'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: J
-        formatted_initials:
-          content: J.
-          language:
-          - en
-      surname:
-        content: Poisson
-        language:
-        - en
-      completename:
-        content: Jérôme Poisson
-        language:
-        - en
-    contact:
-    - email: goffi@goffi.org
-  role:
+- role:
   - type: author
-revdate: '2024-11-20'
+  person:
+    email:
+    - goffi@goffi.org
+    name:
+      forename:
+      - language: en
+        initial: J
+      formatted_initials:
+        language: en
+        content: J.
+      surname:
+        language: en
+        content: Poisson
+      completename:
+        language: en
+        content: Jérôme Poisson
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0496'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

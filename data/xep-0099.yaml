@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0099
-title:
-- content: IQ Query Action Protocol
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0099.html
-  type: src
 type: standard
-docid:
-- id: XEP 0099
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: IQ Query Action Protocol
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0099.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0099.html
+docidentifier:
+- content: XEP 0099
   type: XEP
   primary: true
-- id: XEP-0099
-  type: XEP
-  scope: anchor
 docnumber: XEP-0099
 date:
 - type: published
-  value: '2018-11-03'
+  at: '2018-11-03'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: I
-        formatted_initials:
-          content: I.
-          language:
-          - en
-      surname:
-        content: Shigeoka
-        language:
-        - en
-      completename:
-        content: Iain Shigeoka
-        language:
-        - en
-    contact:
-    - email: iain@jivesoftware.com
-  role:
+- role:
   - type: author
-revdate: '2018-11-03'
+  person:
+    email:
+    - iain@jivesoftware.com
+    name:
+      forename:
+      - language: en
+        initial: I
+      formatted_initials:
+        language: en
+        content: I.
+      surname:
+        language: en
+        content: Shigeoka
+      completename:
+        language: en
+        content: Iain Shigeoka
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0099'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

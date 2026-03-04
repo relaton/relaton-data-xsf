@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0351
-title:
-- content: Recipient Server Side Notifications Filtering
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0351.html
-  type: src
 type: standard
-docid:
-- id: XEP 0351
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Recipient Server Side Notifications Filtering
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0351.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0351.html
+docidentifier:
+- content: XEP 0351
   type: XEP
   primary: true
-- id: XEP-0351
-  type: XEP
-  scope: anchor
 docnumber: XEP-0351
 date:
 - type: published
-  value: '2017-09-11'
+  at: '2017-09-11'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: S
-        formatted_initials:
-          content: S.
-          language:
-          - en
-      surname:
-        content: Dobrov
-        language:
-        - en
-      completename:
-        content: Sergey Dobrov
-        language:
-        - en
-    contact:
-    - email: Binary@JRuDevels.org
-  role:
+- role:
   - type: author
-revdate: '2017-09-11'
+  person:
+    email:
+    - Binary@JRuDevels.org
+    name:
+      forename:
+      - language: en
+        initial: S
+      formatted_initials:
+        language: en
+        content: S.
+      surname:
+        language: en
+        content: Dobrov
+      completename:
+        language: en
+        content: Sergey Dobrov
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0351'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

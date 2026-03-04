@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0127
-title:
-- content: Common Alerting Protocol (CAP) Over XMPP
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0127.html
-  type: src
 type: standard
-docid:
-- id: XEP 0127
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Common Alerting Protocol (CAP) Over XMPP
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0127.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0127.html
+docidentifier:
+- content: XEP 0127
   type: XEP
   primary: true
-- id: XEP-0127
-  type: XEP
-  scope: anchor
 docnumber: XEP-0127
 date:
 - type: published
-  value: '2004-12-09'
+  at: '2004-12-09'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - stpeter@stpeter.im
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Saint-Andre
-        language:
-        - en
       completename:
+        language: en
         content: Peter Saint-Andre
-        language:
-        - en
-    contact:
-    - email: stpeter@stpeter.im
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - Boyd.Fletcher@je.jfcom.mil
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: B
-        formatted_initials:
-          content: B.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: B
+      formatted_initials:
+        language: en
+        content: B.
       surname:
+        language: en
         content: Fletcher
-        language:
-        - en
       completename:
+        language: en
         content: Boyd Fletcher
-        language:
-        - en
-    contact:
-    - email: Boyd.Fletcher@je.jfcom.mil
-  role:
-  - type: author
-revdate: '2004-12-09'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0127'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

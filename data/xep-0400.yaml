@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0400
-title:
-- content: Multi-Factor Authentication with TOTP
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0400.html
-  type: src
 type: standard
-docid:
-- id: XEP 0400
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Multi-Factor Authentication with TOTP
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0400.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0400.html
+docidentifier:
+- content: XEP 0400
   type: XEP
   primary: true
-- id: XEP-0400
-  type: XEP
-  scope: anchor
 docnumber: XEP-0400
 date:
 - type: published
-  value: '2018-01-25'
+  at: '2018-01-25'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: D
-        formatted_initials:
-          content: D.
-          language:
-          - en
-      surname:
-        content: Cridland
-        language:
-        - en
-      completename:
-        content: Dave Cridland
-        language:
-        - en
-    contact:
-    - email: dave@hellopando.com
-  role:
+- role:
   - type: author
-revdate: '2018-01-25'
+  person:
+    email:
+    - dave@hellopando.com
+    name:
+      forename:
+      - language: en
+        initial: D
+      formatted_initials:
+        language: en
+        content: D.
+      surname:
+        language: en
+        content: Cridland
+      completename:
+        language: en
+        content: Dave Cridland
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0400'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

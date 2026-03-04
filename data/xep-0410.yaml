@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0410
-title:
-- content: MUC Self-Ping (Schrödinger's Chat)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0410.html
-  type: src
 type: standard
-docid:
-- id: XEP 0410
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: MUC Self-Ping (Schrödinger's Chat)
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0410.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0410.html
+docidentifier:
+- content: XEP 0410
   type: XEP
   primary: true
-- id: XEP-0410
-  type: XEP
-  scope: anchor
 docnumber: XEP-0410
 date:
 - type: published
-  value: '2019-09-25'
+  at: '2019-09-25'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: G
-        formatted_initials:
-          content: G.
-          language:
-          - en
-      surname:
-        content: Lukas
-        language:
-        - en
-      completename:
-        content: Georg Lukas
-        language:
-        - en
-    contact:
-    - email: georg@op-co.de
-  role:
+- role:
   - type: author
-revdate: '2019-09-25'
+  person:
+    email:
+    - georg@op-co.de
+    name:
+      forename:
+      - language: en
+        initial: G
+      formatted_initials:
+        language: en
+        content: G.
+      surname:
+        language: en
+        content: Lukas
+      completename:
+        language: en
+        content: Georg Lukas
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0410'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

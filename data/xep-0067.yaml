@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0067
-title:
-- content: Stock Data Transmission
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0067.html
-  type: src
 type: standard
-docid:
-- id: XEP 0067
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Stock Data Transmission
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0067.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0067.html
+docidentifier:
+- content: XEP 0067
   type: XEP
   primary: true
-- id: XEP-0067
-  type: XEP
-  scope: anchor
 docnumber: XEP-0067
 date:
 - type: published
-  value: '2003-07-19'
+  at: '2003-07-19'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: U
-        formatted_initials:
-          content: U.
-          language:
-          - en
-      surname:
-        content: Staudinger
-        language:
-        - en
-      completename:
-        content: Ulrich Staudinger
-        language:
-        - en
-    contact:
-    - email: chicago5@gmx.de
-  role:
+- role:
   - type: author
-revdate: '2003-07-19'
+  person:
+    email:
+    - chicago5@gmx.de
+    name:
+      forename:
+      - language: en
+        initial: U
+      formatted_initials:
+        language: en
+        content: U.
+      surname:
+        language: en
+        content: Staudinger
+      completename:
+        language: en
+        content: Ulrich Staudinger
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0067'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

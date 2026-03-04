@@ -1,126 +1,97 @@
 ---
-schema-version: v1.2.9
 id: XEP0284
-title:
-- content: Shared XML Editing
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0284.html
-  type: src
 type: standard
-docid:
-- id: XEP 0284
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Shared XML Editing
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0284.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0284.html
+docidentifier:
+- content: XEP 0284
   type: XEP
   primary: true
-- id: XEP-0284
-  type: XEP
-  scope: anchor
 docnumber: XEP-0284
 date:
 - type: published
-  value: '2020-03-10'
+  at: '2020-03-10'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - joonas@uwc.net
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: J
-        formatted_initials:
-          content: J.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: J
+      formatted_initials:
+        language: en
+        content: J.
       surname:
+        language: en
         content: Govenius
-        language:
-        - en
       completename:
+        language: en
         content: Joonas Govenius
-        language:
-        - en
-    contact:
-    - email: joonas@uwc.net
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - stpeter@stpeter.im
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Saint-Andre
-        language:
-        - en
       completename:
+        language: en
         content: Peter Saint-Andre
-        language:
-        - en
-    contact:
-    - email: stpeter@stpeter.im
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - pusateri@bangj.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: T
-        formatted_initials:
-          content: T.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: T
+      formatted_initials:
+        language: en
+        content: T.
       surname:
+        language: en
         content: Pusateri
-        language:
-        - en
       completename:
+        language: en
         content: Tom Pusateri
-        language:
-        - en
-    contact:
-    - email: pusateri@bangj.com
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - linkmauve@linkmauve.fr
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: E
-        formatted_initials:
-          content: E.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: E
+      formatted_initials:
+        language: en
+        content: E.
       surname:
+        language: en
         content: Peyrot
-        language:
-        - en
       completename:
+        language: en
         content: Emmanuel Gil Peyrot
-        language:
-        - en
-    contact:
-    - email: linkmauve@linkmauve.fr
-  role:
-  - type: author
-revdate: '2020-03-10'
 language:
 - en
 script:
@@ -128,13 +99,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0284'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

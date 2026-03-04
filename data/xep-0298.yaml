@@ -1,102 +1,79 @@
 ---
-schema-version: v1.2.9
 id: XEP0298
-title:
-- content: Delivering Conference Information to Jingle Participants (Coin)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0298.html
-  type: src
 type: standard
-docid:
-- id: XEP 0298
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Delivering Conference Information to Jingle Participants (Coin)
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0298.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0298.html
+docidentifier:
+- content: XEP 0298
   type: XEP
   primary: true
-- id: XEP-0298
-  type: XEP
-  scope: anchor
 docnumber: XEP-0298
 date:
 - type: published
-  value: '2015-07-02'
+  at: '2015-07-02'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - emcho@jitsi.org
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: E
-        formatted_initials:
-          content: E.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: E
+      formatted_initials:
+        language: en
+        content: E.
       surname:
+        language: en
         content: Ivov
-        language:
-        - en
       completename:
+        language: en
         content: Emil Ivov
-        language:
-        - en
-    contact:
-    - email: emcho@jitsi.org
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - enrico.marocco@telecomitalia.it
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: E
-        formatted_initials:
-          content: E.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: E
+      formatted_initials:
+        language: en
+        content: E.
       surname:
+        language: en
         content: Marocco
-        language:
-        - en
       completename:
+        language: en
         content: Enrico Marocco
-        language:
-        - en
-    contact:
-    - email: enrico.marocco@telecomitalia.it
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - saul@ag-projects.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: S
-        formatted_initials:
-          content: S.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: S
+      formatted_initials:
+        language: en
+        content: S.
       surname:
+        language: en
         content: Corretgé
-        language:
-        - en
       completename:
+        language: en
         content: Saúl Ibarra Corretgé
-        language:
-        - en
-    contact:
-    - email: saul@ag-projects.com
-  role:
-  - type: author
-revdate: '2015-07-02'
 language:
 - en
 script:
@@ -104,13 +81,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0298'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

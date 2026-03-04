@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0292
-title:
-- content: vCard4 Over XMPP
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0292.html
-  type: src
 type: standard
-docid:
-- id: XEP 0292
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: vCard4 Over XMPP
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0292.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0292.html
+docidentifier:
+- content: XEP 0292
   type: XEP
   primary: true
-- id: XEP-0292
-  type: XEP
-  scope: anchor
 docnumber: XEP-0292
 date:
 - type: published
-  value: '2023-03-14'
+  at: '2023-03-14'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - stpeter@stpeter.im
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Saint-Andre
-        language:
-        - en
       completename:
+        language: en
         content: Peter Saint-Andre
-        language:
-        - en
-    contact:
-    - email: stpeter@stpeter.im
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - samizzi@cisco.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: S
-        formatted_initials:
-          content: S.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: S
+      formatted_initials:
+        language: en
+        content: S.
       surname:
+        language: en
         content: Mizzi
-        language:
-        - en
       completename:
+        language: en
         content: Samantha Mizzi
-        language:
-        - en
-    contact:
-    - email: samizzi@cisco.com
-  role:
-  - type: author
-revdate: '2023-03-14'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0292'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

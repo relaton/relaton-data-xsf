@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0319
-title:
-- content: Last User Interaction in Presence
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0319.html
-  type: src
 type: standard
-docid:
-- id: XEP 0319
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Last User Interaction in Presence
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0319.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0319.html
+docidentifier:
+- content: XEP 0319
   type: XEP
   primary: true
-- id: XEP-0319
-  type: XEP
-  scope: anchor
 docnumber: XEP-0319
 date:
 - type: published
-  value: '2017-07-17'
+  at: '2017-07-17'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: T
-        formatted_initials:
-          content: T.
-          language:
-          - en
-      surname:
-        content: Markmann
-        language:
-        - en
-      completename:
-        content: Tobias Markmann
-        language:
-        - en
-    contact:
-    - email: tobias.markmann@isode.com
-  role:
+- role:
   - type: author
-revdate: '2017-07-17'
+  person:
+    email:
+    - tobias.markmann@isode.com
+    name:
+      forename:
+      - language: en
+        initial: T
+      formatted_initials:
+        language: en
+        content: T.
+      surname:
+        language: en
+        content: Markmann
+      completename:
+        language: en
+        content: Tobias Markmann
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0319'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-require 'relaton_xsf'
+require 'relaton/xsf'
 
 # Remoeve old files
 FileUtils.rm_rf('data')
 FileUtils.rm Dir.glob('index*')
 
 # Run converters
-RelatonXsf::DataFetcher.fetch
+Relaton::Xsf::DataFetcher.fetch

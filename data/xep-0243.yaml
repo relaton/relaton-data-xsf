@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0243
-title:
-- content: XMPP Server Compliance 2009
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0243.html
-  type: src
 type: standard
-docid:
-- id: XEP 0243
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: XMPP Server Compliance 2009
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0243.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0243.html
+docidentifier:
+- content: XEP 0243
   type: XEP
   primary: true
-- id: XEP-0243
-  type: XEP
-  scope: anchor
 docnumber: XEP-0243
 date:
 - type: published
-  value: '2008-09-08'
+  at: '2008-09-08'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
-      surname:
-        content: Saint-Andre
-        language:
-        - en
-      completename:
-        content: Peter Saint-Andre
-        language:
-        - en
-    contact:
-    - email: stpeter@stpeter.im
-  role:
+- role:
   - type: author
-revdate: '2008-09-08'
+  person:
+    email:
+    - stpeter@stpeter.im
+    name:
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
+      surname:
+        language: en
+        content: Saint-Andre
+      completename:
+        language: en
+        content: Peter Saint-Andre
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0243'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

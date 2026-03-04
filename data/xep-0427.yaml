@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0427
-title:
-- content: MAM Fastening Collation
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0427.html
-  type: src
 type: standard
-docid:
-- id: XEP 0427
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: MAM Fastening Collation
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0427.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0427.html
+docidentifier:
+- content: XEP 0427
   type: XEP
   primary: true
-- id: XEP-0427
-  type: XEP
-  scope: anchor
 docnumber: XEP-0427
 date:
 - type: published
-  value: '2020-01-28'
+  at: '2020-01-28'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - dave@hellopando.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: D
-        formatted_initials:
-          content: D.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: D
+      formatted_initials:
+        language: en
+        content: D.
       surname:
+        language: en
         content: Cridland
-        language:
-        - en
       completename:
+        language: en
         content: Dave Cridland
-        language:
-        - en
-    contact:
-    - email: dave@hellopando.com
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - kevin.smith@isode.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: K
-        formatted_initials:
-          content: K.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: K
+      formatted_initials:
+        language: en
+        content: K.
       surname:
+        language: en
         content: Smith
-        language:
-        - en
       completename:
+        language: en
         content: Kevin Smith
-        language:
-        - en
-    contact:
-    - email: kevin.smith@isode.com
-  role:
-  - type: author
-revdate: '2020-01-28'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0427'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

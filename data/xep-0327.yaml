@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0327
-title:
-- content: Rayo
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0327.html
-  type: src
 type: standard
-docid:
-- id: XEP 0327
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Rayo
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0327.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0327.html
+docidentifier:
+- content: XEP 0327
   type: XEP
   primary: true
-- id: XEP-0327
-  type: XEP
-  scope: anchor
 docnumber: XEP-0327
 date:
 - type: published
-  value: '2018-11-03'
+  at: '2018-11-03'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - ben@langfeld.me
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: B
-        formatted_initials:
-          content: B.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: B
+      formatted_initials:
+        language: en
+        content: B.
       surname:
+        language: en
         content: Langfeld
-        language:
-        - en
       completename:
+        language: en
         content: Ben Langfeld
-        language:
-        - en
-    contact:
-    - email: ben@langfeld.me
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - jdecastro@tropo.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: J
-        formatted_initials:
-          content: J.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: J
+      formatted_initials:
+        language: en
+        content: J.
       surname:
+        language: en
         content: de Castro
-        language:
-        - en
       completename:
+        language: en
         content: Jose de Castro
-        language:
-        - en
-    contact:
-    - email: jdecastro@tropo.com
-  role:
-  - type: author
-revdate: '2018-11-03'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0327'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

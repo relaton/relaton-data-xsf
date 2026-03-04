@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0472
-title:
-- content: Pubsub Social Feed
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0472.html
-  type: src
 type: standard
-docid:
-- id: XEP 0472
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Pubsub Social Feed
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0472.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0472.html
+docidentifier:
+- content: XEP 0472
   type: XEP
   primary: true
-- id: XEP-0472
-  type: XEP
-  scope: anchor
 docnumber: XEP-0472
 date:
 - type: published
-  value: '2025-10-13'
+  at: '2025-10-13'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: T
-        formatted_initials:
-          content: T.
-          language:
-          - en
-      surname:
-        content: Jaussoin
-        language:
-        - en
-      completename:
-        content: Timothée Jaussoin
-        language:
-        - en
-    contact:
-    - email: edhelas@movim.eu
-  role:
+- role:
   - type: author
-revdate: '2025-10-13'
+  person:
+    email:
+    - edhelas@movim.eu
+    name:
+      forename:
+      - language: en
+        initial: T
+      formatted_initials:
+        language: en
+        content: T.
+      surname:
+        language: en
+        content: Jaussoin
+      completename:
+        language: en
+        content: Timothée Jaussoin
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0472'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0458
-title:
-- content: Community Code of Conduct
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0458.html
-  type: src
 type: standard
-docid:
-- id: XEP 0458
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Community Code of Conduct
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0458.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0458.html
+docidentifier:
+- content: XEP 0458
   type: XEP
   primary: true
-- id: XEP-0458
-  type: XEP
-  scope: anchor
 docnumber: XEP-0458
 date:
 - type: published
-  value: '2024-01-15'
+  at: '2024-01-15'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - dave@hellopando.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: D
-        formatted_initials:
-          content: D.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: D
+      formatted_initials:
+        language: en
+        content: D.
       surname:
+        language: en
         content: Cridland
-        language:
-        - en
       completename:
+        language: en
         content: Dave Cridland
-        language:
-        - en
-    contact:
-    - email: dave@hellopando.com
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - stpeter@stpeter.im
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Saint-Andre
-        language:
-        - en
       completename:
+        language: en
         content: Peter Saint-Andre
-        language:
-        - en
-    contact:
-    - email: stpeter@stpeter.im
-  role:
-  - type: author
-revdate: '2024-01-15'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0458'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

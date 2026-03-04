@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0473
-title:
-- content: OpenPGP for XMPP Pubsub
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0473.html
-  type: src
 type: standard
-docid:
-- id: XEP 0473
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OpenPGP for XMPP Pubsub
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0473.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0473.html
+docidentifier:
+- content: XEP 0473
   type: XEP
   primary: true
-- id: XEP-0473
-  type: XEP
-  scope: anchor
 docnumber: XEP-0473
 date:
 - type: published
-  value: '2022-12-13'
+  at: '2022-12-13'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: J
-        formatted_initials:
-          content: J.
-          language:
-          - en
-      surname:
-        content: Poisson
-        language:
-        - en
-      completename:
-        content: Jérôme Poisson
-        language:
-        - en
-    contact:
-    - email: goffi@goffi.org
-  role:
+- role:
   - type: author
-revdate: '2022-12-13'
+  person:
+    email:
+    - goffi@goffi.org
+    name:
+      forename:
+      - language: en
+        initial: J
+      formatted_initials:
+        language: en
+        content: J.
+      surname:
+        language: en
+        content: Poisson
+      completename:
+        language: en
+        content: Jérôme Poisson
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0473'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

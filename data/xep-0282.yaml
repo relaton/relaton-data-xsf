@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0282
-title:
-- content: 'DMUC2: Distributed MUC'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0282.html
-  type: src
 type: standard
-docid:
-- id: XEP 0282
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'DMUC2: Distributed MUC'
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0282.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0282.html
+docidentifier:
+- content: XEP 0282
   type: XEP
   primary: true
-- id: XEP-0282
-  type: XEP
-  scope: anchor
 docnumber: XEP-0282
 date:
 - type: published
-  value: '2021-03-04'
+  at: '2021-03-04'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - ''
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: C
-        formatted_initials:
-          content: C.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: C
+      formatted_initials:
+        language: en
+        content: C.
       surname:
+        language: en
         content: von Loesch
-        language:
-        - en
       completename:
+        language: en
         content: Carlo von Loesch
-        language:
-        - en
-    contact:
-    - email: ''
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - fippo@andyet.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Hancke
-        language:
-        - en
       completename:
+        language: en
         content: Philipp Hancke
-        language:
-        - en
-    contact:
-    - email: fippo@andyet.com
-  role:
-  - type: author
-revdate: '2021-03-04'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0282'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

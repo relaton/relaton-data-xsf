@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0429
-title:
-- content: Special Interests Group End to End Encryption
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0429.html
-  type: src
 type: standard
-docid:
-- id: XEP 0429
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Special Interests Group End to End Encryption
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0429.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0429.html
+docidentifier:
+- content: XEP 0429
   type: XEP
   primary: true
-- id: XEP-0429
-  type: XEP
-  scope: anchor
 docnumber: XEP-0429
 date:
 - type: published
-  value: '2021-08-10'
+  at: '2021-08-10'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
-      surname:
-        content: Schaub
-        language:
-        - en
-      completename:
-        content: Paul Schaub
-        language:
-        - en
-    contact:
-    - email: vanitasvitae@riseup.net
-  role:
+- role:
   - type: author
-revdate: '2021-08-10'
+  person:
+    email:
+    - vanitasvitae@riseup.net
+    name:
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
+      surname:
+        language: en
+        content: Schaub
+      completename:
+        language: en
+        content: Paul Schaub
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0429'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0287
-title:
-- content: Spim Markers and Reports
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0287.html
-  type: src
 type: standard
-docid:
-- id: XEP 0287
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Spim Markers and Reports
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0287.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0287.html
+docidentifier:
+- content: XEP 0287
   type: XEP
   primary: true
-- id: XEP-0287
-  type: XEP
-  scope: anchor
 docnumber: XEP-0287
 date:
 - type: published
-  value: '2010-10-04'
+  at: '2010-10-04'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: E
-        formatted_initials:
-          content: E.
-          language:
-          - en
-      surname:
-        content: Khramtsov
-        language:
-        - en
-      completename:
-        content: Evgeny Khramtsov
-        language:
-        - en
-    contact:
-    - email: ekhramtsov@process-one.net
-  role:
+- role:
   - type: author
-revdate: '2010-10-04'
+  person:
+    email:
+    - ekhramtsov@process-one.net
+    name:
+      forename:
+      - language: en
+        initial: E
+      formatted_initials:
+        language: en
+        content: E.
+      surname:
+        language: en
+        content: Khramtsov
+      completename:
+        language: en
+        content: Evgeny Khramtsov
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0287'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

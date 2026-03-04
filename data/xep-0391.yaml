@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0391
-title:
-- content: Jingle Encrypted Transports
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0391.html
-  type: src
 type: standard
-docid:
-- id: XEP 0391
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Jingle Encrypted Transports
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0391.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0391.html
+docidentifier:
+- content: XEP 0391
   type: XEP
   primary: true
-- id: XEP-0391
-  type: XEP
-  scope: anchor
 docnumber: XEP-0391
 date:
 - type: published
-  value: '2018-07-31'
+  at: '2018-07-31'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
-      surname:
-        content: Schaub
-        language:
-        - en
-      completename:
-        content: Paul Schaub
-        language:
-        - en
-    contact:
-    - email: vanitasvitae@riseup.net
-  role:
+- role:
   - type: author
-revdate: '2018-07-31'
+  person:
+    email:
+    - vanitasvitae@riseup.net
+    name:
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
+      surname:
+        language: en
+        content: Schaub
+      completename:
+        language: en
+        content: Paul Schaub
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0391'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

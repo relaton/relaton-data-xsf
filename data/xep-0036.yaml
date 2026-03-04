@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0036
-title:
-- content: Pub-Sub Subscriptions
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0036.html
-  type: src
 type: standard
-docid:
-- id: XEP 0036
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Pub-Sub Subscriptions
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0036.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0036.html
+docidentifier:
+- content: XEP 0036
   type: XEP
   primary: true
-- id: XEP-0036
-  type: XEP
-  scope: anchor
 docnumber: XEP-0036
 date:
 - type: published
-  value: '2003-04-22'
+  at: '2003-04-22'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - ''
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Millard
-        language:
-        - en
       completename:
+        language: en
         content: Peter Millard
-        language:
-        - en
-    contact:
-    - email: ''
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - stpeter@stpeter.im
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Saint-Andre
-        language:
-        - en
       completename:
+        language: en
         content: Peter Saint-Andre
-        language:
-        - en
-    contact:
-    - email: stpeter@stpeter.im
-  role:
-  - type: author
-revdate: '2003-04-22'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0036'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

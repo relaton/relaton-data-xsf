@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0200
-title:
-- content: Stanza Encryption
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0200.html
-  type: src
 type: standard
-docid:
-- id: XEP 0200
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Stanza Encryption
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0200.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0200.html
+docidentifier:
+- content: XEP 0200
   type: XEP
   primary: true
-- id: XEP-0200
-  type: XEP
-  scope: anchor
 docnumber: XEP-0200
 date:
 - type: published
-  value: '2007-05-30'
+  at: '2007-05-30'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: I
-        formatted_initials:
-          content: I.
-          language:
-          - en
-      surname:
-        content: Paterson
-        language:
-        - en
-      completename:
-        content: Ian Paterson
-        language:
-        - en
-    contact:
-    - email: ian.paterson@clientside.co.uk
-  role:
+- role:
   - type: author
-revdate: '2007-05-30'
+  person:
+    email:
+    - ian.paterson@clientside.co.uk
+    name:
+      forename:
+      - language: en
+        initial: I
+      formatted_initials:
+        language: en
+        content: I.
+      surname:
+        language: en
+        content: Paterson
+      completename:
+        language: en
+        content: Ian Paterson
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0200'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0486
-title:
-- content: MUC Avatars
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0486.html
-  type: src
 type: standard
-docid:
-- id: XEP 0486
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: MUC Avatars
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0486.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0486.html
+docidentifier:
+- content: XEP 0486
   type: XEP
   primary: true
-- id: XEP-0486
-  type: XEP
-  scope: anchor
 docnumber: XEP-0486
 date:
 - type: published
-  value: '2024-03-10'
+  at: '2024-03-10'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: E
-        formatted_initials:
-          content: E.
-          language:
-          - en
-      surname:
-        content: Peyrot
-        language:
-        - en
-      completename:
-        content: Emmanuel Gil Peyrot
-        language:
-        - en
-    contact:
-    - email: linkmauve@linkmauve.fr
-  role:
+- role:
   - type: author
-revdate: '2024-03-10'
+  person:
+    email:
+    - linkmauve@linkmauve.fr
+    name:
+      forename:
+      - language: en
+        initial: E
+      formatted_initials:
+        language: en
+        content: E.
+      surname:
+        language: en
+        content: Peyrot
+      completename:
+        language: en
+        content: Emmanuel Gil Peyrot
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0486'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

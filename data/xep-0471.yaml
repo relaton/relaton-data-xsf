@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0471
-title:
-- content: Calendar Events
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0471.html
-  type: src
 type: standard
-docid:
-- id: XEP 0471
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Calendar Events
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0471.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0471.html
+docidentifier:
+- content: XEP 0471
   type: XEP
   primary: true
-- id: XEP-0471
-  type: XEP
-  scope: anchor
 docnumber: XEP-0471
 date:
 - type: published
-  value: '2025-10-13'
+  at: '2025-10-13'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: J
-        formatted_initials:
-          content: J.
-          language:
-          - en
-      surname:
-        content: Poisson
-        language:
-        - en
-      completename:
-        content: Jérôme Poisson
-        language:
-        - en
-    contact:
-    - email: goffi@goffi.org
-  role:
+- role:
   - type: author
-revdate: '2025-10-13'
+  person:
+    email:
+    - goffi@goffi.org
+    name:
+      forename:
+      - language: en
+        initial: J
+      formatted_initials:
+        language: en
+        content: J.
+      surname:
+        language: en
+        content: Poisson
+      completename:
+        language: en
+        content: Jérôme Poisson
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0471'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

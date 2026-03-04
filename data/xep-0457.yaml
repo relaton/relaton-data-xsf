@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0457
-title:
-- content: Message Fancying
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0457.html
-  type: src
 type: standard
-docid:
-- id: XEP 0457
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Message Fancying
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0457.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0457.html
+docidentifier:
+- content: XEP 0457
   type: XEP
   primary: true
-- id: XEP-0457
-  type: XEP
-  scope: anchor
 docnumber: XEP-0457
 date:
 - type: published
-  value: '2021-04-01'
+  at: '2021-04-01'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: G
-        formatted_initials:
-          content: G.
-          language:
-          - en
-      surname:
-        content: Lukas
-        language:
-        - en
-      completename:
-        content: Georg Lukas
-        language:
-        - en
-    contact:
-    - email: georg@op-co.de
-  role:
+- role:
   - type: author
-revdate: '2021-04-01'
+  person:
+    email:
+    - georg@op-co.de
+    name:
+      forename:
+      - language: en
+        initial: G
+      formatted_initials:
+        language: en
+        content: G.
+      surname:
+        language: en
+        content: Lukas
+      completename:
+        language: en
+        content: Georg Lukas
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0457'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

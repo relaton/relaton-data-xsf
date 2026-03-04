@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0164
-title:
-- content: vCard Filtering
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0164.html
-  type: src
 type: standard
-docid:
-- id: XEP 0164
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: vCard Filtering
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0164.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0164.html
+docidentifier:
+- content: XEP 0164
   type: XEP
   primary: true
-- id: XEP-0164
-  type: XEP
-  scope: anchor
 docnumber: XEP-0164
 date:
 - type: published
-  value: '2005-11-16'
+  at: '2005-11-16'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: D
-        formatted_initials:
-          content: D.
-          language:
-          - en
-      surname:
-        content: Henninger
-        language:
-        - en
-      completename:
-        content: Daniel Henninger
-        language:
-        - en
-    contact:
-    - email: jadestorm@nc.rr.com
-  role:
+- role:
   - type: author
-revdate: '2005-11-16'
+  person:
+    email:
+    - jadestorm@nc.rr.com
+    name:
+      forename:
+      - language: en
+        initial: D
+      formatted_initials:
+        language: en
+        content: D.
+      surname:
+        language: en
+        content: Henninger
+      completename:
+        language: en
+        content: Daniel Henninger
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0164'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

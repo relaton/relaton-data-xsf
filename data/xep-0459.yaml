@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0459
-title:
-- content: XMPP Compliance Suites 2022
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0459.html
-  type: src
 type: standard
-docid:
-- id: XEP 0459
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: XMPP Compliance Suites 2022
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0459.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0459.html
+docidentifier:
+- content: XEP 0459
   type: XEP
   primary: true
-- id: XEP-0459
-  type: XEP
-  scope: anchor
 docnumber: XEP-0459
 date:
 - type: published
-  value: '2021-12-01'
+  at: '2021-12-01'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: S
-        formatted_initials:
-          content: S.
-          language:
-          - en
-      surname:
-        content: Piers
-        language:
-        - en
-      completename:
-        content: Sonny Piers
-        language:
-        - en
-    contact:
-    - email: sonny@fastmail.net
-  role:
+- role:
   - type: author
-revdate: '2021-12-01'
+  person:
+    email:
+    - sonny@fastmail.net
+    name:
+      forename:
+      - language: en
+        initial: S
+      formatted_initials:
+        language: en
+        content: S.
+      surname:
+        language: en
+        content: Piers
+      completename:
+        language: en
+        content: Sonny Piers
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0459'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

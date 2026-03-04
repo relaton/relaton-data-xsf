@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0102
-title:
-- content: Security Extensions
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0102.html
-  type: src
 type: standard
-docid:
-- id: XEP 0102
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Security Extensions
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0102.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0102.html
+docidentifier:
+- content: XEP 0102
   type: XEP
   primary: true
-- id: XEP-0102
-  type: XEP
-  scope: anchor
 docnumber: XEP-0102
 date:
 - type: published
-  value: '2003-06-25'
+  at: '2003-06-25'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: J
-        formatted_initials:
-          content: J.
-          language:
-          - en
-      surname:
-        content: Seguineau
-        language:
-        - en
-      completename:
-        content: Jean-Louis Seguineau
-        language:
-        - en
-    contact:
-    - email: jean-louis.seguineau@antepo.com
-  role:
+- role:
   - type: author
-revdate: '2003-06-25'
+  person:
+    email:
+    - jean-louis.seguineau@antepo.com
+    name:
+      forename:
+      - language: en
+        initial: J
+      formatted_initials:
+        language: en
+        content: J.
+      surname:
+        language: en
+        content: Seguineau
+      completename:
+        language: en
+        content: Jean-Louis Seguineau
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0102'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

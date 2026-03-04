@@ -1,102 +1,79 @@
 ---
-schema-version: v1.2.9
 id: XEP0374
-title:
-- content: OpenPGP for XMPP Instant Messaging
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0374.html
-  type: src
 type: standard
-docid:
-- id: XEP 0374
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OpenPGP for XMPP Instant Messaging
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0374.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0374.html
+docidentifier:
+- content: XEP 0374
   type: XEP
   primary: true
-- id: XEP-0374
-  type: XEP
-  scope: anchor
 docnumber: XEP-0374
 date:
 - type: published
-  value: '2018-01-25'
+  at: '2018-01-25'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - flo@geekplace.eu
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: F
-        formatted_initials:
-          content: F.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: F
+      formatted_initials:
+        language: en
+        content: F.
       surname:
+        language: en
         content: Schmaus
-        language:
-        - en
       completename:
+        language: en
         content: Florian Schmaus
-        language:
-        - en
-    contact:
-    - email: flo@geekplace.eu
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - dominik@dominikschuermann.de
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: D
-        formatted_initials:
-          content: D.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: D
+      formatted_initials:
+        language: en
+        content: D.
       surname:
+        language: en
         content: Schürmann
-        language:
-        - en
       completename:
+        language: en
         content: Dominik Schürmann
-        language:
-        - en
-    contact:
-    - email: dominik@dominikschuermann.de
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - look@my.amazin.horse
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: V
-        formatted_initials:
-          content: V.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: V
+      formatted_initials:
+        language: en
+        content: V.
       surname:
+        language: en
         content: Breitmoser
-        language:
-        - en
       completename:
+        language: en
         content: Vincent Breitmoser
-        language:
-        - en
-    contact:
-    - email: look@my.amazin.horse
-  role:
-  - type: author
-revdate: '2018-01-25'
 language:
 - en
 script:
@@ -104,13 +81,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0374'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

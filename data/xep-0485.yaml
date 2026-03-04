@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0485
-title:
-- content: PubSub Server Information
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0485.html
-  type: src
 type: standard
-docid:
-- id: XEP 0485
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: PubSub Server Information
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0485.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0485.html
+docidentifier:
+- content: XEP 0485
   type: XEP
   primary: true
-- id: XEP-0485
-  type: XEP
-  scope: anchor
 docnumber: XEP-0485
 date:
 - type: published
-  value: '2025-11-13'
+  at: '2025-11-13'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: G
-        formatted_initials:
-          content: G.
-          language:
-          - en
-      surname:
-        content: der Kinderen
-        language:
-        - en
-      completename:
-        content: Guus der Kinderen
-        language:
-        - en
-    contact:
-    - email: guus.der.kinderen@gmail.com
-  role:
+- role:
   - type: author
-revdate: '2025-11-13'
+  person:
+    email:
+    - guus.der.kinderen@gmail.com
+    name:
+      forename:
+      - language: en
+        initial: G
+      formatted_initials:
+        language: en
+        content: G.
+      surname:
+        language: en
+        content: der Kinderen
+      completename:
+        language: en
+        content: Guus der Kinderen
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0485'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

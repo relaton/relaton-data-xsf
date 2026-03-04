@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0184
-title:
-- content: Message Delivery Receipts
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0184.html
-  type: src
 type: standard
-docid:
-- id: XEP 0184
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Message Delivery Receipts
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0184.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0184.html
+docidentifier:
+- content: XEP 0184
   type: XEP
   primary: true
-- id: XEP-0184
-  type: XEP
-  scope: anchor
 docnumber: XEP-0184
 date:
 - type: published
-  value: '2018-08-02'
+  at: '2018-08-02'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - stpeter@stpeter.im
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Saint-Andre
-        language:
-        - en
       completename:
+        language: en
         content: Peter Saint-Andre
-        language:
-        - en
-    contact:
-    - email: stpeter@stpeter.im
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - jhildebr@cisco.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: J
-        formatted_initials:
-          content: J.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: J
+      formatted_initials:
+        language: en
+        content: J.
       surname:
+        language: en
         content: Hildebrand
-        language:
-        - en
       completename:
+        language: en
         content: Joe Hildebrand
-        language:
-        - en
-    contact:
-    - email: jhildebr@cisco.com
-  role:
-  - type: author
-revdate: '2018-08-02'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0184'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0311
-title:
-- content: MUC Fast Reconnect
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0311.html
-  type: src
 type: standard
-docid:
-- id: XEP 0311
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: MUC Fast Reconnect
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0311.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0311.html
+docidentifier:
+- content: XEP 0311
   type: XEP
   primary: true
-- id: XEP-0311
-  type: XEP
-  scope: anchor
 docnumber: XEP-0311
 date:
 - type: published
-  value: '2012-01-25'
+  at: '2012-01-25'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: K
-        formatted_initials:
-          content: K.
-          language:
-          - en
-      surname:
-        content: Smith
-        language:
-        - en
-      completename:
-        content: Kevin Smith
-        language:
-        - en
-    contact:
-    - email: kevin.smith@isode.com
-  role:
+- role:
   - type: author
-revdate: '2012-01-25'
+  person:
+    email:
+    - kevin.smith@isode.com
+    name:
+      forename:
+      - language: en
+        initial: K
+      formatted_initials:
+        language: en
+        content: K.
+      surname:
+        language: en
+        content: Smith
+      completename:
+        language: en
+        content: Kevin Smith
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0311'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

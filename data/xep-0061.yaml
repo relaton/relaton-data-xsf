@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0061
-title:
-- content: Shared Notes
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0061.html
-  type: src
 type: standard
-docid:
-- id: XEP 0061
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Shared Notes
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0061.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0061.html
+docidentifier:
+- content: XEP 0061
   type: XEP
   primary: true
-- id: XEP-0061
-  type: XEP
-  scope: anchor
 docnumber: XEP-0061
 date:
 - type: published
-  value: '2003-09-30'
+  at: '2003-09-30'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: J
-        formatted_initials:
-          content: J.
-          language:
-          - en
-      surname:
-        content: Miller
-        language:
-        - en
-      completename:
-        content: Jeremie Miller
-        language:
-        - en
-    contact:
-    - email: jer@jabber.org
-  role:
+- role:
   - type: author
-revdate: '2003-09-30'
+  person:
+    email:
+    - jer@jabber.org
+    name:
+      forename:
+      - language: en
+        initial: J
+      formatted_initials:
+        language: en
+        content: J.
+      surname:
+        language: en
+        content: Miller
+      completename:
+        language: en
+        content: Jeremie Miller
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0061'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

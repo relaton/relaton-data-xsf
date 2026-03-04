@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0257
-title:
-- content: Client Certificate Management for SASL EXTERNAL
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0257.html
-  type: src
 type: standard
-docid:
-- id: XEP 0257
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Client Certificate Management for SASL EXTERNAL
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0257.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0257.html
+docidentifier:
+- content: XEP 0257
   type: XEP
   primary: true
-- id: XEP-0257
-  type: XEP
-  scope: anchor
 docnumber: XEP-0257
 date:
 - type: published
-  value: '2012-07-18'
+  at: '2012-07-18'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - dmeyer@tzi.de
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: D
-        formatted_initials:
-          content: D.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: D
+      formatted_initials:
+        language: en
+        content: D.
       surname:
+        language: en
         content: Meyer
-        language:
-        - en
       completename:
+        language: en
         content: Dirk Meyer
-        language:
-        - en
-    contact:
-    - email: dmeyer@tzi.de
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - thijsalkemade@gmail.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: T
-        formatted_initials:
-          content: T.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: T
+      formatted_initials:
+        language: en
+        content: T.
       surname:
+        language: en
         content: Alkemade
-        language:
-        - en
       completename:
+        language: en
         content: Thijs Alkemade
-        language:
-        - en
-    contact:
-    - email: thijsalkemade@gmail.com
-  role:
-  - type: author
-revdate: '2012-07-18'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0257'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

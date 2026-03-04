@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0017
-title:
-- content: Naive Packet Framing Protocol
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0017.html
-  type: src
 type: standard
-docid:
-- id: XEP 0017
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Naive Packet Framing Protocol
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0017.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0017.html
+docidentifier:
+- content: XEP 0017
   type: XEP
   primary: true
-- id: XEP-0017
-  type: XEP
-  scope: anchor
 docnumber: XEP-0017
 date:
 - type: published
-  value: '2002-02-19'
+  at: '2002-02-19'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - mikelin@mit.edu
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: M
-        formatted_initials:
-          content: M.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: M
+      formatted_initials:
+        language: en
+        content: M.
       surname:
+        language: en
         content: Lin
-        language:
-        - en
       completename:
+        language: en
         content: Mike Lin
-        language:
-        - en
-    contact:
-    - email: mikelin@mit.edu
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - julian@jabber.org
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: J
-        formatted_initials:
-          content: J.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: J
+      formatted_initials:
+        language: en
+        content: J.
       surname:
+        language: en
         content: Missig
-        language:
-        - en
       completename:
+        language: en
         content: Julian Missig
-        language:
-        - en
-    contact:
-    - email: julian@jabber.org
-  role:
-  - type: author
-revdate: '2002-02-19'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0017'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

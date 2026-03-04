@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0058
-title:
-- content: Multi-User Text Editing
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0058.html
-  type: src
 type: standard
-docid:
-- id: XEP 0058
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Multi-User Text Editing
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0058.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0058.html
+docidentifier:
+- content: XEP 0058
   type: XEP
   primary: true
-- id: XEP-0058
-  type: XEP
-  scope: anchor
 docnumber: XEP-0058
 date:
 - type: published
-  value: '2002-11-12'
+  at: '2002-11-12'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: A
-        formatted_initials:
-          content: A.
-          language:
-          - en
-      surname:
-        content: Shchepin
-        language:
-        - en
-      completename:
-        content: Alexey Shchepin
-        language:
-        - en
-    contact:
-    - email: alexey@sevcom.net
-  role:
+- role:
   - type: author
-revdate: '2002-11-12'
+  person:
+    email:
+    - alexey@sevcom.net
+    name:
+      forename:
+      - language: en
+        initial: A
+      formatted_initials:
+        language: en
+        content: A.
+      surname:
+        language: en
+        content: Shchepin
+      completename:
+        language: en
+        content: Alexey Shchepin
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0058'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

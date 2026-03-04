@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0224
-title:
-- content: Attention
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0224.html
-  type: src
 type: standard
-docid:
-- id: XEP 0224
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Attention
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0224.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0224.html
+docidentifier:
+- content: XEP 0224
   type: XEP
   primary: true
-- id: XEP-0224
-  type: XEP
-  scope: anchor
 docnumber: XEP-0224
 date:
 - type: published
-  value: '2008-11-13'
+  at: '2008-11-13'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: A
-        formatted_initials:
-          content: A.
-          language:
-          - en
-      surname:
-        content: Monitzer
-        language:
-        - en
-      completename:
-        content: Andreas Monitzer
-        language:
-        - en
-    contact:
-    - email: andy@monitzer.com
-  role:
+- role:
   - type: author
-revdate: '2008-11-13'
+  person:
+    email:
+    - andy@monitzer.com
+    name:
+      forename:
+      - language: en
+        initial: A
+      formatted_initials:
+        language: en
+        content: A.
+      surname:
+        language: en
+        content: Monitzer
+      completename:
+        language: en
+        content: Andreas Monitzer
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0224'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

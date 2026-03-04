@@ -1,174 +1,133 @@
 ---
-schema-version: v1.2.9
 id: XEP0384
-title:
-- content: OMEMO Encryption
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0384.html
-  type: src
 type: standard
-docid:
-- id: XEP 0384
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: OMEMO Encryption
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0384.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0384.html
+docidentifier:
+- content: XEP 0384
   type: XEP
   primary: true
-- id: XEP-0384
-  type: XEP
-  scope: anchor
 docnumber: XEP-0384
 date:
 - type: published
-  value: '2025-04-07'
+  at: '2025-04-07'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - andy@strb.org
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: A
-        formatted_initials:
-          content: A.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: A
+      formatted_initials:
+        language: en
+        content: A.
       surname:
+        language: en
         content: Straub
-        language:
-        - en
       completename:
+        language: en
         content: Andreas Straub
-        language:
-        - en
-    contact:
-    - email: andy@strb.org
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - daniel@gultsch.de
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: D
-        formatted_initials:
-          content: D.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: D
+      formatted_initials:
+        language: en
+        content: D.
       surname:
+        language: en
         content: Gultsch
-        language:
-        - en
       completename:
+        language: en
         content: Daniel Gultsch
-        language:
-        - en
-    contact:
-    - email: daniel@gultsch.de
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - me@syndace.dev
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: T
-        formatted_initials:
-          content: T.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: T
+      formatted_initials:
+        language: en
+        content: T.
       surname:
+        language: en
         content: Henkes
-        language:
-        - en
       completename:
+        language: en
         content: Tim Henkes
-        language:
-        - en
-    contact:
-    - email: me@syndace.dev
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - ''
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: K
-        formatted_initials:
-          content: K.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: K
+      formatted_initials:
+        language: en
+        content: K.
       surname:
+        language: en
         content: Herberth
-        language:
-        - en
       completename:
+        language: en
         content: Klaus Herberth
-        language:
-        - en
-    contact:
-    - email: ''
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - vanitasvitae@riseup.net
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Schaub
-        language:
-        - en
       completename:
+        language: en
         content: Paul Schaub
-        language:
-        - en
-    contact:
-    - email: vanitasvitae@riseup.net
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - xmpp@larma.de
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: M
-        formatted_initials:
-          content: M.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: M
+      formatted_initials:
+        language: en
+        content: M.
       surname:
+        language: en
         content: Wißfeld
-        language:
-        - en
       completename:
+        language: en
         content: Marvin Wißfeld
-        language:
-        - en
-    contact:
-    - email: xmpp@larma.de
-  role:
-  - type: author
-revdate: '2025-04-07'
 language:
 - en
 script:
@@ -176,13 +135,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0384'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

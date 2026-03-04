@@ -1,126 +1,97 @@
 ---
-schema-version: v1.2.9
 id: XEP0039
-title:
-- content: Statistics Gathering
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0039.html
-  type: src
 type: standard
-docid:
-- id: XEP 0039
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Statistics Gathering
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0039.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0039.html
+docidentifier:
+- content: XEP 0039
   type: XEP
   primary: true
-- id: XEP-0039
-  type: XEP
-  scope: anchor
 docnumber: XEP-0039
 date:
 - type: published
-  value: '2002-11-05'
+  at: '2002-11-05'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - pcurtis@terrapin.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Curtis
-        language:
-        - en
       completename:
+        language: en
         content: Paul Curtis
-        language:
-        - en
-    contact:
-    - email: pcurtis@terrapin.com
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - ukscone@burninghorse.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: R
-        formatted_initials:
-          content: R.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: R
+      formatted_initials:
+        language: en
+        content: R.
       surname:
+        language: en
         content: Davis
-        language:
-        - en
       completename:
+        language: en
         content: Russell Davis
-        language:
-        - en
-    contact:
-    - email: ukscone@burninghorse.com
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - reatmon@jabber.org
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: R
-        formatted_initials:
-          content: R.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: R
+      formatted_initials:
+        language: en
+        content: R.
       surname:
+        language: en
         content: Eatmon
-        language:
-        - en
       completename:
+        language: en
         content: Ryan Eatmon
-        language:
-        - en
-    contact:
-    - email: reatmon@jabber.org
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - dsutton@legend.co.uk
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: D
-        formatted_initials:
-          content: D.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: D
+      formatted_initials:
+        language: en
+        content: D.
       surname:
+        language: en
         content: Sutton
-        language:
-        - en
       completename:
+        language: en
         content: David Sutton
-        language:
-        - en
-    contact:
-    - email: dsutton@legend.co.uk
-  role:
-  - type: author
-revdate: '2002-11-05'
 language:
 - en
 script:
@@ -128,13 +99,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0039'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

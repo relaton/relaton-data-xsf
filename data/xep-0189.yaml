@@ -1,102 +1,79 @@
 ---
-schema-version: v1.2.9
 id: XEP0189
-title:
-- content: Public Key Publishing
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0189.html
-  type: src
 type: standard
-docid:
-- id: XEP 0189
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Public Key Publishing
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0189.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0189.html
+docidentifier:
+- content: XEP 0189
   type: XEP
   primary: true
-- id: XEP-0189
-  type: XEP
-  scope: anchor
 docnumber: XEP-0189
 date:
 - type: published
-  value: '2010-07-15'
+  at: '2010-07-15'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - stpeter@stpeter.im
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Saint-Andre
-        language:
-        - en
       completename:
+        language: en
         content: Peter Saint-Andre
-        language:
-        - en
-    contact:
-    - email: stpeter@stpeter.im
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - dmeyer@tzi.de
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: D
-        formatted_initials:
-          content: D.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: D
+      formatted_initials:
+        language: en
+        content: D.
       surname:
+        language: en
         content: Meyer
-        language:
-        - en
       completename:
+        language: en
         content: Dirk Meyer
-        language:
-        - en
-    contact:
-    - email: dmeyer@tzi.de
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - ian.paterson@clientside.co.uk
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: I
-        formatted_initials:
-          content: I.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: I
+      formatted_initials:
+        language: en
+        content: I.
       surname:
+        language: en
         content: Paterson
-        language:
-        - en
       completename:
+        language: en
         content: Ian Paterson
-        language:
-        - en
-    contact:
-    - email: ian.paterson@clientside.co.uk
-  role:
-  - type: author
-revdate: '2010-07-15'
 language:
 - en
 script:
@@ -104,13 +81,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0189'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

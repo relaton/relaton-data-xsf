@@ -1,102 +1,79 @@
 ---
-schema-version: v1.2.9
 id: XEP0340
-title:
-- content: COnferences with LIghtweight BRIdging (COLIBRI)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0340.html
-  type: src
 type: standard
-docid:
-- id: XEP 0340
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: COnferences with LIghtweight BRIdging (COLIBRI)
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0340.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0340.html
+docidentifier:
+- content: XEP 0340
   type: XEP
   primary: true
-- id: XEP-0340
-  type: XEP
-  scope: anchor
 docnumber: XEP-0340
 date:
 - type: published
-  value: '2017-09-11'
+  at: '2017-09-11'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - emcho@jitsi.org
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: E
-        formatted_initials:
-          content: E.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: E
+      formatted_initials:
+        language: en
+        content: E.
       surname:
+        language: en
         content: Ivov
-        language:
-        - en
       completename:
+        language: en
         content: Emil Ivov
-        language:
-        - en
-    contact:
-    - email: emcho@jitsi.org
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - lubo@jitsi.org
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: L
-        formatted_initials:
-          content: L.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: L
+      formatted_initials:
+        language: en
+        content: L.
       surname:
+        language: en
         content: Marinov
-        language:
-        - en
       completename:
+        language: en
         content: Lyubomir Marinov
-        language:
-        - en
-    contact:
-    - email: lubo@jitsi.org
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - fippo@andyet.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Hancke
-        language:
-        - en
       completename:
+        language: en
         content: Philipp Hancke
-        language:
-        - en
-    contact:
-    - email: fippo@andyet.com
-  role:
-  - type: author
-revdate: '2017-09-11'
 language:
 - en
 script:
@@ -104,13 +81,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0340'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

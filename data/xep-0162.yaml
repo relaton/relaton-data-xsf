@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0162
-title:
-- content: Best Practices for Roster and Subscription Management
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0162.html
-  type: src
 type: standard
-docid:
-- id: XEP 0162
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Best Practices for Roster and Subscription Management
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0162.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0162.html
+docidentifier:
+- content: XEP 0162
   type: XEP
   primary: true
-- id: XEP-0162
-  type: XEP
-  scope: anchor
 docnumber: XEP-0162
 date:
 - type: published
-  value: '2020-06-25'
+  at: '2020-06-25'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: L
-        formatted_initials:
-          content: L.
-          language:
-          - en
-      surname:
-        content: Nussbaum
-        language:
-        - en
-      completename:
-        content: Lucas Nussbaum
-        language:
-        - en
-    contact:
-    - email: lucas@lucas-nussbaum.net
-  role:
+- role:
   - type: author
-revdate: '2020-06-25'
+  person:
+    email:
+    - lucas@lucas-nussbaum.net
+    name:
+      forename:
+      - language: en
+        initial: L
+      formatted_initials:
+        language: en
+        content: L.
+      surname:
+        language: en
+        content: Nussbaum
+      completename:
+        language: en
+        content: Lucas Nussbaum
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0162'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

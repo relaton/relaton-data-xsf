@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEPxxxx
-title:
-- content: XEP Template
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-xxxx.html
-  type: src
 type: standard
-docid:
-- id: XEP xxxx
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: XEP Template
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-xxxx.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-xxxx.html
+docidentifier:
+- content: XEP xxxx
   type: XEP
   primary: true
-- id: XEP-xxxx
-  type: XEP
-  scope: anchor
 docnumber: XEP-xxxx
 date:
 - type: published
-  value: '2001-09-14'
+  at: '2001-09-14'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
-      surname:
-        content: Saint-Andre
-        language:
-        - en
-      completename:
-        content: Peter Saint-Andre
-        language:
-        - en
-    contact:
-    - email: stpeter@jabber.org
-  role:
+- role:
   - type: author
-revdate: '2001-09-14'
+  person:
+    email:
+    - stpeter@jabber.org
+    name:
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
+      surname:
+        language: en
+        content: Saint-Andre
+      completename:
+        language: en
+        content: Peter Saint-Andre
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: xxxx
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

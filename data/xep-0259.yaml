@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0259
-title:
-- content: Message Mine-ing
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0259.html
-  type: src
 type: standard
-docid:
-- id: XEP 0259
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Message Mine-ing
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0259.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0259.html
+docidentifier:
+- content: XEP 0259
   type: XEP
   primary: true
-- id: XEP-0259
-  type: XEP
-  scope: anchor
 docnumber: XEP-0259
 date:
 - type: published
-  value: '2009-01-21'
+  at: '2009-01-21'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: J
-        formatted_initials:
-          content: J.
-          language:
-          - en
-      surname:
-        content: Hildebrand
-        language:
-        - en
-      completename:
-        content: Joe Hildebrand
-        language:
-        - en
-    contact:
-    - email: jhildebr@cisco.com
-  role:
+- role:
   - type: author
-revdate: '2009-01-21'
+  person:
+    email:
+    - jhildebr@cisco.com
+    name:
+      forename:
+      - language: en
+        initial: J
+      formatted_initials:
+        language: en
+        content: J.
+      surname:
+        language: en
+        content: Hildebrand
+      completename:
+        language: en
+        content: Joe Hildebrand
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0259'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

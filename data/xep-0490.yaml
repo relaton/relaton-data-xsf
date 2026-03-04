@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0490
-title:
-- content: Message Displayed Synchronization
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0490.html
-  type: src
 type: standard
-docid:
-- id: XEP 0490
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Message Displayed Synchronization
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0490.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0490.html
+docidentifier:
+- content: XEP 0490
   type: XEP
   primary: true
-- id: XEP-0490
-  type: XEP
-  scope: anchor
 docnumber: XEP-0490
 date:
 - type: published
-  value: '2024-11-20'
+  at: '2024-11-20'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: D
-        formatted_initials:
-          content: D.
-          language:
-          - en
-      surname:
-        content: Gultsch
-        language:
-        - en
-      completename:
-        content: Daniel Gultsch
-        language:
-        - en
-    contact:
-    - email: daniel@gultsch.de
-  role:
+- role:
   - type: author
-revdate: '2024-11-20'
+  person:
+    email:
+    - daniel@gultsch.de
+    name:
+      forename:
+      - language: en
+        initial: D
+      formatted_initials:
+        language: en
+        content: D.
+      surname:
+        language: en
+        content: Gultsch
+      completename:
+        language: en
+        content: Daniel Gultsch
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0490'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

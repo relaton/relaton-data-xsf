@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0075
-title:
-- content: Jabber Object Access Protocol (JOAP)
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0075.html
-  type: src
 type: standard
-docid:
-- id: XEP 0075
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Jabber Object Access Protocol (JOAP)
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0075.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0075.html
+docidentifier:
+- content: XEP 0075
   type: XEP
   primary: true
-- id: XEP-0075
-  type: XEP
-  scope: anchor
 docnumber: XEP-0075
 date:
 - type: published
-  value: '2003-05-22'
+  at: '2003-05-22'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: E
-        formatted_initials:
-          content: E.
-          language:
-          - en
-      surname:
-        content: Prodromou
-        language:
-        - en
-      completename:
-        content: Evan Prodromou
-        language:
-        - en
-    contact:
-    - email: evan@prodromou.san-francisco.ca.us
-  role:
+- role:
   - type: author
-revdate: '2003-05-22'
+  person:
+    email:
+    - evan@prodromou.san-francisco.ca.us
+    name:
+      forename:
+      - language: en
+        initial: E
+      formatted_initials:
+        language: en
+        content: E.
+      surname:
+        language: en
+        content: Prodromou
+      completename:
+        language: en
+        content: Evan Prodromou
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0075'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

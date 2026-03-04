@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0018
-title:
-- content: Invisible Presence
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0018.html
-  type: src
 type: standard
-docid:
-- id: XEP 0018
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Invisible Presence
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0018.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0018.html
+docidentifier:
+- content: XEP 0018
   type: XEP
   primary: true
-- id: XEP-0018
-  type: XEP
-  scope: anchor
 docnumber: XEP-0018
 date:
 - type: published
-  value: '2003-09-26'
+  at: '2003-09-26'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - ben@blahr.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: B
-        formatted_initials:
-          content: B.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: B
+      formatted_initials:
+        language: en
+        content: B.
       surname:
+        language: en
         content: Schumacher
-        language:
-        - en
       completename:
+        language: en
         content: Ben Schumacher
-        language:
-        - en
-    contact:
-    - email: ben@blahr.com
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - jer@jabber.org
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: J
-        formatted_initials:
-          content: J.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: J
+      formatted_initials:
+        language: en
+        content: J.
       surname:
+        language: en
         content: Miller
-        language:
-        - en
       completename:
+        language: en
         content: Jeremie Miller
-        language:
-        - en
-    contact:
-    - email: jer@jabber.org
-  role:
-  - type: author
-revdate: '2003-09-26'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0018'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

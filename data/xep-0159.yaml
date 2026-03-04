@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0159
-title:
-- content: Spim-Blocking Control
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0159.html
-  type: src
 type: standard
-docid:
-- id: XEP 0159
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Spim-Blocking Control
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0159.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0159.html
+docidentifier:
+- content: XEP 0159
   type: XEP
   primary: true
-- id: XEP-0159
-  type: XEP
-  scope: anchor
 docnumber: XEP-0159
 date:
 - type: published
-  value: '2006-07-11'
+  at: '2006-07-11'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - ian.paterson@clientside.co.uk
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: I
-        formatted_initials:
-          content: I.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: I
+      formatted_initials:
+        language: en
+        content: I.
       surname:
+        language: en
         content: Paterson
-        language:
-        - en
       completename:
+        language: en
         content: Ian Paterson
-        language:
-        - en
-    contact:
-    - email: ian.paterson@clientside.co.uk
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - stpeter@stpeter.im
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Saint-Andre
-        language:
-        - en
       completename:
+        language: en
         content: Peter Saint-Andre
-        language:
-        - en
-    contact:
-    - email: stpeter@stpeter.im
-  role:
-  - type: author
-revdate: '2006-07-11'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0159'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

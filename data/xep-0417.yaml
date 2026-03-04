@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0417
-title:
-- content: 'E2E Authentication in XMPP: Certificate Issuance and Revocation'
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0417.html
-  type: src
 type: standard
-docid:
-- id: XEP 0417
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: 'E2E Authentication in XMPP: Certificate Issuance and Revocation'
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0417.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0417.html
+docidentifier:
+- content: XEP 0417
   type: XEP
   primary: true
-- id: XEP-0417
-  type: XEP
-  scope: anchor
 docnumber: XEP-0417
 date:
 - type: published
-  value: '2019-03-29'
+  at: '2019-03-29'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: E
-        formatted_initials:
-          content: E.
-          language:
-          - en
-      surname:
-        content: Khramtsov
-        language:
-        - en
-      completename:
-        content: Evgeny Khramtsov
-        language:
-        - en
-    contact:
-    - email: ekhramtsov@process-one.net
-  role:
+- role:
   - type: author
-revdate: '2019-03-29'
+  person:
+    email:
+    - ekhramtsov@process-one.net
+    name:
+      forename:
+      - language: en
+        initial: E
+      formatted_initials:
+        language: en
+        content: E.
+      surname:
+        language: en
+        content: Khramtsov
+      completename:
+        language: en
+        content: Evgeny Khramtsov
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0417'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

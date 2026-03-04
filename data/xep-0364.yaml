@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0364
-title:
-- content: Current Off-the-Record Messaging Usage
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0364.html
-  type: src
 type: standard
-docid:
-- id: XEP 0364
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Current Off-the-Record Messaging Usage
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0364.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0364.html
+docidentifier:
+- content: XEP 0364
   type: XEP
   primary: true
-- id: XEP-0364
-  type: XEP
-  scope: anchor
 docnumber: XEP-0364
 date:
 - type: published
-  value: '2019-08-20'
+  at: '2019-08-20'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: S
-        formatted_initials:
-          content: S.
-          language:
-          - en
-      surname:
-        content: Whited
-        language:
-        - en
-      completename:
-        content: Sam Whited
-        language:
-        - en
-    contact:
-    - email: sam@samwhited.com
-  role:
+- role:
   - type: author
-revdate: '2019-08-20'
+  person:
+    email:
+    - sam@samwhited.com
+    name:
+      forename:
+      - language: en
+        initial: S
+      formatted_initials:
+        language: en
+        content: S.
+      surname:
+        language: en
+        content: Whited
+      completename:
+        language: en
+        content: Sam Whited
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0364'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

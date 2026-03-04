@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0419
-title:
-- content: Improving Baseline Security in XMPP
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0419.html
-  type: src
 type: standard
-docid:
-- id: XEP 0419
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Improving Baseline Security in XMPP
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0419.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0419.html
+docidentifier:
+- content: XEP 0419
   type: XEP
   primary: true
-- id: XEP-0419
-  type: XEP
-  scope: anchor
 docnumber: XEP-0419
 date:
 - type: published
-  value: '2019-04-01'
+  at: '2019-04-01'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - chris.davidland@crap-security.example
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: C
-        formatted_initials:
-          content: C.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: C
+      formatted_initials:
+        language: en
+        content: C.
       surname:
+        language: en
         content: Davidland
-        language:
-        - en
       completename:
+        language: en
         content: Chris Davidland
-        language:
-        - en
-    contact:
-    - email: chris.davidland@crap-security.example
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - lucas.george@shiteam.example
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: L
-        formatted_initials:
-          content: L.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: L
+      formatted_initials:
+        language: en
+        content: L.
       surname:
+        language: en
         content: George
-        language:
-        - en
       completename:
+        language: en
         content: Lucas George
-        language:
-        - en
-    contact:
-    - email: lucas.george@shiteam.example
-  role:
-  - type: author
-revdate: '2019-04-01'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0419'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

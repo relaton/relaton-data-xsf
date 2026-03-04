@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0028
-title:
-- content: No Such XEP
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0028.html
-  type: src
 type: standard
-docid:
-- id: XEP 0028
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: No Such XEP
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0028.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0028.html
+docidentifier:
+- content: XEP 0028
   type: XEP
   primary: true
-- id: XEP-0028
-  type: XEP
-  scope: anchor
 docnumber: XEP-0028
 date:
 - type: published
-  value: '2001-08-20'
+  at: '2001-08-20'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: D
-        formatted_initials:
-          content: D.
-          language:
-          - en
-      surname:
-        content: Smith
-        language:
-        - en
-      completename:
-        content: Dave Smith
-        language:
-        - en
-    contact:
-    - email: dizzyd@jabber.org
-  role:
+- role:
   - type: author
-revdate: '2001-08-20'
+  person:
+    email:
+    - dizzyd@jabber.org
+    name:
+      forename:
+      - language: en
+        initial: D
+      formatted_initials:
+        language: en
+        content: D.
+      surname:
+        language: en
+        content: Smith
+      completename:
+        language: en
+        content: Dave Smith
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0028'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

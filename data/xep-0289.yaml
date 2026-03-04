@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0289
-title:
-- content: Federated MUC for Constrained Environments
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0289.html
-  type: src
 type: standard
-docid:
-- id: XEP 0289
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Federated MUC for Constrained Environments
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0289.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0289.html
+docidentifier:
+- content: XEP 0289
   type: XEP
   primary: true
-- id: XEP-0289
-  type: XEP
-  scope: anchor
 docnumber: XEP-0289
 date:
 - type: published
-  value: '2021-03-04'
+  at: '2021-03-04'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: K
-        formatted_initials:
-          content: K.
-          language:
-          - en
-      surname:
-        content: Smith
-        language:
-        - en
-      completename:
-        content: Kevin Smith
-        language:
-        - en
-    contact:
-    - email: kevin.smith@isode.com
-  role:
+- role:
   - type: author
-revdate: '2021-03-04'
+  person:
+    email:
+    - kevin.smith@isode.com
+    name:
+      forename:
+      - language: en
+        initial: K
+      formatted_initials:
+        language: en
+        content: K.
+      surname:
+        language: en
+        content: Smith
+      completename:
+        language: en
+        content: Kevin Smith
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0289'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

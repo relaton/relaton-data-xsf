@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0456
-title:
-- content: Content Rating Labels
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0456.html
-  type: src
 type: standard
-docid:
-- id: XEP 0456
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Content Rating Labels
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0456.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0456.html
+docidentifier:
+- content: XEP 0456
   type: XEP
   primary: true
-- id: XEP-0456
-  type: XEP
-  scope: anchor
 docnumber: XEP-0456
 date:
 - type: published
-  value: '2021-03-28'
+  at: '2021-03-28'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: J
-        formatted_initials:
-          content: J.
-          language:
-          - en
-      surname:
-        content: Schäfer
-        language:
-        - en
-      completename:
-        content: Jonas Schäfer
-        language:
-        - en
-    contact:
-    - email: jonas@wielicki.name
-  role:
+- role:
   - type: author
-revdate: '2021-03-28'
+  person:
+    email:
+    - jonas@wielicki.name
+    name:
+      forename:
+      - language: en
+        initial: J
+      formatted_initials:
+        language: en
+        content: J.
+      surname:
+        language: en
+        content: Schäfer
+      completename:
+        language: en
+        content: Jonas Schäfer
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0456'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

@@ -1,78 +1,61 @@
 ---
-schema-version: v1.2.9
 id: XEP0322
-title:
-- content: Efficient XML Interchange (EXI) Format
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0322.html
-  type: src
 type: standard
-docid:
-- id: XEP 0322
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: Efficient XML Interchange (EXI) Format
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0322.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0322.html
+docidentifier:
+- content: XEP 0322
   type: XEP
   primary: true
-- id: XEP-0322
-  type: XEP
-  scope: anchor
 docnumber: XEP-0322
 date:
 - type: published
-  value: '2018-01-25'
+  at: '2018-01-25'
 contributor:
-- person:
+- role:
+  - type: author
+  person:
+    email:
+    - peterwaher@hotmail.com
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
       surname:
+        language: en
         content: Waher
-        language:
-        - en
       completename:
+        language: en
         content: Peter Waher
-        language:
-        - en
-    contact:
-    - email: peterwaher@hotmail.com
-  role:
+- role:
   - type: author
-- person:
+  person:
+    email:
+    - yusuke.doi@toshiba.co.jp
     name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: Y
-        formatted_initials:
-          content: Y.
-          language:
-          - en
+      forename:
+      - language: en
+        initial: "Y"
+      formatted_initials:
+        language: en
+        content: Y.
       surname:
+        language: en
         content: DOI
-        language:
-        - en
       completename:
+        language: en
         content: Yusuke DOI
-        language:
-        - en
-    contact:
-    - email: yusuke.doi@toshiba.co.jp
-  role:
-  - type: author
-revdate: '2018-01-25'
 language:
 - en
 script:
@@ -80,13 +63,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0322'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

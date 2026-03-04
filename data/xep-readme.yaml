@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEPREADME
-title:
-- content: XEP Editor README
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-README.html
-  type: src
 type: standard
-docid:
-- id: XEP README
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: XEP Editor README
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-README.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-README.html
+docidentifier:
+- content: XEP README
   type: XEP
   primary: true
-- id: XEP-README
-  type: XEP
-  scope: anchor
 docnumber: XEP-README
 date:
 - type: published
-  value: '2017-03-09'
+  at: '2017-03-09'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: P
-        formatted_initials:
-          content: P.
-          language:
-          - en
-      surname:
-        content: Saint-Andre
-        language:
-        - en
-      completename:
-        content: Peter Saint-Andre
-        language:
-        - en
-    contact:
-    - email: stpeter@stpeter.im
-  role:
+- role:
   - type: author
-revdate: '2017-03-09'
+  person:
+    email:
+    - stpeter@stpeter.im
+    name:
+      forename:
+      - language: en
+        initial: P
+      formatted_initials:
+        language: en
+        content: P.
+      surname:
+        language: en
+        content: Saint-Andre
+      completename:
+        language: en
+        content: Peter Saint-Andre
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: README
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf

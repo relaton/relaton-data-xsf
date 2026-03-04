@@ -1,54 +1,43 @@
 ---
-schema-version: v1.2.9
 id: XEP0474
-title:
-- content: SASL SCRAM Downgrade Protection
-  language:
-  - en
-  script:
-  - Latn
-  format: text/plain
-link:
-- content: http://xmpp.org/extensions/xep-0474.html
-  type: src
 type: standard
-docid:
-- id: XEP 0474
+schema_version: v1.4.1
+title:
+- language: en
+  script: Latn
+  content: SASL SCRAM Downgrade Protection
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0474.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0474.html
+docidentifier:
+- content: XEP 0474
   type: XEP
   primary: true
-- id: XEP-0474
-  type: XEP
-  scope: anchor
 docnumber: XEP-0474
 date:
 - type: published
-  value: '2025-10-25'
+  at: '2025-10-25'
 contributor:
-- person:
-    name:
-      given:
-        forename:
-        - content:
-          language:
-          - en
-          initial: T
-        formatted_initials:
-          content: T.
-          language:
-          - en
-      surname:
-        content: Molitor
-        language:
-        - en
-      completename:
-        content: Thilo Molitor
-        language:
-        - en
-    contact:
-    - email: thilo+xmpp@eightysoft.de
-  role:
+- role:
   - type: author
-revdate: '2025-10-25'
+  person:
+    email:
+    - thilo+xmpp@eightysoft.de
+    name:
+      forename:
+      - language: en
+        initial: T
+      formatted_initials:
+        language: en
+        content: T.
+      surname:
+        language: en
+        content: Molitor
+      completename:
+        language: en
+        content: Thilo Molitor
 language:
 - en
 script:
@@ -56,13 +45,11 @@ script:
 series:
 - type: main
   title:
+  - language: en
+    script: Latn
     content: XSF XEP
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
   number: '0474'
 ext:
   doctype:
-    type: rfc
+    content: rfc
+  flavor: xsf
