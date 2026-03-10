@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0473
 date:
 - type: published
-  value: '2022-12-13'
+  value: '2026-02-20'
 contributor:
 - person:
     name:
@@ -48,7 +48,7 @@ contributor:
     - email: goffi@goffi.org
   role:
   - type: author
-revdate: '2022-12-13'
+revdate: '2026-02-20'
 language:
 - en
 script:

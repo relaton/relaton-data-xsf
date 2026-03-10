@@ -22,7 +22,7 @@ docid:
 docnumber: XEP-0401
 date:
 - type: published
-  value: '2021-10-06'
+  value: '2026-03-08'
 contributor:
 - person:
     name:
@@ -72,7 +72,7 @@ contributor:
     - email: georg@op-co.de
   role:
   - type: author
-revdate: '2021-10-06'
+revdate: '2026-03-08'
 language:
 - en
 script:
