@@ -1,0 +1,68 @@
+---
+schema-version: v1.2.9
+id: XEP0512
+title:
+- content: XMPP as Interpretive Dance
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: http://xmpp.org/extensions/xep-0512.html
+  type: src
+type: standard
+docid:
+- id: XEP 0512
+  type: XEP
+  primary: true
+- id: XEP-0512
+  type: XEP
+  scope: anchor
+docnumber: XEP-0512
+date:
+- type: published
+  value: '2026-04-01'
+contributor:
+- person:
+    name:
+      given:
+        forename:
+        - content:
+          language:
+          - en
+          initial: G
+        formatted_initials:
+          content: G.
+          language:
+          - en
+      surname:
+        content: der Kinderen
+        language:
+        - en
+      completename:
+        content: Guus der Kinderen
+        language:
+        - en
+    contact:
+    - email: guus.der.kinderen@gmail.com
+  role:
+  - type: author
+revdate: '2026-04-01'
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+    content: XSF XEP
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: '0512'
+ext:
+  doctype:
+    type: rfc
