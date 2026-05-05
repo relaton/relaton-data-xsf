@@ -1,11 +1,11 @@
 ---
 id: XEP0377
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
-  content: Spam Reporting
+  content: Blocking Command Reports
 source:
 - type: src
   content: http://xmpp.org/extensions/xep-0377.html
@@ -18,7 +18,7 @@ docidentifier:
 docnumber: XEP-0377
 date:
 - type: published
-  at: '2025-04-09'
+  at: '2026-02-25'
 contributor:
 - role:
   - type: author
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Sam Whited
+    affiliation:
+    - organization:
+        email:
+        - sam@samwhited.com
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Guus der Kinderen
+    affiliation:
+    - organization:
+        email:
+        - guus.der.kinderen@gmail.com
+        name:
+        - language: en
 language:
 - en
 script:

@@ -1,7 +1,7 @@
 ---
 id: XEP0384
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -18,7 +18,7 @@ docidentifier:
 docnumber: XEP-0384
 date:
 - type: published
-  at: '2025-04-07'
+  at: '2026-04-06'
 contributor:
 - role:
   - type: author
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Andreas Straub
+    affiliation:
+    - organization:
+        email:
+        - andy@strb.org
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Daniel Gultsch
+    affiliation:
+    - organization:
+        email:
+        - daniel@gultsch.de
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -74,6 +86,12 @@ contributor:
       completename:
         language: en
         content: Tim Henkes
+    affiliation:
+    - organization:
+        email:
+        - me@syndace.dev
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -92,6 +110,12 @@ contributor:
       completename:
         language: en
         content: Klaus Herberth
+    affiliation:
+    - organization:
+        email:
+        - ''
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -110,6 +134,12 @@ contributor:
       completename:
         language: en
         content: Paul Schaub
+    affiliation:
+    - organization:
+        email:
+        - vanitasvitae@riseup.net
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -128,6 +158,12 @@ contributor:
       completename:
         language: en
         content: Marvin Wißfeld
+    affiliation:
+    - organization:
+        email:
+        - xmpp@larma.de
+        name:
+        - language: en
 language:
 - en
 script:

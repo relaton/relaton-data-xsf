@@ -1,7 +1,7 @@
 ---
 id: XEP0298
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Emil Ivov
+    affiliation:
+    - organization:
+        email:
+        - emcho@jitsi.org
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Enrico Marocco
+    affiliation:
+    - organization:
+        email:
+        - enrico.marocco@telecomitalia.it
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -74,6 +86,12 @@ contributor:
       completename:
         language: en
         content: Saúl Ibarra Corretgé
+    affiliation:
+    - organization:
+        email:
+        - saul@ag-projects.com
+        name:
+        - language: en
 language:
 - en
 script:

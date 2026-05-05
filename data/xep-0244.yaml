@@ -1,7 +1,7 @@
 ---
 id: XEP0244
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Johannes Wagener
+    affiliation:
+    - organization:
+        email:
+        - johannes.wagener@med.uni-muenchen.de
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Egon Willighagen
+    affiliation:
+    - organization:
+        email:
+        - egonw@users.sf.net
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -74,6 +86,12 @@ contributor:
       completename:
         language: en
         content: Andreas Heusler
+    affiliation:
+    - organization:
+        email:
+        - aheusler@in.tum.de
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -92,6 +110,12 @@ contributor:
       completename:
         language: en
         content: Tobias Markmann
+    affiliation:
+    - organization:
+        email:
+        - tobias.markmann@isode.com
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -110,6 +134,12 @@ contributor:
       completename:
         language: en
         content: Ola Spjuth
+    affiliation:
+    - organization:
+        email:
+        - ola.spjuth@farmbio.uu.se
+        name:
+        - language: en
 language:
 - en
 script:

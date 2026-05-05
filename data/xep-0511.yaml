@@ -1,7 +1,7 @@
 ---
 id: XEP0511
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -18,7 +18,7 @@ docidentifier:
 docnumber: XEP-0511
 date:
 - type: published
-  at: '2026-02-24'
+  at: '2026-02-27'
 contributor:
 - role:
   - type: author
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Stephen Paul Weber
+    affiliation:
+    - organization:
+        email:
+        - singpolyma@singpolyma.net
+        name:
+        - language: en
 language:
 - en
 script:

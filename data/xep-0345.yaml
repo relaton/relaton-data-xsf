@@ -1,7 +1,7 @@
 ---
 id: XEP0345
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -18,7 +18,7 @@ docidentifier:
 docnumber: XEP-0345
 date:
 - type: published
-  at: '2020-02-18'
+  at: '2026-04-20'
 contributor:
 - role:
   - type: author
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Dave Cridland
+    affiliation:
+    - organization:
+        email:
+        - dave@hellopando.com
+        name:
+        - language: en
 language:
 - en
 script:

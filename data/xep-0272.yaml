@@ -1,7 +1,7 @@
 ---
 id: XEP0272
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Sjoerd Simons
+    affiliation:
+    - organization:
+        email:
+        - sjoerd.simons@collabora.co.uk
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Dafydd Harries
+    affiliation:
+    - organization:
+        email:
+        - dafydd.harries@collabora.co.uk
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -74,6 +86,12 @@ contributor:
       completename:
         language: en
         content: Marvin Wißfeld
+    affiliation:
+    - organization:
+        email:
+        - xmpp@larma.de
+        name:
+        - language: en
 language:
 - en
 script:

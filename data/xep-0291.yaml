@@ -1,7 +1,7 @@
 ---
 id: XEP0291
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Justin Karneges
+    affiliation:
+    - organization:
+        email:
+        - justin@karneges.com
+        name:
+        - language: en
 language:
 - en
 script:

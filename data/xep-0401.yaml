@@ -1,7 +1,7 @@
 ---
 id: XEP0401
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -18,7 +18,7 @@ docidentifier:
 docnumber: XEP-0401
 date:
 - type: published
-  at: '2021-10-06'
+  at: '2026-03-08'
 contributor:
 - role:
   - type: author
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Marc Schink
+    affiliation:
+    - organization:
+        email:
+        - ''
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Georg Lukas
+    affiliation:
+    - organization:
+        email:
+        - georg@op-co.de
+        name:
+        - language: en
 language:
 - en
 script:

@@ -1,7 +1,7 @@
 ---
 id: XEP0059
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Ian Paterson
+    affiliation:
+    - organization:
+        email:
+        - ian.paterson@clientside.co.uk
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Peter Saint-Andre
+    affiliation:
+    - organization:
+        email:
+        - stpeter@stpeter.im
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -74,6 +86,12 @@ contributor:
       completename:
         language: en
         content: Valerie Mercier
+    affiliation:
+    - organization:
+        email:
+        - valerie.mercier@orange-ftgroup.com
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -92,6 +110,12 @@ contributor:
       completename:
         language: en
         content: Jean-Louis Seguineau
+    affiliation:
+    - organization:
+        email:
+        - jls@antepo.com
+        name:
+        - language: en
 language:
 - en
 script:

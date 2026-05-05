@@ -1,7 +1,7 @@
 ---
 id: XEP0017
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Mike Lin
+    affiliation:
+    - organization:
+        email:
+        - mikelin@mit.edu
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Julian Missig
+    affiliation:
+    - organization:
+        email:
+        - julian@jabber.org
+        name:
+        - language: en
 language:
 - en
 script:

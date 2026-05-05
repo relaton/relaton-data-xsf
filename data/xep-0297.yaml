@@ -1,7 +1,7 @@
 ---
 id: XEP0297
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Matthew Wild
+    affiliation:
+    - organization:
+        email:
+        - mwild1@gmail.com
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Kevin Smith
+    affiliation:
+    - organization:
+        email:
+        - kevin@kismith.co.uk
+        name:
+        - language: en
 language:
 - en
 script:

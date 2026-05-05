@@ -1,7 +1,7 @@
 ---
 id: XEP0382
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Severino Ferrer de la Peñita
+    affiliation:
+    - organization:
+        email:
+        - soul@blastersklan.com
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Xavier Ferrer de la Peñita
+    affiliation:
+    - organization:
+        email:
+        - vaulor@openmailbox.org
+        name:
+        - language: en
 language:
 - en
 script:

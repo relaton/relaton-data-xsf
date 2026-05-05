@@ -1,7 +1,7 @@
 ---
 id: XEP0220
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Jeremie Miller
+    affiliation:
+    - organization:
+        email:
+        - jer@jabber.org
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Peter Saint-Andre
+    affiliation:
+    - organization:
+        email:
+        - stpeter@stpeter.im
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -74,6 +86,12 @@ contributor:
       completename:
         language: en
         content: Philipp Hancke
+    affiliation:
+    - organization:
+        email:
+        - fippo@andyet.com
+        name:
+        - language: en
 language:
 - en
 script:

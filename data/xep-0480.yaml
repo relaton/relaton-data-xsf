@@ -1,7 +1,7 @@
 ---
 id: XEP0480
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Thilo Molitor
+    affiliation:
+    - organization:
+        email:
+        - thilo+xmpp@eightysoft.de
+        name:
+        - language: en
 language:
 - en
 script:

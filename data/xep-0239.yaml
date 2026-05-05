@@ -1,7 +1,7 @@
 ---
 id: XEP0239
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Pedro Melo
+    affiliation:
+    - organization:
+        email:
+        - '011011010110010101101100011011110100000001110011011010010110110101110000011011000110100101100011011010010110010001100001011001000110010100101110011011110111001001100111'
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Peter Saint-Andre
+    affiliation:
+    - organization:
+        email:
+        - '011100110111010001110000011001010111010001100101011100100100000001101010011000010110001001100010011001010111001000101110011011110111001001100111'
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -74,6 +86,12 @@ contributor:
       completename:
         language: en
         content: Fabio Forno
+    affiliation:
+    - organization:
+        email:
+        - '011001100110000101100010011010010110111100101110011001100110111101110010011011100110111101000000011001110110110101100001011010010110110000101110011000110110111101101101'
+        name:
+        - language: en
 language:
 - en
 script:

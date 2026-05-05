@@ -1,7 +1,7 @@
 ---
 id: XEP0503
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -18,7 +18,7 @@ docidentifier:
 docnumber: XEP-0503
 date:
 - type: published
-  at: '2025-09-13'
+  at: '2026-05-03'
 contributor:
 - role:
   - type: author
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Nicolas Cedilnik
+    affiliation:
+    - organization:
+        email:
+        - nicoco@nicoco.fr
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Timothée Jaussoin
+    affiliation:
+    - organization:
+        email:
+        - edhelas@movim.eu
+        name:
+        - language: en
 language:
 - en
 script:

@@ -1,7 +1,7 @@
 ---
 id: XEP0255
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Helge Timenes
+    affiliation:
+    - organization:
+        email:
+        - helge@buddycloud.com
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Simon Tennant
+    affiliation:
+    - organization:
+        email:
+        - simon@buddycloud.com
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -74,6 +86,12 @@ contributor:
       completename:
         language: en
         content: Ross Savage
+    affiliation:
+    - organization:
+        email:
+        - ross@buddycloud.com
+        name:
+        - language: en
 language:
 - en
 script:

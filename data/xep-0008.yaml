@@ -1,7 +1,7 @@
 ---
 id: XEP0008
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Thomas Muldowney
+    affiliation:
+    - organization:
+        email:
+        - temas@jabber.org
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Julian Missig
+    affiliation:
+    - organization:
+        email:
+        - julian@jabber.org
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -74,6 +86,12 @@ contributor:
       completename:
         language: en
         content: Jens Alfke
+    affiliation:
+    - organization:
+        email:
+        - jens@mac.com
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -92,6 +110,12 @@ contributor:
       completename:
         language: en
         content: Peter Millard
+    affiliation:
+    - organization:
+        email:
+        - ''
+        name:
+        - language: en
 language:
 - en
 script:

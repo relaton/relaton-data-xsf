@@ -1,0 +1,61 @@
+---
+id: XEP0513
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Explicit Mentions
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0513.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0513.html
+docidentifier:
+- content: XEP 0513
+  type: XEP
+  primary: true
+docnumber: XEP-0513
+date:
+- type: published
+  at: '2026-04-01'
+contributor:
+- role:
+  - type: author
+  person:
+    email:
+    - snit@cock.li
+    name:
+      forename:
+      - language: en
+        initial: S
+      formatted_initials:
+        language: en
+        content: S.
+      surname:
+        language: en
+        content: Guckfung
+      completename:
+        language: en
+        content: Snit Guckfung
+    affiliation:
+    - organization:
+        email:
+        - snit@cock.li
+        name:
+        - language: en
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: XSF XEP
+  number: '0513'
+ext:
+  doctype:
+    content: rfc
+  flavor: xsf

@@ -1,7 +1,7 @@
 ---
 id: XEP0130
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Peter Saint-Andre
+    affiliation:
+    - organization:
+        email:
+        - stpeter@stpeter.im
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Yehezkel Dallal
+    affiliation:
+    - organization:
+        email:
+        - yehezkeld@followap.com
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -74,6 +86,12 @@ contributor:
       completename:
         language: en
         content: Alexandre Nolle
+    affiliation:
+    - organization:
+        email:
+        - anolle@francetelecom.com
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -92,6 +110,12 @@ contributor:
       completename:
         language: en
         content: Jean-Louis Seguineau
+    affiliation:
+    - organization:
+        email:
+        - jean-louis.seguineau@antepo.com
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -110,6 +134,12 @@ contributor:
       completename:
         language: en
         content: Mark Troyer
+    affiliation:
+    - organization:
+        email:
+        - mtroyer@jabber.com
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -128,6 +158,12 @@ contributor:
       completename:
         language: en
         content: Valerie Mercier
+    affiliation:
+    - organization:
+        email:
+        - valerie.mercier@orange-ftgroup.com
+        name:
+        - language: en
 language:
 - en
 script:

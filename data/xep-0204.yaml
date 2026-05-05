@@ -1,7 +1,7 @@
 ---
 id: XEP0204
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Dave Bryson
+    affiliation:
+    - organization:
+        email:
+        - dbryson@mitre.org
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Dan Winkowski
+    affiliation:
+    - organization:
+        email:
+        - winkowsk@mitre.org
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -74,6 +86,12 @@ contributor:
       completename:
         language: en
         content: Michael Krutsch
+    affiliation:
+    - organization:
+        email:
+        - michael@mitre.org
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -92,6 +110,12 @@ contributor:
       completename:
         language: en
         content: Chad Smith
+    affiliation:
+    - organization:
+        email:
+        - chadsm@mitre.org
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -110,6 +134,12 @@ contributor:
       completename:
         language: en
         content: Jasen Jacobsen
+    affiliation:
+    - organization:
+        email:
+        - jasenj1@mitre.org
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -128,6 +158,12 @@ contributor:
       completename:
         language: en
         content: Marshall Huss
+    affiliation:
+    - organization:
+        email:
+        - mhuss@mitre.org
+        name:
+        - language: en
 language:
 - en
 script:

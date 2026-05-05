@@ -1,7 +1,7 @@
 ---
 id: XEP0037
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: David Sutton
+    affiliation:
+    - organization:
+        email:
+        - ''
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -49,6 +55,12 @@ contributor:
       completename:
         language: en
         content: '"Bac9" '
+    affiliation:
+    - organization:
+        email:
+        - bac9@bac9.yi.org
+        name:
+        - language: en
 language:
 - en
 script:

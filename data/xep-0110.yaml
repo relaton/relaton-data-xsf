@@ -1,7 +1,7 @@
 ---
 id: XEP0110
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Jiri Komzak
+    affiliation:
+    - organization:
+        email:
+        - j.komzak@open.ac.uk
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Martin Dzbor
+    affiliation:
+    - organization:
+        email:
+        - m.dzbor@open.ac.uk
+        name:
+        - language: en
 language:
 - en
 script:

@@ -1,7 +1,7 @@
 ---
 id: XEP0274
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Kurt Zeilenga
+    affiliation:
+    - organization:
+        email:
+        - Kurt.Zeilenga@Isode.COM
+        name:
+        - language: en
 language:
 - en
 script:

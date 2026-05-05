@@ -1,7 +1,7 @@
 ---
 id: XEP0039
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Paul Curtis
+    affiliation:
+    - organization:
+        email:
+        - pcurtis@terrapin.com
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Russell Davis
+    affiliation:
+    - organization:
+        email:
+        - ukscone@burninghorse.com
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -74,6 +86,12 @@ contributor:
       completename:
         language: en
         content: Ryan Eatmon
+    affiliation:
+    - organization:
+        email:
+        - reatmon@jabber.org
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -92,6 +110,12 @@ contributor:
       completename:
         language: en
         content: David Sutton
+    affiliation:
+    - organization:
+        email:
+        - dsutton@legend.co.uk
+        name:
+        - language: en
 language:
 - en
 script:

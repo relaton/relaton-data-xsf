@@ -1,7 +1,7 @@
 ---
 id: XEP0333
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Spencer MacDonald
+    affiliation:
+    - organization:
+        email:
+        - im@spencermacdonald.com
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Daniel Gultsch
+    affiliation:
+    - organization:
+        email:
+        - daniel@gultsch.de
+        name:
+        - language: en
 language:
 - en
 script:

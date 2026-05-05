@@ -1,7 +1,7 @@
 ---
 id: XEP0051
+schema_version: v1.5.6
 type: standard
-schema_version: v1.4.1
 title:
 - language: en
   script: Latn
@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Klaus Wolf
+    affiliation:
+    - organization:
+        email:
+        - wolf@bluehands.de
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Richard Dobson
+    affiliation:
+    - organization:
+        email:
+        - richard@dobson-i.net
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -74,6 +86,12 @@ contributor:
       completename:
         language: en
         content: Florian Jensen
+    affiliation:
+    - organization:
+        email:
+        - florian@florianjensen.com
+        name:
+        - language: en
 language:
 - en
 script:
