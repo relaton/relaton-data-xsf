@@ -1,0 +1,85 @@
+---
+id: XEP0514
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Emoji Markup
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0514.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0514.html
+docidentifier:
+- content: XEP 0514
+  type: XEP
+  primary: true
+docnumber: XEP-0514
+date:
+- type: published
+  at: '2026-06-02'
+contributor:
+- role:
+  - type: author
+  person:
+    email:
+    - snit@cock.li
+    name:
+      forename:
+      - language: en
+        initial: S
+      formatted_initials:
+        language: en
+        content: S.
+      surname:
+        language: en
+        content: Guckfung
+      completename:
+        language: en
+        content: Snit Guckfung
+    affiliation:
+    - organization:
+        email:
+        - snit@cock.li
+        name:
+        - language: en
+- role:
+  - type: author
+  person:
+    email:
+    - techmetx11@disroot.org
+    name:
+      forename:
+      - language: en
+        initial: S
+      formatted_initials:
+        language: en
+        content: S.
+      surname:
+        language: en
+        content: Einarsson
+      completename:
+        language: en
+        content: Sigrid Einarsson
+    affiliation:
+    - organization:
+        email:
+        - techmetx11@disroot.org
+        name:
+        - language: en
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: XSF XEP
+  number: '0514'
+ext:
+  doctype:
+    content: rfc
+  flavor: xsf
