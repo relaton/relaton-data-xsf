@@ -1,0 +1,61 @@
+---
+id: XEP0516
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: XMPP Decentralized ID (XID)
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0516.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0516.html
+docidentifier:
+- content: XEP 0516
+  type: XEP
+  primary: true
+docnumber: XEP-0516
+date:
+- type: published
+  at: '2026-06-30'
+contributor:
+- role:
+  - type: author
+  person:
+    email:
+    - goffi@goffi.org
+    name:
+      forename:
+      - language: en
+        initial: J
+      formatted_initials:
+        language: en
+        content: J.
+      surname:
+        language: en
+        content: Poisson
+      completename:
+        language: en
+        content: Jérôme Poisson
+    affiliation:
+    - organization:
+        email:
+        - goffi@goffi.org
+        name:
+        - language: en
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: XSF XEP
+  number: '0516'
+ext:
+  doctype:
+    content: rfc
+  flavor: xsf

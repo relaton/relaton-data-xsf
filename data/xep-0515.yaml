@@ -1,0 +1,61 @@
+---
+id: XEP0515
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: TLS Channel-Binding Downgrade Protection
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0515.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0515.html
+docidentifier:
+- content: XEP 0515
+  type: XEP
+  primary: true
+docnumber: XEP-0515
+date:
+- type: published
+  at: '2026-06-30'
+contributor:
+- role:
+  - type: author
+  person:
+    email:
+    - thilo+xmpp@eightysoft.de
+    name:
+      forename:
+      - language: en
+        initial: T
+      formatted_initials:
+        language: en
+        content: T.
+      surname:
+        language: en
+        content: Molitor
+      completename:
+        language: en
+        content: Thilo Molitor
+    affiliation:
+    - organization:
+        email:
+        - thilo+xmpp@eightysoft.de
+        name:
+        - language: en
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: XSF XEP
+  number: '0515'
+ext:
+  doctype:
+    content: rfc
+  flavor: xsf

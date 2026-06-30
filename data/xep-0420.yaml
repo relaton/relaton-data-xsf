@@ -18,7 +18,7 @@ docidentifier:
 docnumber: XEP-0420
 date:
 - type: published
-  at: '2021-11-18'
+  at: '2026-06-23'
 contributor:
 - role:
   - type: author
@@ -42,6 +42,30 @@ contributor:
     - organization:
         email:
         - vanitasvitae@riseup.net
+        name:
+        - language: en
+- role:
+  - type: author
+  person:
+    email:
+    - me@syndace.dev
+    name:
+      forename:
+      - language: en
+        initial: T
+      formatted_initials:
+        language: en
+        content: T.
+      surname:
+        language: en
+        content: Henkes
+      completename:
+        language: en
+        content: Tim Henkes
+    affiliation:
+    - organization:
+        email:
+        - me@syndace.dev
         name:
         - language: en
 language:

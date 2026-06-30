@@ -1,0 +1,61 @@
+---
+id: XEP0517
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: Jingle Synchronized Real-Time Text
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0517.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0517.html
+docidentifier:
+- content: XEP 0517
+  type: XEP
+  primary: true
+docnumber: XEP-0517
+date:
+- type: published
+  at: '2026-06-30'
+contributor:
+- role:
+  - type: author
+  person:
+    email:
+    - info@tiedragon.com
+    name:
+      forename:
+      - language: en
+        initial: E
+      formatted_initials:
+        language: en
+        content: E.
+      surname:
+        language: en
+        content: Tie
+      completename:
+        language: en
+        content: Edward Tie
+    affiliation:
+    - organization:
+        email:
+        - info@tiedragon.com
+        name:
+        - language: en
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: XSF XEP
+  number: '0517'
+ext:
+  doctype:
+    content: rfc
+  flavor: xsf
