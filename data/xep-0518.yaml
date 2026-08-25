@@ -1,47 +1,47 @@
 ---
-id: XEP0066
+id: XEP0518
 schema_version: v1.5.6
 type: standard
 title:
 - language: en
   script: Latn
-  content: Out of Band Data
+  content: Payment Required
 source:
 - type: src
-  content: http://xmpp.org/extensions/xep-0066.html
+  content: http://xmpp.org/extensions/xep-0518.html
 - type: HTML
-  content: http://xmpp.org/extensions/xep-0066.html
+  content: http://xmpp.org/extensions/xep-0518.html
 docidentifier:
-- content: XEP 0066
+- content: XEP 0518
   type: XEP
   primary: true
-docnumber: XEP-0066
+docnumber: XEP-0518
 date:
 - type: published
-  at: '2026-07-08'
+  at: '2026-08-25'
 contributor:
 - role:
   - type: author
   person:
     email:
-    - stpeter@stpeter.im
+    - jc@opkode.com
     name:
       forename:
       - language: en
-        initial: P
+        initial: J
       formatted_initials:
         language: en
-        content: P.
+        content: J.
       surname:
         language: en
-        content: Saint-Andre
+        content: Brand
       completename:
         language: en
-        content: Peter Saint-Andre
+        content: JC Brand
     affiliation:
     - organization:
         email:
-        - stpeter@stpeter.im
+        - jc@opkode.com
         name:
         - language: en
 language:
@@ -54,7 +54,7 @@ series:
   - language: en
     script: Latn
     content: XSF XEP
-  number: '0066'
+  number: '0518'
 ext:
   doctype:
     content: rfc
