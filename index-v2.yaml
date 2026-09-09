@@ -1,0 +1,2081 @@
+---
+- :id:
+    _type: pubid:xsf:xep
+    number: '0001'
+  :file: data/xep-0001.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0002'
+  :file: data/xep-0002.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0003'
+  :file: data/xep-0003.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0004'
+  :file: data/xep-0004.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0005'
+  :file: data/xep-0005.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0006'
+  :file: data/xep-0006.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0007'
+  :file: data/xep-0007.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0008'
+  :file: data/xep-0008.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0009'
+  :file: data/xep-0009.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0010'
+  :file: data/xep-0010.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0011'
+  :file: data/xep-0011.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0012'
+  :file: data/xep-0012.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0013'
+  :file: data/xep-0013.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0014'
+  :file: data/xep-0014.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0015'
+  :file: data/xep-0015.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0016'
+  :file: data/xep-0016.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0017'
+  :file: data/xep-0017.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0018'
+  :file: data/xep-0018.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0019'
+  :file: data/xep-0019.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0020'
+  :file: data/xep-0020.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0021'
+  :file: data/xep-0021.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0022'
+  :file: data/xep-0022.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0023'
+  :file: data/xep-0023.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0024'
+  :file: data/xep-0024.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0025'
+  :file: data/xep-0025.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0026'
+  :file: data/xep-0026.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0027'
+  :file: data/xep-0027.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0028'
+  :file: data/xep-0028.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0029'
+  :file: data/xep-0029.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0030'
+  :file: data/xep-0030.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0031'
+  :file: data/xep-0031.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0032'
+  :file: data/xep-0032.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0033'
+  :file: data/xep-0033.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0034'
+  :file: data/xep-0034.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0035'
+  :file: data/xep-0035.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0036'
+  :file: data/xep-0036.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0037'
+  :file: data/xep-0037.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0038'
+  :file: data/xep-0038.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0039'
+  :file: data/xep-0039.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0040'
+  :file: data/xep-0040.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0041'
+  :file: data/xep-0041.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0042'
+  :file: data/xep-0042.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0043'
+  :file: data/xep-0043.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0044'
+  :file: data/xep-0044.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0045'
+  :file: data/xep-0045.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0046'
+  :file: data/xep-0046.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0047'
+  :file: data/xep-0047.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0048'
+  :file: data/xep-0048.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0049'
+  :file: data/xep-0049.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0050'
+  :file: data/xep-0050.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0051'
+  :file: data/xep-0051.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0052'
+  :file: data/xep-0052.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0053'
+  :file: data/xep-0053.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0054'
+  :file: data/xep-0054.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0055'
+  :file: data/xep-0055.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0056'
+  :file: data/xep-0056.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0057'
+  :file: data/xep-0057.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0058'
+  :file: data/xep-0058.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0059'
+  :file: data/xep-0059.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0060'
+  :file: data/xep-0060.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0061'
+  :file: data/xep-0061.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0062'
+  :file: data/xep-0062.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0063'
+  :file: data/xep-0063.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0064'
+  :file: data/xep-0064.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0065'
+  :file: data/xep-0065.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0066'
+  :file: data/xep-0066.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0067'
+  :file: data/xep-0067.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0068'
+  :file: data/xep-0068.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0069'
+  :file: data/xep-0069.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0070'
+  :file: data/xep-0070.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0071'
+  :file: data/xep-0071.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0072'
+  :file: data/xep-0072.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0073'
+  :file: data/xep-0073.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0074'
+  :file: data/xep-0074.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0075'
+  :file: data/xep-0075.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0076'
+  :file: data/xep-0076.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0077'
+  :file: data/xep-0077.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0078'
+  :file: data/xep-0078.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0079'
+  :file: data/xep-0079.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0080'
+  :file: data/xep-0080.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0081'
+  :file: data/xep-0081.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0082'
+  :file: data/xep-0082.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0083'
+  :file: data/xep-0083.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0084'
+  :file: data/xep-0084.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0085'
+  :file: data/xep-0085.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0086'
+  :file: data/xep-0086.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0087'
+  :file: data/xep-0087.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0088'
+  :file: data/xep-0088.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0089'
+  :file: data/xep-0089.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0090'
+  :file: data/xep-0090.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0091'
+  :file: data/xep-0091.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0092'
+  :file: data/xep-0092.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0093'
+  :file: data/xep-0093.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0094'
+  :file: data/xep-0094.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0095'
+  :file: data/xep-0095.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0096'
+  :file: data/xep-0096.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0097'
+  :file: data/xep-0097.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0098'
+  :file: data/xep-0098.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0099'
+  :file: data/xep-0099.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0100'
+  :file: data/xep-0100.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0101'
+  :file: data/xep-0101.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0102'
+  :file: data/xep-0102.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0103'
+  :file: data/xep-0103.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0104'
+  :file: data/xep-0104.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0105'
+  :file: data/xep-0105.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0106'
+  :file: data/xep-0106.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0107'
+  :file: data/xep-0107.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0108'
+  :file: data/xep-0108.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0109'
+  :file: data/xep-0109.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0110'
+  :file: data/xep-0110.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0111'
+  :file: data/xep-0111.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0112'
+  :file: data/xep-0112.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0113'
+  :file: data/xep-0113.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0114'
+  :file: data/xep-0114.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0115'
+  :file: data/xep-0115.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0116'
+  :file: data/xep-0116.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0117'
+  :file: data/xep-0117.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0118'
+  :file: data/xep-0118.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0119'
+  :file: data/xep-0119.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0120'
+  :file: data/xep-0120.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0121'
+  :file: data/xep-0121.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0122'
+  :file: data/xep-0122.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0123'
+  :file: data/xep-0123.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0124'
+  :file: data/xep-0124.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0125'
+  :file: data/xep-0125.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0126'
+  :file: data/xep-0126.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0127'
+  :file: data/xep-0127.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0128'
+  :file: data/xep-0128.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0129'
+  :file: data/xep-0129.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0130'
+  :file: data/xep-0130.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0131'
+  :file: data/xep-0131.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0132'
+  :file: data/xep-0132.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0133'
+  :file: data/xep-0133.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0134'
+  :file: data/xep-0134.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0135'
+  :file: data/xep-0135.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0136'
+  :file: data/xep-0136.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0137'
+  :file: data/xep-0137.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0138'
+  :file: data/xep-0138.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0139'
+  :file: data/xep-0139.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0140'
+  :file: data/xep-0140.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0141'
+  :file: data/xep-0141.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0142'
+  :file: data/xep-0142.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0143'
+  :file: data/xep-0143.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0144'
+  :file: data/xep-0144.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0145'
+  :file: data/xep-0145.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0146'
+  :file: data/xep-0146.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0147'
+  :file: data/xep-0147.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0148'
+  :file: data/xep-0148.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0149'
+  :file: data/xep-0149.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0150'
+  :file: data/xep-0150.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0151'
+  :file: data/xep-0151.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0152'
+  :file: data/xep-0152.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0153'
+  :file: data/xep-0153.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0154'
+  :file: data/xep-0154.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0155'
+  :file: data/xep-0155.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0156'
+  :file: data/xep-0156.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0157'
+  :file: data/xep-0157.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0158'
+  :file: data/xep-0158.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0159'
+  :file: data/xep-0159.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0160'
+  :file: data/xep-0160.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0161'
+  :file: data/xep-0161.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0162'
+  :file: data/xep-0162.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0163'
+  :file: data/xep-0163.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0164'
+  :file: data/xep-0164.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0165'
+  :file: data/xep-0165.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0166'
+  :file: data/xep-0166.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0167'
+  :file: data/xep-0167.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0168'
+  :file: data/xep-0168.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0169'
+  :file: data/xep-0169.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0170'
+  :file: data/xep-0170.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0171'
+  :file: data/xep-0171.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0172'
+  :file: data/xep-0172.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0173'
+  :file: data/xep-0173.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0174'
+  :file: data/xep-0174.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0175'
+  :file: data/xep-0175.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0176'
+  :file: data/xep-0176.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0177'
+  :file: data/xep-0177.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0178'
+  :file: data/xep-0178.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0179'
+  :file: data/xep-0179.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0180'
+  :file: data/xep-0180.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0181'
+  :file: data/xep-0181.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0182'
+  :file: data/xep-0182.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0183'
+  :file: data/xep-0183.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0184'
+  :file: data/xep-0184.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0185'
+  :file: data/xep-0185.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0186'
+  :file: data/xep-0186.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0187'
+  :file: data/xep-0187.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0188'
+  :file: data/xep-0188.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0189'
+  :file: data/xep-0189.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0190'
+  :file: data/xep-0190.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0191'
+  :file: data/xep-0191.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0192'
+  :file: data/xep-0192.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0193'
+  :file: data/xep-0193.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0194'
+  :file: data/xep-0194.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0195'
+  :file: data/xep-0195.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0196'
+  :file: data/xep-0196.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0197'
+  :file: data/xep-0197.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0198'
+  :file: data/xep-0198.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0199'
+  :file: data/xep-0199.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0200'
+  :file: data/xep-0200.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0201'
+  :file: data/xep-0201.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0202'
+  :file: data/xep-0202.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0203'
+  :file: data/xep-0203.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0204'
+  :file: data/xep-0204.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0205'
+  :file: data/xep-0205.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0206'
+  :file: data/xep-0206.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0207'
+  :file: data/xep-0207.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0208'
+  :file: data/xep-0208.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0209'
+  :file: data/xep-0209.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0210'
+  :file: data/xep-0210.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0211'
+  :file: data/xep-0211.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0212'
+  :file: data/xep-0212.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0213'
+  :file: data/xep-0213.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0214'
+  :file: data/xep-0214.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0215'
+  :file: data/xep-0215.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0216'
+  :file: data/xep-0216.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0217'
+  :file: data/xep-0217.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0218'
+  :file: data/xep-0218.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0219'
+  :file: data/xep-0219.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0220'
+  :file: data/xep-0220.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0221'
+  :file: data/xep-0221.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0222'
+  :file: data/xep-0222.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0223'
+  :file: data/xep-0223.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0224'
+  :file: data/xep-0224.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0225'
+  :file: data/xep-0225.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0226'
+  :file: data/xep-0226.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0227'
+  :file: data/xep-0227.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0228'
+  :file: data/xep-0228.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0229'
+  :file: data/xep-0229.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0230'
+  :file: data/xep-0230.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0231'
+  :file: data/xep-0231.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0232'
+  :file: data/xep-0232.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0233'
+  :file: data/xep-0233.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0234'
+  :file: data/xep-0234.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0235'
+  :file: data/xep-0235.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0236'
+  :file: data/xep-0236.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0237'
+  :file: data/xep-0237.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0238'
+  :file: data/xep-0238.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0239'
+  :file: data/xep-0239.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0240'
+  :file: data/xep-0240.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0241'
+  :file: data/xep-0241.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0242'
+  :file: data/xep-0242.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0243'
+  :file: data/xep-0243.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0244'
+  :file: data/xep-0244.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0245'
+  :file: data/xep-0245.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0246'
+  :file: data/xep-0246.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0247'
+  :file: data/xep-0247.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0248'
+  :file: data/xep-0248.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0249'
+  :file: data/xep-0249.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0250'
+  :file: data/xep-0250.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0251'
+  :file: data/xep-0251.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0252'
+  :file: data/xep-0252.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0253'
+  :file: data/xep-0253.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0254'
+  :file: data/xep-0254.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0255'
+  :file: data/xep-0255.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0256'
+  :file: data/xep-0256.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0257'
+  :file: data/xep-0257.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0258'
+  :file: data/xep-0258.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0259'
+  :file: data/xep-0259.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0260'
+  :file: data/xep-0260.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0261'
+  :file: data/xep-0261.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0262'
+  :file: data/xep-0262.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0263'
+  :file: data/xep-0263.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0264'
+  :file: data/xep-0264.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0265'
+  :file: data/xep-0265.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0266'
+  :file: data/xep-0266.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0267'
+  :file: data/xep-0267.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0268'
+  :file: data/xep-0268.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0269'
+  :file: data/xep-0269.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0270'
+  :file: data/xep-0270.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0271'
+  :file: data/xep-0271.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0272'
+  :file: data/xep-0272.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0273'
+  :file: data/xep-0273.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0274'
+  :file: data/xep-0274.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0275'
+  :file: data/xep-0275.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0276'
+  :file: data/xep-0276.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0277'
+  :file: data/xep-0277.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0278'
+  :file: data/xep-0278.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0279'
+  :file: data/xep-0279.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0280'
+  :file: data/xep-0280.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0281'
+  :file: data/xep-0281.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0282'
+  :file: data/xep-0282.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0283'
+  :file: data/xep-0283.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0284'
+  :file: data/xep-0284.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0285'
+  :file: data/xep-0285.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0286'
+  :file: data/xep-0286.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0287'
+  :file: data/xep-0287.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0288'
+  :file: data/xep-0288.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0289'
+  :file: data/xep-0289.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0290'
+  :file: data/xep-0290.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0291'
+  :file: data/xep-0291.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0292'
+  :file: data/xep-0292.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0293'
+  :file: data/xep-0293.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0294'
+  :file: data/xep-0294.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0295'
+  :file: data/xep-0295.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0296'
+  :file: data/xep-0296.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0297'
+  :file: data/xep-0297.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0298'
+  :file: data/xep-0298.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0299'
+  :file: data/xep-0299.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0300'
+  :file: data/xep-0300.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0301'
+  :file: data/xep-0301.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0302'
+  :file: data/xep-0302.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0303'
+  :file: data/xep-0303.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0304'
+  :file: data/xep-0304.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0305'
+  :file: data/xep-0305.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0306'
+  :file: data/xep-0306.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0307'
+  :file: data/xep-0307.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0308'
+  :file: data/xep-0308.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0309'
+  :file: data/xep-0309.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0310'
+  :file: data/xep-0310.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0311'
+  :file: data/xep-0311.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0312'
+  :file: data/xep-0312.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0313'
+  :file: data/xep-0313.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0314'
+  :file: data/xep-0314.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0315'
+  :file: data/xep-0315.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0316'
+  :file: data/xep-0316.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0317'
+  :file: data/xep-0317.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0318'
+  :file: data/xep-0318.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0319'
+  :file: data/xep-0319.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0320'
+  :file: data/xep-0320.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0321'
+  :file: data/xep-0321.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0322'
+  :file: data/xep-0322.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0323'
+  :file: data/xep-0323.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0324'
+  :file: data/xep-0324.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0325'
+  :file: data/xep-0325.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0326'
+  :file: data/xep-0326.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0327'
+  :file: data/xep-0327.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0328'
+  :file: data/xep-0328.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0329'
+  :file: data/xep-0329.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0330'
+  :file: data/xep-0330.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0331'
+  :file: data/xep-0331.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0332'
+  :file: data/xep-0332.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0333'
+  :file: data/xep-0333.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0334'
+  :file: data/xep-0334.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0335'
+  :file: data/xep-0335.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0336'
+  :file: data/xep-0336.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0337'
+  :file: data/xep-0337.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0338'
+  :file: data/xep-0338.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0339'
+  :file: data/xep-0339.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0340'
+  :file: data/xep-0340.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0341'
+  :file: data/xep-0341.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0342'
+  :file: data/xep-0342.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0343'
+  :file: data/xep-0343.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0344'
+  :file: data/xep-0344.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0345'
+  :file: data/xep-0345.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0346'
+  :file: data/xep-0346.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0347'
+  :file: data/xep-0347.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0348'
+  :file: data/xep-0348.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0349'
+  :file: data/xep-0349.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0350'
+  :file: data/xep-0350.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0351'
+  :file: data/xep-0351.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0352'
+  :file: data/xep-0352.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0353'
+  :file: data/xep-0353.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0354'
+  :file: data/xep-0354.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0355'
+  :file: data/xep-0355.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0356'
+  :file: data/xep-0356.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0357'
+  :file: data/xep-0357.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0358'
+  :file: data/xep-0358.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0359'
+  :file: data/xep-0359.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0360'
+  :file: data/xep-0360.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0361'
+  :file: data/xep-0361.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0362'
+  :file: data/xep-0362.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0363'
+  :file: data/xep-0363.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0364'
+  :file: data/xep-0364.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0365'
+  :file: data/xep-0365.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0366'
+  :file: data/xep-0366.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0367'
+  :file: data/xep-0367.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0368'
+  :file: data/xep-0368.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0369'
+  :file: data/xep-0369.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0370'
+  :file: data/xep-0370.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0371'
+  :file: data/xep-0371.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0372'
+  :file: data/xep-0372.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0373'
+  :file: data/xep-0373.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0374'
+  :file: data/xep-0374.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0375'
+  :file: data/xep-0375.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0376'
+  :file: data/xep-0376.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0377'
+  :file: data/xep-0377.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0378'
+  :file: data/xep-0378.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0379'
+  :file: data/xep-0379.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0380'
+  :file: data/xep-0380.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0381'
+  :file: data/xep-0381.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0382'
+  :file: data/xep-0382.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0383'
+  :file: data/xep-0383.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0384'
+  :file: data/xep-0384.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0385'
+  :file: data/xep-0385.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0386'
+  :file: data/xep-0386.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0387'
+  :file: data/xep-0387.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0388'
+  :file: data/xep-0388.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0389'
+  :file: data/xep-0389.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0390'
+  :file: data/xep-0390.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0391'
+  :file: data/xep-0391.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0392'
+  :file: data/xep-0392.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0393'
+  :file: data/xep-0393.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0394'
+  :file: data/xep-0394.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0395'
+  :file: data/xep-0395.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0396'
+  :file: data/xep-0396.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0397'
+  :file: data/xep-0397.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0398'
+  :file: data/xep-0398.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0399'
+  :file: data/xep-0399.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0400'
+  :file: data/xep-0400.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0401'
+  :file: data/xep-0401.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0402'
+  :file: data/xep-0402.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0403'
+  :file: data/xep-0403.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0404'
+  :file: data/xep-0404.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0405'
+  :file: data/xep-0405.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0406'
+  :file: data/xep-0406.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0407'
+  :file: data/xep-0407.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0408'
+  :file: data/xep-0408.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0409'
+  :file: data/xep-0409.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0410'
+  :file: data/xep-0410.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0411'
+  :file: data/xep-0411.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0412'
+  :file: data/xep-0412.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0413'
+  :file: data/xep-0413.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0414'
+  :file: data/xep-0414.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0415'
+  :file: data/xep-0415.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0416'
+  :file: data/xep-0416.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0417'
+  :file: data/xep-0417.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0418'
+  :file: data/xep-0418.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0419'
+  :file: data/xep-0419.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0420'
+  :file: data/xep-0420.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0421'
+  :file: data/xep-0421.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0422'
+  :file: data/xep-0422.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0423'
+  :file: data/xep-0423.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0424'
+  :file: data/xep-0424.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0425'
+  :file: data/xep-0425.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0426'
+  :file: data/xep-0426.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0427'
+  :file: data/xep-0427.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0428'
+  :file: data/xep-0428.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0429'
+  :file: data/xep-0429.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0430'
+  :file: data/xep-0430.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0431'
+  :file: data/xep-0431.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0432'
+  :file: data/xep-0432.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0433'
+  :file: data/xep-0433.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0434'
+  :file: data/xep-0434.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0435'
+  :file: data/xep-0435.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0436'
+  :file: data/xep-0436.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0437'
+  :file: data/xep-0437.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0438'
+  :file: data/xep-0438.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0439'
+  :file: data/xep-0439.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0440'
+  :file: data/xep-0440.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0441'
+  :file: data/xep-0441.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0442'
+  :file: data/xep-0442.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0443'
+  :file: data/xep-0443.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0444'
+  :file: data/xep-0444.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0445'
+  :file: data/xep-0445.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0446'
+  :file: data/xep-0446.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0447'
+  :file: data/xep-0447.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0448'
+  :file: data/xep-0448.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0449'
+  :file: data/xep-0449.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0450'
+  :file: data/xep-0450.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0451'
+  :file: data/xep-0451.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0452'
+  :file: data/xep-0452.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0453'
+  :file: data/xep-0453.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0454'
+  :file: data/xep-0454.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0455'
+  :file: data/xep-0455.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0456'
+  :file: data/xep-0456.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0457'
+  :file: data/xep-0457.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0458'
+  :file: data/xep-0458.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0459'
+  :file: data/xep-0459.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0460'
+  :file: data/xep-0460.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0461'
+  :file: data/xep-0461.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0462'
+  :file: data/xep-0462.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0463'
+  :file: data/xep-0463.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0464'
+  :file: data/xep-0464.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0465'
+  :file: data/xep-0465.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0466'
+  :file: data/xep-0466.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0467'
+  :file: data/xep-0467.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0468'
+  :file: data/xep-0468.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0469'
+  :file: data/xep-0469.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0470'
+  :file: data/xep-0470.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0471'
+  :file: data/xep-0471.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0472'
+  :file: data/xep-0472.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0473'
+  :file: data/xep-0473.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0474'
+  :file: data/xep-0474.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0475'
+  :file: data/xep-0475.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0476'
+  :file: data/xep-0476.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0477'
+  :file: data/xep-0477.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0478'
+  :file: data/xep-0478.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0479'
+  :file: data/xep-0479.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0480'
+  :file: data/xep-0480.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0481'
+  :file: data/xep-0481.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0482'
+  :file: data/xep-0482.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0483'
+  :file: data/xep-0483.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0484'
+  :file: data/xep-0484.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0485'
+  :file: data/xep-0485.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0486'
+  :file: data/xep-0486.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0487'
+  :file: data/xep-0487.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0488'
+  :file: data/xep-0488.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0489'
+  :file: data/xep-0489.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0490'
+  :file: data/xep-0490.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0491'
+  :file: data/xep-0491.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0492'
+  :file: data/xep-0492.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0493'
+  :file: data/xep-0493.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0494'
+  :file: data/xep-0494.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0495'
+  :file: data/xep-0495.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0496'
+  :file: data/xep-0496.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0497'
+  :file: data/xep-0497.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0498'
+  :file: data/xep-0498.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0499'
+  :file: data/xep-0499.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0500'
+  :file: data/xep-0500.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0501'
+  :file: data/xep-0501.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0502'
+  :file: data/xep-0502.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0503'
+  :file: data/xep-0503.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0504'
+  :file: data/xep-0504.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0505'
+  :file: data/xep-0505.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0506'
+  :file: data/xep-0506.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0507'
+  :file: data/xep-0507.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0508'
+  :file: data/xep-0508.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0509'
+  :file: data/xep-0509.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0510'
+  :file: data/xep-0510.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0511'
+  :file: data/xep-0511.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0512'
+  :file: data/xep-0512.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0513'
+  :file: data/xep-0513.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0514'
+  :file: data/xep-0514.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0515'
+  :file: data/xep-0515.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0516'
+  :file: data/xep-0516.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0517'
+  :file: data/xep-0517.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0518'
+  :file: data/xep-0518.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: README
+  :file: data/xep-readme.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: xxxx
+  :file: data/xep-xxxx.yaml
