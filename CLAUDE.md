@@ -138,28 +138,22 @@ never reached -- assert on `Relaton.logger_pool`.
 
 ## Dependency pins
 
-**`Gemfile` carries a TEMPORARY path pin** to a local checkout:
+`Gemfile` pins relaton to the tip of `main`:
 
 ```ruby
-gem "relaton", path: "../relaton"
+gem "relaton", git: "https://github.com/relaton/relaton.git", branch: "main"
 ```
 
-It is a path dep and not a `git:` pin because the XSF `index-v2` work is **not
-committed** in relaton/relaton. It is an uncommitted working-tree diff on
-`main`, and no XSF branch exists on the remote, so a git pin resolves relaton
-*without* it: `INDEXFILE` reads `index-v1`, the crawl writes that file, and no
-`index-v2` is produced.
+The pin is `main` and not the released gem because the XSF `index-v2` work is
+not in a release yet. It merged in relaton/relaton PR #152
+(`feat/xsf-pubid-index-v2`), so `main` gives `INDEXFILE` = `index-v2`. Drop the
+pin when a relaton 3 release carries it.
 
-Two consequences:
-
-* The path is relative and resolves only because the relaton checkouts are
-  siblings. GitHub Actions checks out this repository alone, so the **Crawler
-  workflow cannot resolve it** and stays red. It is the only workflow that
-  reads this file: relaton/support's `data-deploy.yml` -- behind both "Deploy"
-  and "Check index" -- writes its own Gemfile to `$RUNNER_TEMP` and sets
-  `BUNDLE_GEMFILE` to it, so the Pages build is unaffected.
-* To revert, once the XSF work is committed and pushed:
-  `gem "relaton", git: "https://github.com/relaton/relaton.git", branch: "main"`.
+This replaces an earlier `path: "../relaton"` pin, which resolved only from a
+sibling checkout and left the **Crawler workflow** red. That workflow is the
+only one that reads this file: relaton/support's `data-deploy.yml` -- behind
+both "Deploy" and "Check index" -- writes its own Gemfile to `$RUNNER_TEMP` and
+sets `BUNDLE_GEMFILE` to it, so the Pages build never read the pin.
 
 `pubid` is pinned separately, and has to be: bundler reads a path or git gem's
 **gemspec**, never its Gemfile, so relaton's own pubid pin does not reach this
