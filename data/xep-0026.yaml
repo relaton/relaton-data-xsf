@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Max Horn
-    affiliation:
-    - organization:
-        email:
-        - max@quendi.de
-        name:
-        - language: en
 language:
 - en
 script:

@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: John Livingston
-    affiliation:
-    - organization:
-        email:
-        - contact@john-livingston.fr
-        name:
-        - language: en
 language:
 - en
 script:

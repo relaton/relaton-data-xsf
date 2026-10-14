@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Matthew Miller
-    affiliation:
-    - organization:
-        email:
-        - linuxwolf@outer-planes.net
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Peter Saint-Andre
-    affiliation:
-    - organization:
-        email:
-        - stpeter@stpeter.im
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -86,12 +74,6 @@ contributor:
       completename:
         language: en
         content: Joe Hildebrand
-    affiliation:
-    - organization:
-        email:
-        - jhildebr@cisco.com
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -110,12 +92,6 @@ contributor:
       completename:
         language: en
         content: Mili Verma
-    affiliation:
-    - organization:
-        email:
-        - mili.verma@isode.com
-        name:
-        - language: en
 language:
 - en
 script:

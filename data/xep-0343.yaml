@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Jens Bavendiek
-    affiliation:
-    - organization:
-        email:
-        - bavendiek@dbis.rwth-aachen.de
-        name:
-        - language: en
 language:
 - en
 script:

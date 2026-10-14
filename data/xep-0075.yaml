@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Evan Prodromou
-    affiliation:
-    - organization:
-        email:
-        - evan@prodromou.san-francisco.ca.us
-        name:
-        - language: en
 language:
 - en
 script:

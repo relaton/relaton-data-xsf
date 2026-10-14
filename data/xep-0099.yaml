@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Iain Shigeoka
-    affiliation:
-    - organization:
-        email:
-        - iain@jivesoftware.com
-        name:
-        - language: en
 language:
 - en
 script:

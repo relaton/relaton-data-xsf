@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Joe Hildebrand
-    affiliation:
-    - organization:
-        email:
-        - jhildebr@cisco.com
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Peter Millard
-    affiliation:
-    - organization:
-        email:
-        - ''
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -86,12 +74,6 @@ contributor:
       completename:
         language: en
         content: Ryan Eatmon
-    affiliation:
-    - organization:
-        email:
-        - reatmon@jabber.org
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -110,12 +92,6 @@ contributor:
       completename:
         language: en
         content: Peter Saint-Andre
-    affiliation:
-    - organization:
-        email:
-        - stpeter@stpeter.im
-        name:
-        - language: en
 language:
 - en
 script:

@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Tim Carpenter
-    affiliation:
-    - organization:
-        email:
-        - tim.carpenter@in8limited.co.uk
-        name:
-        - language: en
 language:
 - en
 script:

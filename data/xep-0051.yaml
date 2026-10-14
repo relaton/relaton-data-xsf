@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Klaus Wolf
-    affiliation:
-    - organization:
-        email:
-        - wolf@bluehands.de
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Richard Dobson
-    affiliation:
-    - organization:
-        email:
-        - richard@dobson-i.net
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -86,12 +74,6 @@ contributor:
       completename:
         language: en
         content: Florian Jensen
-    affiliation:
-    - organization:
-        email:
-        - florian@florianjensen.com
-        name:
-        - language: en
 language:
 - en
 script:

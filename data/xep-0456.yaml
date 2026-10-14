@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Jonas Schäfer
-    affiliation:
-    - organization:
-        email:
-        - jonas@wielicki.name
-        name:
-        - language: en
 language:
 - en
 script:

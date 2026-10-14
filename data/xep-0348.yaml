@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Peter Waher
-    affiliation:
-    - organization:
-        email:
-        - peterwaher@hotmail.com
-        name:
-        - language: en
 language:
 - en
 script:

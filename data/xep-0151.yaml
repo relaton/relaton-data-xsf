@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Heiner Wolf
-    affiliation:
-    - organization:
-        email:
-        - wolf@bluehands.de
-        name:
-        - language: en
 language:
 - en
 script:

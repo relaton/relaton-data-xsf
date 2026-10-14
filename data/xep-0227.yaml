@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Magnus Henoch
-    affiliation:
-    - organization:
-        email:
-        - henoch@dtek.chalmers.se
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Waqas Hussain
-    affiliation:
-    - organization:
-        email:
-        - waqas20@gmail.com
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -86,12 +74,6 @@ contributor:
       completename:
         language: en
         content: Matthew Wild
-    affiliation:
-    - organization:
-        email:
-        - mwild1@gmail.com
-        name:
-        - language: en
 language:
 - en
 script:

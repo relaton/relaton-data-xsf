@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Sonny Piers
-    affiliation:
-    - organization:
-        email:
-        - sonny@fastmail.net
-        name:
-        - language: en
 language:
 - en
 script:

@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Carlo von Loesch
-    affiliation:
-    - organization:
-        email:
-        - ''
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Philipp Hancke
-    affiliation:
-    - organization:
-        email:
-        - fippo@andyet.com
-        name:
-        - language: en
 language:
 - en
 script:

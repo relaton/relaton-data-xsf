@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Philipp Hancke
-    affiliation:
-    - organization:
-        email:
-        - fippo@andyet.com
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Dave Cridland
-    affiliation:
-    - organization:
-        email:
-        - dave@hellopando.com
-        name:
-        - language: en
 language:
 - en
 script:

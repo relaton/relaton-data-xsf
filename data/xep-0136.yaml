@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Ian Paterson
-    affiliation:
-    - organization:
-        email:
-        - ian.paterson@clientside.co.uk
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Jon Perlow
-    affiliation:
-    - organization:
-        email:
-        - jonp@google.com
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -86,12 +74,6 @@ contributor:
       completename:
         language: en
         content: Peter Saint-Andre
-    affiliation:
-    - organization:
-        email:
-        - stpeter@stpeter.im
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -110,12 +92,6 @@ contributor:
       completename:
         language: en
         content: Justin Karneges
-    affiliation:
-    - organization:
-        email:
-        - justin@karneges.com
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -134,12 +110,6 @@ contributor:
       completename:
         language: en
         content: Alexander Tsvyashchenko
-    affiliation:
-    - organization:
-        email:
-        - lists@ndl.kiev.ua
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -158,12 +128,6 @@ contributor:
       completename:
         language: en
         content: Yann Leboulanger
-    affiliation:
-    - organization:
-        email:
-        - asterix@lagaule.org
-        name:
-        - language: en
 language:
 - en
 script:

@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Natalie Wirth
-    affiliation:
-    - organization:
-        email:
-        - nataliew@laposte.net
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Marvin Wißfeld
-    affiliation:
-    - organization:
-        email:
-        - xmpp@larma.de
-        name:
-        - language: en
 language:
 - en
 script:

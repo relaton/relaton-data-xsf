@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Olivier Crête
-    affiliation:
-    - organization:
-        email:
-        - olivier.crete@collabora.co.uk
-        name:
-        - language: en
 language:
 - en
 script:

@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Dave Cridland
-    affiliation:
-    - organization:
-        email:
-        - dave@hellopando.com
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Thilo Molitor
-    affiliation:
-    - organization:
-        email:
-        - thilo+xmpp@eightysoft.de
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -86,12 +74,6 @@ contributor:
       completename:
         language: en
         content: Matthew Wild
-    affiliation:
-    - organization:
-        email:
-        - mwild1@gmail.com
-        name:
-        - language: en
 language:
 - en
 script:

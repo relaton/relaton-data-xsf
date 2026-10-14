@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Peter Saint-Andre
-    affiliation:
-    - organization:
-        email:
-        - stpeter@stpeter.im
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Justin Karneges
-    affiliation:
-    - organization:
-        email:
-        - justin@karneges.com
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -86,12 +74,6 @@ contributor:
       completename:
         language: en
         content: Dirk Meyer
-    affiliation:
-    - organization:
-        email:
-        - dmeyer@tzi.de
-        name:
-        - language: en
 language:
 - en
 script:

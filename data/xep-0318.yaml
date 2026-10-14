@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Tobias Markmann
-    affiliation:
-    - organization:
-        email:
-        - tobias.markmann@isode.com
-        name:
-        - language: en
 language:
 - en
 script:

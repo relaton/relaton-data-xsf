@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Chris Davidland
-    affiliation:
-    - organization:
-        email:
-        - chris.davidland@crap-security.example
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Lucas George
-    affiliation:
-    - organization:
-        email:
-        - lucas.george@shiteam.example
-        name:
-        - language: en
 language:
 - en
 script:

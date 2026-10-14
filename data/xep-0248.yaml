@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Peter Saint-Andre
-    affiliation:
-    - organization:
-        email:
-        - stpeter@stpeter.im
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Ralph Meijer
-    affiliation:
-    - organization:
-        email:
-        - ralphm@ik.nu
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -86,12 +74,6 @@ contributor:
       completename:
         language: en
         content: Brian Cully
-    affiliation:
-    - organization:
-        email:
-        - bjc@kublai.com
-        name:
-        - language: en
 language:
 - en
 script:

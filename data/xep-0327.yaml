@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Ben Langfeld
-    affiliation:
-    - organization:
-        email:
-        - ben@langfeld.me
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Jose de Castro
-    affiliation:
-    - organization:
-        email:
-        - jdecastro@tropo.com
-        name:
-        - language: en
 language:
 - en
 script:

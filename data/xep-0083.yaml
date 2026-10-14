@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Rachel Blackman
-    affiliation:
-    - organization:
-        email:
-        - rcb@ceruleanstudios.com
-        name:
-        - language: en
 language:
 - en
 script:

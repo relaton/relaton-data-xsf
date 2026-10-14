@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Ian Paterson
-    affiliation:
-    - organization:
-        email:
-        - ian.paterson@clientside.co.uk
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Dave Smith
-    affiliation:
-    - organization:
-        email:
-        - dizzyd@jabber.org
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -86,12 +74,6 @@ contributor:
       completename:
         language: en
         content: Peter Saint-Andre
-    affiliation:
-    - organization:
-        email:
-        - stpeter@stpeter.im
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -110,12 +92,6 @@ contributor:
       completename:
         language: en
         content: Jack Moffitt
-    affiliation:
-    - organization:
-        email:
-        - jack@chesspark.com
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -134,12 +110,6 @@ contributor:
       completename:
         language: en
         content: Lance Stout
-    affiliation:
-    - organization:
-        email:
-        - lance@andyet.com
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -158,12 +128,6 @@ contributor:
       completename:
         language: en
         content: Winfried Tilanus
-    affiliation:
-    - organization:
-        email:
-        - winfried@tilanus.com
-        name:
-        - language: en
 language:
 - en
 script:

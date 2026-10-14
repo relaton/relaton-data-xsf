@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Robert Norris
-    affiliation:
-    - organization:
-        email:
-        - rob@cataclysm.cx
-        name:
-        - language: en
 language:
 - en
 script:

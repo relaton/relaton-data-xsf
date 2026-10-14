@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Nicholas Parker
-    affiliation:
-    - organization:
-        email:
-        - nickbp@gmail.com
-        name:
-        - language: en
 language:
 - en
 script:
