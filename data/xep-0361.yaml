@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Steve Kille
+    affiliation:
+    - organization:
+        email:
+        - steve.kille@isode.com
+        name:
+        - language: en
 language:
 - en
 script:

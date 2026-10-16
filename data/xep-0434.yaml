@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Melvin Keskin
+    affiliation:
+    - organization:
+        email:
+        - melvo@olomono.de
+        name:
+        - language: en
 language:
 - en
 script:

@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Evgeny Khramtsov
+    affiliation:
+    - organization:
+        email:
+        - ekhramtsov@process-one.net
+        name:
+        - language: en
 language:
 - en
 script:

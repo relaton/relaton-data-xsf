@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Alexey Shchepin
+    affiliation:
+    - organization:
+        email:
+        - alexey@sevcom.net
+        name:
+        - language: en
 language:
 - en
 script:

@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Mike Mintz
+    affiliation:
+    - organization:
+        email:
+        - psicoder@yahoo.com
+        name:
+        - language: en
 language:
 - en
 script:

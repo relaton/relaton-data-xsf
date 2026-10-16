@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Huib-Jan Imbens
+    affiliation:
+    - organization:
+        email:
+        - jabber@imbens.nl
+        name:
+        - language: en
 language:
 - en
 script:

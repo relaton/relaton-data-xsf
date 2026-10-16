@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Mathieu Pasquet
+    affiliation:
+    - organization:
+        email:
+        - mathieui@mathieui.net
+        name:
+        - language: en
 language:
 - en
 script:

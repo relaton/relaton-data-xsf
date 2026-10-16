@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Casey Crabb
+    affiliation:
+    - organization:
+        email:
+        - crabbkw@nafai.dyndns.org
+        name:
+        - language: en
 language:
 - en
 script:

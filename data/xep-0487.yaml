@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Travis Burtrum
+    affiliation:
+    - organization:
+        email:
+        - travis@burtrum.org
+        name:
+        - language: en
 language:
 - en
 script:

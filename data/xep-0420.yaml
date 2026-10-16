@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Paul Schaub
+    affiliation:
+    - organization:
+        email:
+        - vanitasvitae@riseup.net
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Tim Henkes
+    affiliation:
+    - organization:
+        email:
+        - me@syndace.dev
+        name:
+        - language: en
 language:
 - en
 script:

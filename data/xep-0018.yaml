@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Ben Schumacher
+    affiliation:
+    - organization:
+        email:
+        - ben@blahr.com
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Jeremie Miller
+    affiliation:
+    - organization:
+        email:
+        - jer@jabber.org
+        name:
+        - language: en
 language:
 - en
 script:

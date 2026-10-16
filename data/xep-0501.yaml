@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Timothée Jaussoin
+    affiliation:
+    - organization:
+        email:
+        - edhelas@movim.eu
+        name:
+        - language: en
 language:
 - en
 script:

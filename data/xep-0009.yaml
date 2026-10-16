@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: DJ Adams
+    affiliation:
+    - organization:
+        email:
+        - dj.adams@pobox.com
+        name:
+        - language: en
 language:
 - en
 script:

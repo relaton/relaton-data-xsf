@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Emmanuel Gil Peyrot
+    affiliation:
+    - organization:
+        email:
+        - linkmauve@linkmauve.fr
+        name:
+        - language: en
 language:
 - en
 script:

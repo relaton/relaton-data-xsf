@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Nicolas Cedilnik
+    affiliation:
+    - organization:
+        email:
+        - nicoco@nicoco.fr
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Timothée Jaussoin
+    affiliation:
+    - organization:
+        email:
+        - edhelas@movim.eu
+        name:
+        - language: en
 language:
 - en
 script:

@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Tim Henkes
+    affiliation:
+    - organization:
+        email:
+        - me@syndace.dev
+        name:
+        - language: en
 language:
 - en
 script:

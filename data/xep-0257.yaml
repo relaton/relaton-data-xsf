@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Dirk Meyer
+    affiliation:
+    - organization:
+        email:
+        - dmeyer@tzi.de
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Thijs Alkemade
+    affiliation:
+    - organization:
+        email:
+        - thijsalkemade@gmail.com
+        name:
+        - language: en
 language:
 - en
 script:

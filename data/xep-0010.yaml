@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Niklas Gustavsson
+    affiliation:
+    - organization:
+        email:
+        - niklas@protocol7.com
+        name:
+        - language: en
 language:
 - en
 script:

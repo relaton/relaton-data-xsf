@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Matthew Miller
+    affiliation:
+    - organization:
+        email:
+        - linuxwolf@outer-planes.net
+        name:
+        - language: en
 language:
 - en
 script:

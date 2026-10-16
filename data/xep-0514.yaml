@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Snit Guckfung
+    affiliation:
+    - organization:
+        email:
+        - snit@cock.li
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Sigrid Einarsson
+    affiliation:
+    - organization:
+        email:
+        - techmetx11@disroot.org
+        name:
+        - language: en
 language:
 - en
 script:

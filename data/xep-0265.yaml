@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Dirk Meyer
+    affiliation:
+    - organization:
+        email:
+        - dmeyer@tzi.de
+        name:
+        - language: en
 language:
 - en
 script:

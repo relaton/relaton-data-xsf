@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Joe Hildebrand
+    affiliation:
+    - organization:
+        email:
+        - jhildebr@cisco.com
+        name:
+        - language: en
 language:
 - en
 script:

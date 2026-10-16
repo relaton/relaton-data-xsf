@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Marcos De Vera Piquero
+    affiliation:
+    - organization:
+        email:
+        - marcos@tenak.net
+        name:
+        - language: en
 language:
 - en
 script:

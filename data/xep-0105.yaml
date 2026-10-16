@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Ryan Eatmon
+    affiliation:
+    - organization:
+        email:
+        - reatmon@jabber.org
+        name:
+        - language: en
 language:
 - en
 script:

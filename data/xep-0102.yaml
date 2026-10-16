@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Jean-Louis Seguineau
+    affiliation:
+    - organization:
+        email:
+        - jean-louis.seguineau@antepo.com
+        name:
+        - language: en
 language:
 - en
 script:

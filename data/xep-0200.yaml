@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Ian Paterson
+    affiliation:
+    - organization:
+        email:
+        - ian.paterson@clientside.co.uk
+        name:
+        - language: en
 language:
 - en
 script:

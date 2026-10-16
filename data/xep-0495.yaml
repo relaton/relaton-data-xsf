@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Guus der Kinderen
+    affiliation:
+    - organization:
+        email:
+        - guus.der.kinderen@gmail.com
+        name:
+        - language: en
 language:
 - en
 script:

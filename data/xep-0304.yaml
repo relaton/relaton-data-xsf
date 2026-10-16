@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Ming Ji
+    affiliation:
+    - organization:
+        email:
+        - mingj@cisco.com
+        name:
+        - language: en
 language:
 - en
 script:

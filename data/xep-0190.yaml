@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Carlo von Loesch
+    affiliation:
+    - organization:
+        email:
+        - lynX@jabber.getting.psyced.org
+        name:
+        - language: en
 language:
 - en
 script:

@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: David Waite
+    affiliation:
+    - organization:
+        email:
+        - akuma@jabber.org
+        name:
+        - language: en
 language:
 - en
 script:

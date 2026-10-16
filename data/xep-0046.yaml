@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Justin Karneges
+    affiliation:
+    - organization:
+        email:
+        - justin@karneges.com
+        name:
+        - language: en
 language:
 - en
 script:

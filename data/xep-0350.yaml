@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Michael Laukner
+    affiliation:
+    - organization:
+        email:
+        - laukner@gmail.com
+        name:
+        - language: en
 language:
 - en
 script:

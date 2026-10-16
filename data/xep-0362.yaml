@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Peter Membrey
+    affiliation:
+    - organization:
+        email:
+        - peter@membrey.hk
+        name:
+        - language: en
 language:
 - en
 script:

@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Ulrich Staudinger
+    affiliation:
+    - organization:
+        email:
+        - chicago5@gmx.de
+        name:
+        - language: en
 language:
 - en
 script:

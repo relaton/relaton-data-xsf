@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Severino Ferrer de la Peñita
+    affiliation:
+    - organization:
+        email:
+        - soul@blastersklan.com
+        name:
+        - language: en
 - role:
   - type: author
   person:
@@ -56,6 +62,12 @@ contributor:
       completename:
         language: en
         content: Xavier Ferrer de la Peñita
+    affiliation:
+    - organization:
+        email:
+        - vaulor@openmailbox.org
+        name:
+        - language: en
 language:
 - en
 script:

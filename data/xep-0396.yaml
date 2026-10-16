@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Paul Schaub
+    affiliation:
+    - organization:
+        email:
+        - vanitasvitae@riseup.net
+        name:
+        - language: en
 language:
 - en
 script:

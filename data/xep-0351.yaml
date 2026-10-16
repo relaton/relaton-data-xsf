@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Sergey Dobrov
+    affiliation:
+    - organization:
+        email:
+        - Binary@JRuDevels.org
+        name:
+        - language: en
 language:
 - en
 script:

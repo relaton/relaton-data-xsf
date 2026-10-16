@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Stefan Strigler
+    affiliation:
+    - organization:
+        email:
+        - steve@zeank.in-berlin.de
+        name:
+        - language: en
 language:
 - en
 script:

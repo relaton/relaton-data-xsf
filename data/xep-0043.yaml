@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Justin Kirby
+    affiliation:
+    - organization:
+        email:
+        - justin@openaether.org
+        name:
+        - language: en
 language:
 - en
 script:

@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Georg Lukas
+    affiliation:
+    - organization:
+        email:
+        - georg@op-co.de
+        name:
+        - language: en
 language:
 - en
 script:

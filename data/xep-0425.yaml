@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: JC Brand
+    affiliation:
+    - organization:
+        email:
+        - jc@opkode.com
+        name:
+        - language: en
 language:
 - en
 script:

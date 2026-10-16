@@ -38,6 +38,12 @@ contributor:
       completename:
         language: en
         content: Ben Langfeld
+    affiliation:
+    - organization:
+        email:
+        - ben@langfeld.me
+        name:
+        - language: en
 language:
 - en
 script:
