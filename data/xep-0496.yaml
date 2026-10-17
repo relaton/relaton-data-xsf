@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Jérôme Poisson
-    affiliation:
-    - organization:
-        email:
-        - goffi@goffi.org
-        name:
-        - language: en
 language:
 - en
 script:

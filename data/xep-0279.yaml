@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Peter Saint-Andre
-    affiliation:
-    - organization:
-        email:
-        - stpeter@stpeter.im
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Diana Cionoiu
-    affiliation:
-    - organization:
-        email:
-        - diana@null.ro
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -86,12 +74,6 @@ contributor:
       completename:
         language: en
         content: Thiago Camargo
-    affiliation:
-    - organization:
-        email:
-        - thiago@xmppjingle.com
-        name:
-        - language: en
 language:
 - en
 script:

@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Matthew Wild
-    affiliation:
-    - organization:
-        email:
-        - mwild1@gmail.com
-        name:
-        - language: en
 language:
 - en
 script:

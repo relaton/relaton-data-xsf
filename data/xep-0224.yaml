@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Andreas Monitzer
-    affiliation:
-    - organization:
-        email:
-        - andy@monitzer.com
-        name:
-        - language: en
 language:
 - en
 script:

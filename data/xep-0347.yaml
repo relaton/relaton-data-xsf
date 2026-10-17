@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Peter Waher
-    affiliation:
-    - organization:
-        email:
-        - peterwaher@hotmail.com
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Ronny Klauck
-    affiliation:
-    - organization:
-        email:
-        - rklauck@informatik.tu-cottbus.de
-        name:
-        - language: en
 language:
 - en
 script:

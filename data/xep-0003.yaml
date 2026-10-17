@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Jeremie Miller
-    affiliation:
-    - organization:
-        email:
-        - jer@jabber.org
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Ryan Eatmon
-    affiliation:
-    - organization:
-        email:
-        - reatmon@jabber.org
-        name:
-        - language: en
 language:
 - en
 script:

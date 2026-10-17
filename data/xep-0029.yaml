@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Craig Kaes
-    affiliation:
-    - organization:
-        email:
-        - craigk@jabber.com
-        name:
-        - language: en
 language:
 - en
 script:

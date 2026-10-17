@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Paul Lloyd
-    affiliation:
-    - organization:
-        email:
-        - paul_lloyd@hp.com
-        name:
-        - language: en
 language:
 - en
 script:

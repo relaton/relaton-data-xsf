@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Florian Schmaus
-    affiliation:
-    - organization:
-        email:
-        - flo@geekplace.eu
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Dominik Schürmann
-    affiliation:
-    - organization:
-        email:
-        - dominik@dominikschuermann.de
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -86,12 +74,6 @@ contributor:
       completename:
         language: en
         content: Vincent Breitmoser
-    affiliation:
-    - organization:
-        email:
-        - look@my.amazin.horse
-        name:
-        - language: en
 language:
 - en
 script:

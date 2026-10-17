@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Marvin Wißfeld
-    affiliation:
-    - organization:
-        email:
-        - xmpp@larma.de
-        name:
-        - language: en
 language:
 - en
 script:

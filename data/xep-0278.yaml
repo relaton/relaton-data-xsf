@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Thiago Camargo
-    affiliation:
-    - organization:
-        email:
-        - thiago@xmppjingle.com
-        name:
-        - language: en
 language:
 - en
 script:

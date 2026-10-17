@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Richard Dobson
-    affiliation:
-    - organization:
-        email:
-        - richard@dobson-i.net
-        name:
-        - language: en
 language:
 - en
 script:

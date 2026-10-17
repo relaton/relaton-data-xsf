@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Andreas Straub
-    affiliation:
-    - organization:
-        email:
-        - andy@strb.org
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Daniel Gultsch
-    affiliation:
-    - organization:
-        email:
-        - daniel@gultsch.de
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -86,12 +74,6 @@ contributor:
       completename:
         language: en
         content: Tim Henkes
-    affiliation:
-    - organization:
-        email:
-        - me@syndace.dev
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -110,12 +92,6 @@ contributor:
       completename:
         language: en
         content: Klaus Herberth
-    affiliation:
-    - organization:
-        email:
-        - ''
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -134,12 +110,6 @@ contributor:
       completename:
         language: en
         content: Paul Schaub
-    affiliation:
-    - organization:
-        email:
-        - vanitasvitae@riseup.net
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -158,12 +128,6 @@ contributor:
       completename:
         language: en
         content: Marvin Wißfeld
-    affiliation:
-    - organization:
-        email:
-        - xmpp@larma.de
-        name:
-        - language: en
 language:
 - en
 script:

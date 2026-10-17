@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Sam Whited
-    affiliation:
-    - organization:
-        email:
-        - sam@samwhited.com
-        name:
-        - language: en
 language:
 - en
 script:

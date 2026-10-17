@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Lance Stout
-    affiliation:
-    - organization:
-        email:
-        - lance@andyet.com
-        name:
-        - language: en
 language:
 - en
 script:

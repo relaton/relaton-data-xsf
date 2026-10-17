@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Marcus Lundblad
-    affiliation:
-    - organization:
-        email:
-        - ml@update.uu.se
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Lance Stout
-    affiliation:
-    - organization:
-        email:
-        - lance@andyet.com
-        name:
-        - language: en
 language:
 - en
 script:

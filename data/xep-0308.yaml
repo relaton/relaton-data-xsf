@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Kevin Smith
-    affiliation:
-    - organization:
-        email:
-        - kevin@kismith.co.uk
-        name:
-        - language: en
 language:
 - en
 script:

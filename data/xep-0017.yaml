@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Mike Lin
-    affiliation:
-    - organization:
-        email:
-        - mikelin@mit.edu
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Julian Missig
-    affiliation:
-    - organization:
-        email:
-        - julian@jabber.org
-        name:
-        - language: en
 language:
 - en
 script:

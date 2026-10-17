@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Peter Saint-Andre
-    affiliation:
-    - organization:
-        email:
-        - stpeter@stpeter.im
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Will Kamishlian
-    affiliation:
-    - organization:
-        email:
-        - will@will-k.com
-        name:
-        - language: en
 language:
 - en
 script:

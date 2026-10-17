@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Adam Theo
-    affiliation:
-    - organization:
-        email:
-        - theo@theoretic.com
-        name:
-        - language: en
 language:
 - en
 script:

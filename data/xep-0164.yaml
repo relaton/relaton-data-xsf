@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Daniel Henninger
-    affiliation:
-    - organization:
-        email:
-        - jadestorm@nc.rr.com
-        name:
-        - language: en
 language:
 - en
 script:

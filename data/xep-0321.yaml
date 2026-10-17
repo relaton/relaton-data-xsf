@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Sergey Dobrov
-    affiliation:
-    - organization:
-        email:
-        - binary@jrudevels.org
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Jan Kaluža
-    affiliation:
-    - organization:
-        email:
-        - hanzz.k@gmail.com
-        name:
-        - language: en
 language:
 - en
 script:

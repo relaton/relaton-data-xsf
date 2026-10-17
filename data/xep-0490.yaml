@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Daniel Gultsch
-    affiliation:
-    - organization:
-        email:
-        - daniel@gultsch.de
-        name:
-        - language: en
 language:
 - en
 script:

@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Lucas Nussbaum
-    affiliation:
-    - organization:
-        email:
-        - lucas@lucas-nussbaum.net
-        name:
-        - language: en
 language:
 - en
 script:

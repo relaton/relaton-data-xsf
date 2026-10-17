@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Boyd Fletcher
-    affiliation:
-    - organization:
-        email:
-        - boyd.fletcher@us.army.mil
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Daniel LaPrade
-    affiliation:
-    - organization:
-        email:
-        - dlaprade@echostorm.net
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -86,12 +74,6 @@ contributor:
       completename:
         language: en
         content: Keith Lirette
-    affiliation:
-    - organization:
-        email:
-        - keith.lirette@tridsys.com
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -110,12 +92,6 @@ contributor:
       completename:
         language: en
         content: Brian Raymond
-    affiliation:
-    - organization:
-        email:
-        - braymond@echostorm.net
-        name:
-        - language: en
 language:
 - en
 script:

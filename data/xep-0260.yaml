@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Peter Saint-Andre
-    affiliation:
-    - organization:
-        email:
-        - stpeter@stpeter.im
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -62,12 +56,6 @@ contributor:
       completename:
         language: en
         content: Dirk Meyer
-    affiliation:
-    - organization:
-        email:
-        - dmeyer@tzi.de
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -86,12 +74,6 @@ contributor:
       completename:
         language: en
         content: Justin Karneges
-    affiliation:
-    - organization:
-        email:
-        - justin@karneges.com
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -110,12 +92,6 @@ contributor:
       completename:
         language: en
         content: Marcus Lundblad
-    affiliation:
-    - organization:
-        email:
-        - ml@update.uu.se
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -134,12 +110,6 @@ contributor:
       completename:
         language: en
         content: Tobias Markmann
-    affiliation:
-    - organization:
-        email:
-        - tobias.markmann@isode.com
-        name:
-        - language: en
 - role:
   - type: author
   person:
@@ -158,12 +128,6 @@ contributor:
       completename:
         language: en
         content: Klaus Hartke
-    affiliation:
-    - organization:
-        email:
-        - klaus.hartke@googlemail.com
-        name:
-        - language: en
 language:
 - en
 script:

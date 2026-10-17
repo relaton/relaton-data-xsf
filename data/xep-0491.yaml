@@ -38,12 +38,6 @@ contributor:
       completename:
         language: en
         content: Stephen Paul Weber
-    affiliation:
-    - organization:
-        email:
-        - singpolyma@singpolyma.net
-        name:
-        - language: en
 language:
 - en
 script:
