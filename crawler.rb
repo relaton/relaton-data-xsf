@@ -6,8 +6,6 @@ require 'relaton/xsf'
 require 'relaton/xsf/data_fetcher'
 require_relative 'build_index_v1'
 
-# Remove old files
-FileUtils.rm_rf('data')
 # Narrower than 'index*', which would also match a Ruby file named index*.rb
 # next to it -- the crawler would then delete its own source. relaton-data-bipm
 # hit that bug; spec/crawler_sources_spec.rb guards it here.
@@ -16,7 +14,9 @@ FileUtils.rm Dir.glob('index-v*.{yaml,zip}')
 # Run converters. Writes data/ and index-v2.yaml only: the XSF flavor stopped
 # writing index-v1. Nothing zips here -- relaton/support's shared crawler.yml
 # zips every index*.yaml that changed and commits the yaml and the zip together.
-Relaton::Xsf::DataFetcher.fetch
+# Incremental crawl: the fetcher skips byte-identical records and
+# prunes stale ones (relaton#328); an empty fetch prunes nothing.
+Relaton::Xsf::DataFetcher.fetch(prune: true)
 
 # Released relaton v2 consumers still read index-v1.zip from this branch, so
 # build it from the data/ the fetch just wrote. See build_index_v1.rb for why
