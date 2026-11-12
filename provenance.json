@@ -1,9 +1,9 @@
 {
   "repository": "relaton/relaton-data-xsf",
   "workflow": "Crawler",
-  "run_id": "40390071664",
+  "run_id": "43309710408",
   "run_attempt": "1",
-  "source_revision": "520640e6723f7969e812e4dd3a808943226279fe",
+  "source_revision": "6b1a3f5197c48b91ce17cd7656d1166887406964",
   "crawler": "bundle exec ruby crawler.rb",
-  "crawled_at": "2026-10-26T19:49:54Z"
+  "crawled_at": "2026-11-12T21:24:15Z"
 }

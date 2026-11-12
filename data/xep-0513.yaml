@@ -5,7 +5,7 @@ type: standard
 title:
 - language: en
   script: Latn
-  content: Explicit Mentions
+  content: Intentional Mention Markup
 source:
 - type: src
   content: http://xmpp.org/extensions/xep-0513.html
@@ -18,7 +18,7 @@ docidentifier:
 docnumber: XEP-0513
 date:
 - type: published
-  at: '2026-04-01'
+  at: '2026-11-03'
 contributor:
 - role:
   - type: author
