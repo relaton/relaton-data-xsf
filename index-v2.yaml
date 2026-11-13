@@ -2073,6 +2073,18 @@
   :file: data/xep-0518.yaml
 - :id:
     _type: pubid:xsf:xep
+    number: '0519'
+  :file: data/xep-0519.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0520'
+  :file: data/xep-0520.yaml
+- :id:
+    _type: pubid:xsf:xep
+    number: '0521'
+  :file: data/xep-0521.yaml
+- :id:
+    _type: pubid:xsf:xep
     number: README
   :file: data/xep-readme.yaml
 - :id:

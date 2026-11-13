@@ -1035,6 +1035,12 @@
   :file: data/xep-0517.yaml
 - :id: XEP 0518
   :file: data/xep-0518.yaml
+- :id: XEP 0519
+  :file: data/xep-0519.yaml
+- :id: XEP 0520
+  :file: data/xep-0520.yaml
+- :id: XEP 0521
+  :file: data/xep-0521.yaml
 - :id: XEP README
   :file: data/xep-readme.yaml
 - :id: XEP xxxx

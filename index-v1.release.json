@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "index": "index-v1",
+  "sha256": "5723a736a03e13d4af699f7a27236b89c357da8782f92f3f6e5b204ebdb82510",
+  "bytes": 2674,
+  "count": 523,
+  "generated": "2026-11-13T20:49:51Z",
+  "source_revision": "e26d68eebb9cb6be7705655b16f3635cf78736fb",
+  "run_id": "43504958581",
+  "repository": "relaton/relaton-data-xsf"
+}

@@ -1,0 +1,55 @@
+---
+id: XEP0520
+schema_version: v1.5.6
+type: standard
+title:
+- language: en
+  script: Latn
+  content: SASL2 Terms of Service Acceptance Task
+source:
+- type: src
+  content: http://xmpp.org/extensions/xep-0520.html
+- type: HTML
+  content: http://xmpp.org/extensions/xep-0520.html
+docidentifier:
+- content: XEP 0520
+  type: XEP
+  primary: true
+docnumber: XEP-0520
+date:
+- type: published
+  at: '2026-11-13'
+contributor:
+- role:
+  - type: author
+  person:
+    email:
+    - guus.der.kinderen@gmail.com
+    name:
+      forename:
+      - language: en
+        initial: G
+      formatted_initials:
+        language: en
+        content: G.
+      surname:
+        language: en
+        content: der Kinderen
+      completename:
+        language: en
+        content: Guus der Kinderen
+language:
+- en
+script:
+- Latn
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: XSF XEP
+  number: '0520'
+ext:
+  doctype:
+    content: rfc
+  flavor: xsf
